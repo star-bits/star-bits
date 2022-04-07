@@ -1,4 +1,4 @@
 Singularity, light elements, stars, heavier elements, Earth, humans, Giants, and Intelligence.
-- star-qbts@protonmail.com
+- [Email Address]
 - Kaggle [Kaggle Ranking]
 - Codeforces [Codeforces Rating]
