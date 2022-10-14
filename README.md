@@ -7,6 +7,6 @@ Singularity, light elements, stars, heavier elements, Earth, humans, Giants, and
 - [boostcampAI](https://github.com/star-bits/boostcampAI): 부스트캠프 AI Tech 학습 내용 정리
 - [all-seaing-eye](https://github.com/star-bits/all-seaing-eye): AI lookout at sea using Object Detection
 - [blog](https://github.com/star-bits/blog): blog
-  - [entropy](https://github.com/star-bits/blog/blob/main/entropy.md): ok, but what *is* entropy?
+  - [entropy](https://github.com/star-bits/blog/blob/main/entropy.md): expected information content (surprisal)
   - [optimizer](https://github.com/star-bits/blog/blob/main/optimizer.md): SGD, SGD with momentum, AdaGrad, RMSprop, Adam
 - [giftChatCounter](https://github.com/star-bits/giftChatCounter): 카톡 단톡방의 대화량과 기프티콘 선착순 선물하기를 쏘고 받은 횟수를 세어줍니다.
