@@ -12,5 +12,6 @@ Singularity, light elements, stars, heavier elements, Earth, humans, Giants, and
   - [sort](https://github.com/star-bits/blog/blob/main/sort.md): bubble, selection, insertion, merge, quick, heap, counting, radix
   - [backprop](https://github.com/star-bits/blog/blob/main/backprop.md): dL/dw, numerical gradient, backward propagation
   - [graph](https://github.com/star-bits/blog/blob/main/graph.md): traversal, shortest path, MST, topological sort
+  - [fastbook](https://github.com/star-bits/blog/blob/main/fastbook.md): notes taken from reading the fastai book
 - [giftChatCounter](https://github.com/star-bits/giftChatCounter): 카톡 단톡방의 대화량과 기프티콘 선착순 선물하기를 쏘고 받은 횟수를 세어줍니다.
 - [cf2000](https://github.com/star-bits/cf2000): Road to 2000
