@@ -16,7 +16,7 @@ Singularity, light elements, stars, heavier elements, Earth, humans, Giants, and
   - [linlog](https://github.com/star-bits/blog/blob/main/linlog.ipynb): linear regression and logistic regression with PyTorch
   - yoonlp: notes taken from reading 딥 러닝을 이용한 자연어 처리 입문
   - [mnist](https://github.com/star-bits/blog/blob/main/mnist.ipynb): MNIST classification with FC/CNN using NumPy/PyTorch
-  - ode: Ordinary Differential Equations
-  - pde: Partial Differential Equations
+  - ode: ordinary differential equations, eigenvalues, eigenvectors
+  - pde: partial differential equations, Fourier, Laplace
 - [giftChatCounter](https://github.com/star-bits/giftChatCounter): 카톡 단톡방의 대화량과 기프티콘 선착순 선물하기를 쏘고 받은 횟수를 세어줍니다.
 - [cf2000](https://github.com/star-bits/cf2000): Road to 2000
