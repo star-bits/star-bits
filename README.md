@@ -26,4 +26,4 @@ Singularity, light elements, stars, heavier elements, Earth, humans, Giants, and
   - hfrl: notes taken from taking the huggingface RL course
 - [giftChatCounter](https://github.com/star-bits/giftChatCounter): 카톡 단톡방의 대화량과 기프티콘 선착순 선물하기를 쏘고 받은 횟수를 세어줍니다.
 - [cf2000](https://github.com/star-bits/cf2000): Road to 2000
-- [chatClassifier](https://github.com/star-bits/chatClassifier): 문장만 보고 누가 쓴 건지 유추해보자 (SentencePiece, Multi-Kernel 1D CNN)
+- [chatClassifier](https://github.com/star-bits/chatClassifier): 문장만 보고 누가 쓴 건지 추측해보자 (SentencePiece, Multi-Kernel 1D CNN)
