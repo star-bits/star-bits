@@ -4,8 +4,10 @@ Singularity, light elements, stars, heavier elements, Earth, humans, Giants, and
 - Codeforces: [Codeforces Rating]
 ---
 - [giftMacro](https://github.com/star-bits/giftMacro): 카톡 단톡방 기프티콘 선착순 선물하기를 (거의) 항상 1등으로 받게 해주는 매크로
-- [boostcampAI](https://github.com/star-bits/boostcampAI): 부스트캠프 AI Tech 학습 내용 정리
+- [giftChatCounter](https://github.com/star-bits/giftChatCounter): 카톡 단톡방의 대화량과 기프티콘 선착순 선물하기를 쏘고 받은 횟수를 세어줍니다.
+- [chatClassifier](https://github.com/star-bits/chatClassifier): 문장만 보고 누가 쓴 건지 추측해보자 (SentencePiece, Multi-Kernel 1D CNN)
 - [all-seaing-eye](https://github.com/star-bits/all-seaing-eye): AI lookout at sea using MMDetection
+- [boostcampAI](https://github.com/star-bits/boostcampAI): 부스트캠프 AI Tech 학습 내용 정리
 - [blog](https://github.com/star-bits/blog): blog
   - [entropy](https://github.com/star-bits/blog/blob/main/entropy.md): expected information content (surprisal)
   - [optimizer](https://github.com/star-bits/blog/blob/main/optimizer.md): SGD, SGD with momentum, AdaGrad, RMSprop, Adam
@@ -24,6 +26,4 @@ Singularity, light elements, stars, heavier elements, Earth, humans, Giants, and
   - mathmlds: notes taken from taking the math for ML and DS course
   - kagglebook: notes taken from reading the kaggle book
   - hfrl: notes taken from taking the huggingface RL course
-- [giftChatCounter](https://github.com/star-bits/giftChatCounter): 카톡 단톡방의 대화량과 기프티콘 선착순 선물하기를 쏘고 받은 횟수를 세어줍니다.
 - [cf2000](https://github.com/star-bits/cf2000): Road to 2000
-- [chatClassifier](https://github.com/star-bits/chatClassifier): 문장만 보고 누가 쓴 건지 추측해보자 (SentencePiece, Multi-Kernel 1D CNN)
