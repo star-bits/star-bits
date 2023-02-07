@@ -11,12 +11,12 @@ Singularity, light elements, stars, heavier elements, Earth, humans, Giants, and
 - [blog](https://github.com/star-bits/blog): blog
   - [entropy](https://github.com/star-bits/blog/blob/main/entropy.md): expected information content (surprisal)
   - [optimizer](https://github.com/star-bits/blog/blob/main/optimizer.md): SGD, SGD with momentum, AdaGrad, RMSprop, Adam
-  - [sort](https://github.com/star-bits/blog/blob/main/sort.md): bubble, selection, insertion, merge, quick, heap, counting, radix
   - [backprop](https://github.com/star-bits/blog/blob/main/backprop.md): dL/dw, numerical gradient, backward propagation
+  - [sort](https://github.com/star-bits/blog/blob/main/sort.md): bubble, selection, insertion, merge, quick, heap, counting, radix
   - [graph](https://github.com/star-bits/blog/blob/main/graph.md): traversal, shortest path, MST, topological sort
-  - [fastbook](https://github.com/star-bits/blog/blob/main/fastbook.md): notes taken from reading the fastai book
   - [linlog](https://github.com/star-bits/blog/blob/main/linlog.ipynb): linear regression and logistic regression with PyTorch
   - [mnist](https://github.com/star-bits/blog/blob/main/mnist.ipynb): MNIST classification with FC/CNN using NumPy/PyTorch
+  - [fastbook](https://github.com/star-bits/blog/blob/main/fastbook.md): notes taken from reading the fastai book
   - [commands](https://github.com/star-bits/blog/blob/main/commands.md): terminal commands cheat sheet 
   - [regex](https://github.com/star-bits/blog/blob/main/regex.md): regular expression cheat sheet
   - yoonlp: notes taken from reading 딥 러닝을 이용한 자연어 처리 입문
