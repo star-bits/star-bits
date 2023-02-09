@@ -12,7 +12,7 @@ Singularity, light elements, stars, heavier elements, Earth, humans, Giants, and
   - [entropy](https://github.com/star-bits/blog/blob/main/entropy.md): expected information content (surprisal)
   - [optimizer](https://github.com/star-bits/blog/blob/main/optimizer.md): SGD, SGD with momentum, AdaGrad, RMSprop, Adam
   - [gradient](https://github.com/star-bits/blog/blob/main/gradient.md): dL/dw, numerical gradient, backward propagation
-  - backprop: backward propagation, step by step
+  - backprop: backward propagation, detailed step by step guide
   - [sort](https://github.com/star-bits/blog/blob/main/sort.md): bubble, selection, insertion, merge, quick, heap, counting, radix
   - [graph](https://github.com/star-bits/blog/blob/main/graph.md): traversal, shortest path, MST, topological sort
   - [linlog](https://github.com/star-bits/blog/blob/main/linlog.ipynb): linear regression and logistic regression with PyTorch
