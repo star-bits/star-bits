@@ -20,12 +20,12 @@ Singularity, light elements, stars, heavier elements, Earth, humans, Giants, and
   - [fastbook](https://github.com/star-bits/blog/blob/main/fastbook.md): notes from the fastai book
   - [commands](https://github.com/star-bits/blog/blob/main/commands.md): terminal commands cheat sheet 
   - [regex](https://github.com/star-bits/blog/blob/main/regex.md): regular expression cheat sheet
-  - yoonlp: RNN, LSTM, etc. from 딥 러닝을 이용한 자연어 처리 입문
+  - yoonlp: word2vec, RNNLM, etc. from 딥 러닝을 이용한 자연어 처리 입문
   - attention: 
   - ode: ordinary differential equations, eigenvalues, eigenvectors
   - pde: partial differential equations, Fourier and Laplace transforms
-  - kagglearn: notes taken from taking the kaggle learn course
-  - mathmlds: notes taken from taking the math for ML and DS course
-  - kagglebook: notes taken from reading the kaggle book
-  - hfrl: notes taken from taking the huggingface RL course
+  - kagglearn: notes from the kaggle learn course
+  - mathmlds: notes from the math for ML and DS specialization course
+  - kagglebook: notes from the kaggle book
+  - hfrl: notes from the huggingface RL course
 - [cf2000](https://github.com/star-bits/cf2000): Road to 2000
