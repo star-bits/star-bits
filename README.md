@@ -22,7 +22,7 @@ Singularity, light elements, stars, heavier elements, Earth, humans, Giants, and
   - [commands](https://github.com/star-bits/blog/blob/main/commands.md): terminal commands cheat sheet 
   - [regex](https://github.com/star-bits/blog/blob/main/regex.md): regular expression cheat sheet
   - [yoonlp](https://github.com/star-bits/blog/blob/main/yoonlp.md): Word2Vec, RNNLM, etc. from 딥 러닝을 이용한 자연어 처리 입문
-  - attention: seq2seq, Transformer
+  - [attention](https://github.com/star-bits/blog/blob/main/attention.md): seq2seq, Transformer
   - ode: ordinary differential equations, eigenvalues, eigenvectors
   - pde: partial differential equations, Fourier and Laplace transforms
   - kagglearn: notes from the kaggle learn course
