@@ -21,7 +21,7 @@ Singularity, light elements, stars, heavier elements, Earth, humans, Giants, and
   - [fastbook](https://github.com/star-bits/blog/blob/main/fastbook.md): notes from the fastai book
   - [commands](https://github.com/star-bits/blog/blob/main/commands.md): terminal commands cheat sheet 
   - [regex](https://github.com/star-bits/blog/blob/main/regex.md): regular expression cheat sheet
-  - [yoonlp](https://github.com/star-bits/blog/blob/main/yoonlp.md): NNLM, Word2Vec, etc. from 딥 러닝을 이용한 자연어 처리 입문
+  - [yoonlp](https://github.com/star-bits/blog/blob/main/yoonlp.md): NNLM, Word2Vec, BPE from 딥 러닝을 이용한 자연어 처리 입문
   - [attention](https://github.com/star-bits/blog/blob/main/attention.md): seq2seq, Transformer
   - wolfram-chatgpt: notes from Stephen Wolfram's writing on ChatGPT
   - ode: ordinary differential equations, eigenvalues, eigenvectors
