@@ -25,7 +25,7 @@ Singularity, light elements, stars, heavier elements, Earth, humans, Giants, and
   - [attention](https://github.com/star-bits/blog/blob/main/attention.md): seq2seq, Transformer
   - word2vec: Word2Vec implementation with PyTorch
   - transformer: transformer implementation with PyTorch
-  - wolfram-chatgpt: notes from Stephen Wolfram's writing on ChatGPT
+  - wolfram-chatgpt: notes from Stephen Wolfram's blog on ChatGPT
   - ode: ordinary differential equations, eigenvalues, eigenvectors
   - pde: partial differential equations, Fourier and Laplace transforms
   - kagglearn: notes from the kaggle learn course
