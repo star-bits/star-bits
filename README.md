@@ -22,6 +22,7 @@ Singularity, light elements, stars, heavier elements, Earth, humans, Giants, and
   - [commands](https://github.com/star-bits/blog/blob/main/commands.md): terminal commands cheat sheet 
   - [regex](https://github.com/star-bits/blog/blob/main/regex.md): regular expression cheat sheet
   - [yoonlp](https://github.com/star-bits/blog/blob/main/yoonlp.md): NNLM, Word2Vec, etc. from 딥 러닝을 이용한 자연어 처리 입문
+  - yoonlp-codes: Word2Vec, LSTM, 1D CNN, tokenizer, transformer
   - [attention](https://github.com/star-bits/blog/blob/main/attention.md): seq2seq, Transformer
   - word2vec: Word2Vec implementation with PyTorch
   - transformer: transformer implementation with PyTorch
