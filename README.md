@@ -34,3 +34,8 @@ Singularity, light elements, stars, heavier elements, Earth, humans, Giants, and
   - hfrl: notes from the huggingface RL course
 - [cf2000](https://github.com/star-bits/cf2000): Road to 2000
 - [kichATwear](https://github.com/star-bits/kichATwear): A Wear OS watch face inspired by linux terminal aesthetics.
+- sparta-coding-club: 스파르타코딩클럽
+  - web
+  - sql
+  - app
+  - game
