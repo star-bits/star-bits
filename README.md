@@ -8,7 +8,6 @@ Singularity, light elements, stars, heavier elements, Earth, humans, Giants, and
 - [chatClassifier](https://github.com/star-bits/chatClassifier): 문장만 보고 누가 쓴 건지 추측해보자 (SentencePiece, Multi-Kernel 1D CNN)
 - chatClassifier2: chatClassifier, but with character embedding, Word2Vec, transformer
 - [all-seaing-eye](https://github.com/star-bits/all-seaing-eye): AI lookout at sea using MMDetection
-- [boostcampAI](https://github.com/star-bits/boostcampAI): 부스트캠프 AI Tech 학습 내용 정리
 - [blog](https://github.com/star-bits/blog): blog
   - [entropy](https://github.com/star-bits/blog/blob/main/entropy.md): expected information content
   - [optimizer](https://github.com/star-bits/blog/blob/main/optimizer.md): SGD, SGD with momentum, AdaGrad, RMSprop, Adam
@@ -35,9 +34,10 @@ Singularity, light elements, stars, heavier elements, Earth, humans, Giants, and
   - hfrl: notes from the huggingface RL course
 - [cf2000](https://github.com/star-bits/cf2000): Road to 2000
   - [cf0000](https://github.com/star-bits/cf2000/blob/main/cf0000.ipynb)
-- [kichATwear](https://github.com/star-bits/kichATwear): A Wear OS watch face inspired by linux terminal aesthetics.
+- [boostcampAI](https://github.com/star-bits/boostcampAI): 부스트캠프 AI Tech 학습 내용 정리
 - sparta-coding-club: 스파르타코딩클럽
   - web
   - sql
   - app
   - game
+- [kichATwear](https://github.com/star-bits/kichATwear): A Wear OS watch face inspired by linux terminal aesthetics.
