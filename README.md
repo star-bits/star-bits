@@ -33,7 +33,8 @@ Singularity, light elements, stars, heavier elements, Earth, humans, Giants, and
   - mathmlds: notes from the math for ML and DS specialization course
   - kagglebook: notes from the kaggle book
   - hfrl: notes from the huggingface RL course
-- [cf2000](https://github.com/star-bits/cf2000): Road to 2000
+- cf2000: Road to 2000
+  - [cf0000](https://github.com/star-bits/cf2000/blob/main/cf0000.ipynb)
 - [kichATwear](https://github.com/star-bits/kichATwear): A Wear OS watch face inspired by linux terminal aesthetics.
 - sparta-coding-club: 스파르타코딩클럽
   - web
