@@ -30,7 +30,7 @@ Singularity, light elements, stars, heavier elements, Earth, humans, Giants, and
   - pde: partial differential equations, Fourier and Laplace transforms
   - kaggle-learn: notes from the kaggle learn course
   - mathmlds: notes from the math for ML and DS specialization course
-  - kagglebook: notes from the kaggle book
+  - kaggle-book: notes from the kaggle book
   - hfrl: notes from the huggingface RL course
 - [cf2000](https://github.com/star-bits/cf2000): Road to 2000
   - [cf0000](https://github.com/star-bits/cf2000/blob/main/cf0000.ipynb)
