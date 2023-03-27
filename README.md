@@ -28,7 +28,7 @@ Singularity, light elements, stars, heavier elements, Earth, humans, Giants, and
   - [wolfram-chatgpt](https://github.com/star-bits/blog/blob/main/wolfram-chatgpt.md): notes from Stephen Wolfram's blog on ChatGPT
   - ode: ordinary differential equations, eigenvalues and eigenvectors
   - pde: partial differential equations, Fourier and Laplace transforms
-  - kagglearn: notes from the kaggle learn course
+  - kaggle-learn: notes from the kaggle learn course
   - mathmlds: notes from the math for ML and DS specialization course
   - kagglebook: notes from the kaggle book
   - hfrl: notes from the huggingface RL course
