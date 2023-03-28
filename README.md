@@ -9,7 +9,7 @@ Singularity, light elements, stars, heavier elements, Earth, humans, Giants, and
 - chatClassifier2: chatClassifier, but with character embedding, Word2Vec, transformer
 - [all-seaing-eye](https://github.com/star-bits/all-seaing-eye): AI lookout at sea using MMDetection
 - [blog](https://github.com/star-bits/blog): blog
-  - [entropy](https://github.com/star-bits/blog/blob/main/entropy.md): expected information content
+  - [entropy](https://github.com/star-bits/blog/blob/main/entropy.md): expected amount of information/disorder in a system
   - [optimizer](https://github.com/star-bits/blog/blob/main/optimizer.md): SGD, SGD with momentum, AdaGrad, RMSprop, Adam
   - [gradient](https://github.com/star-bits/blog/blob/main/gradient.md): dL/dw, numerical gradient, backprop
   - [backprop](https://github.com/star-bits/blog/blob/main/backprop.md): backward propagation 
