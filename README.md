@@ -1,7 +1,7 @@
 Singularity, light elements, stars, heavier elements, Earth, humans, Giants, and Intelligence. 
-- [Email Address]
-- Kaggle: [Kaggle Ranking]
-- Codeforces: [Codeforces Rating]
+- star-bits@outlook.com
+- Kaggle [kaggle_ranking]
+- Codeforces [codeforces_rating]
 ---
 - [giftMacro](https://github.com/star-bits/giftMacro): 카톡 단톡방 기프티콘 선착순 선물하기를 (거의) 항상 1등으로 받게 해주는 매크로
 - [giftChatCounter](https://github.com/star-bits/giftChatCounter): 카톡 단톡방의 대화량과 기프티콘 선착순 선물하기를 쏘고 받은 횟수를 세어줍니다.
