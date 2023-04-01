@@ -36,7 +36,7 @@ Singularity, light elements, stars, heavier elements, Earth, humans, Giants, and
   - [cf0000](https://github.com/star-bits/cf2000/blob/main/cf0000.ipynb)
 - [boostcampAI](https://github.com/star-bits/boostcampAI): 부스트캠프 AI Tech 학습 내용 정리
 - sparta-coding-club: 스파르타코딩클럽
-  - web
+  - [web](https://github.com/star-bits/sparta-coding-club-web)
   - sql
   - app
   - game
