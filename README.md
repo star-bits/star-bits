@@ -39,3 +39,5 @@ Singularity, light elements, stars, heavier elements, Earth, humans, Giants, and
   - app
   - game
 - [kichATwear](https://github.com/star-bits/kichATwear): A Wear OS watch face inspired by linux terminal aesthetics.
+- [sort-into-subfolders](https://github.com/star-bits/sort-into-subfolders): Sort files by date created, date modified, content created (EXIF)
+
