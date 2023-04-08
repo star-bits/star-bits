@@ -33,6 +33,7 @@ Singularity, light elements, stars, heavier elements, Earth, humans, Giants, and
   - hfrl: notes from the huggingface RL course
 - [cf2000](https://github.com/star-bits/cf2000): Road to 2000
   - [cf0000](https://github.com/star-bits/cf2000/blob/main/cf0000.ipynb)
+- [todo](https://github.com/star-bits/todo/blob/main/README.md)
 - [boostcampAI](https://github.com/star-bits/boostcampAI): 부스트캠프 AI Tech 학습 내용 정리
 - sparta-coding-club: 스파르타코딩클럽
   - [web](https://github.com/star-bits/sparta-coding-club-web): index.html, <style>, <script>, app.py, Flask, MongoDB, GET, POST, bs4, AWS
