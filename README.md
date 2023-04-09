@@ -1,5 +1,4 @@
 Singularity, light elements, stars, heavier elements, Earth, humans, Giants, and Intelligence. 
-- star-bits@outlook.com
 - [giftMacro](https://github.com/star-bits/giftMacro): 카톡 단톡방 기프티콘 선착순 선물하기를 (거의) 항상 1등으로 받게 해주는 매크로
 - [giftChatCounter](https://github.com/star-bits/giftChatCounter): 카톡 단톡방의 대화량과 기프티콘 선착순 선물하기를 쏘고 받은 횟수를 세어줍니다.
 - [chatClassifier](https://github.com/star-bits/chatClassifier): 문장만 보고 누가 쓴 건지 추측해보자 (SentencePiece, Multi-Kernel 1D CNN)
