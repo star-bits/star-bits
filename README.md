@@ -14,9 +14,9 @@ Singularity, light elements, stars, heavier elements, Earth, humans, Giants, and
   - [graph](https://github.com/star-bits/blog/blob/main/graph.md): traversal, shortest path, MST, topological sort
   - [linlog](https://github.com/star-bits/blog/blob/main/linlog.ipynb): linear regression and logistic regression with PyTorch ⭐
   - [mnist](https://github.com/star-bits/blog/blob/main/mnist.ipynb): MNIST classification with FC/CNN using NumPy/PyTorch ⭐
-  - [fastbook](https://github.com/star-bits/blog/blob/main/fastbook.md): notes from the fastai book
   - [commands](https://github.com/star-bits/blog/blob/main/commands.md): terminal commands cheat sheet 
   - [regex](https://github.com/star-bits/blog/blob/main/regex.md): regular expression cheat sheet
+  - [fastbook](https://github.com/star-bits/blog/blob/main/fastbook.md): notes from the fastai book
   - [yoonlp](https://github.com/star-bits/blog/blob/main/yoonlp.md): NNLM, Word2Vec, etc. from 딥 러닝을 이용한 자연어 처리 입문
   - yoonlp-codes: Word2Vec, LSTM, 1D CNN, tokenizer, transformer
   - [attention](https://github.com/star-bits/blog/blob/main/attention.md): seq2seq, Transformer
