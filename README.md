@@ -5,7 +5,7 @@ Singularity, light elements, stars, heavier elements, Earth, humans, Giants, and
 - [chatClassifier2](https://github.com/star-bits/chatClassifier2): chatClassifier, but with tiktoken tokenizer from OpenAI
 - chatClassifier3: chatClassifier, but with character embedding, Word2Vec, transformer
 - [all-seaing-eye](https://github.com/star-bits/all-seaing-eye): AI lookout at sea using MMDetection
-- [ui-time](https://github.com/star-bits/ui-time): App that displays a 15-minute countdown timer in the macOS menu bar
+- [ui-time](https://github.com/star-bits/ui-time): app that displays a 15-minute countdown timer in the macOS menu bar
 - [blog](https://github.com/star-bits/blog)
   - [entropy](https://github.com/star-bits/blog/blob/main/entropy.md): expected amount of surprisal/disorder in a system 
   - [optimizer](https://github.com/star-bits/blog/blob/main/optimizer.md): SGD, SGD with momentum, AdaGrad, RMSprop, Adam
