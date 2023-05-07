@@ -6,6 +6,7 @@ Singularity, light elements, stars, heavier elements, Earth, humans, Giants, and
 - chatClassifier3: chatClassifier, but with character embedding, Word2Vec, transformer
 - [all-seaing-eye](https://github.com/star-bits/all-seaing-eye): AI lookout at sea using MMDetection
 - [ui-time](https://github.com/star-bits/ui-time): App that displays a 15-minute countdown timer in the macOS menu bar
+- [eye-of-segmento-mac](https://github.com/star-bits/eye-of-segmento-mac): SAM on webcam and more
 - [blog](https://github.com/star-bits/blog)
   - [entropy](https://github.com/star-bits/blog/blob/main/entropy.md): expected amount of surprisal/disorder in a system 
   - [optimizer](https://github.com/star-bits/blog/blob/main/optimizer.md): SGD, SGD with momentum, AdaGrad, RMSprop, Adam
