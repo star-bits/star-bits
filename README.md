@@ -4,7 +4,7 @@ Singularity, light elements, stars, heavier elements, Earth, humans, Giants, and
 - [chatClassifier](https://github.com/star-bits/chatClassifier): 문장만 보고 누가 쓴 건지 추측해보자 (SentencePiece, Multi-Kernel 1D CNN)
 - [chatClassifier2](https://github.com/star-bits/chatClassifier2): chatClassifier, but with tiktoken tokenizer from OpenAI
 - chatClassifier3: chatClassifier, but with character embedding, Word2Vec, transformer
-- [eye-of-segmento-mac](https://github.com/star-bits/eye-of-segmento-mac): image segmentation and classification on webcam input
+- [eye-of-segmento-mac](https://github.com/star-bits/eye-of-segmento-mac): segment-anything and ConvNeXt on webcam input
 - [all-seaing-eye](https://github.com/star-bits/all-seaing-eye): AI lookout at sea using MMDetection
 - [ui-time](https://github.com/star-bits/ui-time): App that displays a 15-minute countdown timer in the macOS menu bar
 - [burgerkingevent-bot](https://github.com/star-bits/burgerkingevent-bot): 콰트로 맥시멈...이하생략 이벤트 매크로
