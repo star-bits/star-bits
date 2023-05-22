@@ -27,7 +27,7 @@ Singularity, light elements, stars, heavier elements, Earth, humans, Giants, and
   - [matplotlib-pyconkor22](https://github.com/star-bits/blog/blob/main/matplotlib-pyconkor22.ipynb): state-based vs. object-oriented
   - ode: ordinary differential equations, eigenvalues and eigenvectors
   - pde: partial differential equations, Fourier and Laplace transforms
-  - ed: electrodynamics overview
+  - em: electromagnetism overview
   - qm: quantum mechanics overview
   - kaggle-learn: notes from the kaggle learn course
   - mathmlds: notes from the math for ML and DS specialization course
