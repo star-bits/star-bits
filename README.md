@@ -25,6 +25,7 @@ Singularity, light elements, stars, heavier elements, Earth, humans, Giants, and
   - transformer: transformer implementation with PyTorch
   - [wolfram-chatgpt](https://github.com/star-bits/blog/blob/main/wolfram-chatgpt.md): notes from Stephen Wolfram's blog on ChatGPT
   - [matplotlib-pyconkor22](https://github.com/star-bits/blog/blob/main/matplotlib-pyconkor22.ipynb): state-based vs. object-oriented
+  - [network](https://github.com/star-bits/blog/blob/main/network.md)
   - ode: ordinary differential equations, eigenvalues and eigenvectors
   - pde: partial differential equations, Fourier and Laplace transforms
   - em: electromagnetism overview
