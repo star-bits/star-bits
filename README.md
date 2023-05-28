@@ -22,7 +22,7 @@ Singularity, light elements, stars, heavier elements, Earth, humans, Giants, and
   - [yoonlp](https://github.com/star-bits/blog/blob/main/yoonlp.md): NNLM, Word2Vec, etc. from 딥 러닝을 이용한 자연어 처리 입문
   - yoonlp-codes: Word2Vec, LSTM, 1D CNN, tokenizer, transformer
   - kaggle-learn: notes from the kaggle learn course
-  - transformer: attention
+  - transformer: attention mechanism
   - word2vec-pytorch: Word2Vec implementation with PyTorch
   - transformer-pytorch: transformer implementation with PyTorch
   - [wolfram-chatgpt](https://github.com/star-bits/blog/blob/main/wolfram-chatgpt.md): notes from Stephen Wolfram's blog on ChatGPT
