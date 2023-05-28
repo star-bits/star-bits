@@ -21,19 +21,22 @@ Singularity, light elements, stars, heavier elements, Earth, humans, Giants, and
   - [fastbook](https://github.com/star-bits/blog/blob/main/fastbook.md): notes from the fastai book
   - [yoonlp](https://github.com/star-bits/blog/blob/main/yoonlp.md): NNLM, Word2Vec, etc. from 딥 러닝을 이용한 자연어 처리 입문
   - yoonlp-codes: Word2Vec, LSTM, 1D CNN, tokenizer, transformer
-  - word2vec: Word2Vec implementation with PyTorch
-  - transformer: transformer implementation with PyTorch
+  - kaggle-learn: notes from the kaggle learn course
+  - transformer: attention
+  - word2vec-pytorch: Word2Vec implementation with PyTorch
+  - transformer-pytorch: transformer implementation with PyTorch
   - [wolfram-chatgpt](https://github.com/star-bits/blog/blob/main/wolfram-chatgpt.md): notes from Stephen Wolfram's blog on ChatGPT
   - [matplotlib-pyconkor22](https://github.com/star-bits/blog/blob/main/matplotlib-pyconkor22.ipynb): state-based vs. object-oriented
-  - [utf-8](https://github.com/star-bits/blog/blob/main/utf-8.md): URL encoding, UTF-8
+  - [utf-8](https://github.com/star-bits/blog/blob/main/utf-8.md): UTF-8 and URL encoding
   - [network](https://github.com/star-bits/blog/blob/main/network.md): HTTP, DNS, IP, TCP, CDN, TLS, request, response
   - ode: ordinary differential equations, eigenvalues and eigenvectors
   - pde: partial differential equations, Fourier and Laplace transforms
   - em: electromagnetism overview
   - qm: quantum mechanics overview
-  - kaggle-learn: notes from the kaggle learn course
   - mathmlds: notes from the math for ML and DS specialization course
+  - mls: notes from the machine learning specialization course
   - hfrl: notes from the huggingface RL course
+  - csnote: notes from 면접을 위한 CS 전공지식 노트
 - [cf2000](https://github.com/star-bits/cf2000): Road to 2000
   - [classics](https://github.com/star-bits/cf2000/blob/main/classics.ipynb) ⭐
   - [koi](https://github.com/star-bits/cf2000/blob/main/koi.ipynb)
