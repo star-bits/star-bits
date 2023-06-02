@@ -49,4 +49,4 @@ Singularity, light elements, stars, heavier elements, Earth, humans, Giants, and
 - [kichATwear](https://github.com/star-bits/kichATwear): A Wear OS watch face inspired by linux terminal aesthetics.
 - [sort-into-subfolders](https://github.com/star-bits/sort-into-subfolders): Sort files by date created, date modified, content created (EXIF)
 - Quickstart guide for running...
-  - [llama.cpp](https://github.com/star-bits/llama.cpp), [whisper.cpp](https://github.com/star-bits/whisper.cpp), [ThreeBodyBot](https://github.com/star-bits/ThreeBodyBot), [pdfGPT](https://github.com/star-bits/pdfGPT)
+  - [llama.cpp](https://github.com/star-bits/llama.cpp), [llama.ggmlv3.cpp](https://github.com/star-bits/llama.ggmlv3.cpp), [whisper.cpp](https://github.com/star-bits/whisper.cpp), [ThreeBodyBot](https://github.com/star-bits/ThreeBodyBot), [pdfGPT](https://github.com/star-bits/pdfGPT)
