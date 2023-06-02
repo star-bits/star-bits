@@ -10,7 +10,7 @@ Singularity, light elements, stars, heavier elements, Earth, humans, Giants, and
 - [ui-time](https://github.com/star-bits/ui-time): App that displays a 15-minute countdown timer in the macOS menu bar
 - [burgerkingevent-bot](https://github.com/star-bits/burgerkingevent-bot): 콰트로 맥시멈...이하 생략 이벤트 매크로
 - [gmarket-taja-game-bot](https://github.com/star-bits/gmarket-taja-game-bot): G마켓 타자왕 이벤트 매크로
-- [blog](https://github.com/star-bits/blog)
+- blog: blog
   - [entropy](https://github.com/star-bits/blog/blob/main/entropy.md): expected amount of surprisal/disorder in a system 
   - [optimizer](https://github.com/star-bits/blog/blob/main/optimizer.md): SGD, SGD with momentum, AdaGrad, RMSprop, Adam
   - [gradient](https://github.com/star-bits/blog/blob/main/gradient.md): dL/dw, numerical gradient, backprop ⭐
@@ -39,7 +39,7 @@ Singularity, light elements, stars, heavier elements, Earth, humans, Giants, and
   - mls: notes from the machine learning specialization course
   - hfrl: notes from the huggingface RL course
   - csnote: notes from 면접을 위한 CS 전공지식 노트
-- [cf2000](https://github.com/star-bits/cf2000): Road to 2000
+- cf2000: Road to 2000
   - [classics](https://github.com/star-bits/cf2000/blob/main/classics.ipynb) ⭐
   - [koi](https://github.com/star-bits/cf2000/blob/main/koi.ipynb)
 - [boostcampAI](https://github.com/star-bits/boostcampAI): 부스트캠프 AI Tech 학습 내용 정리
