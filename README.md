@@ -33,8 +33,8 @@ Singularity, light elements, stars, heavier elements, Earth, humans, Giants, and
   - q4: 4-bit quantization and mixed precision
   - ode: ordinary differential equations, eigenvalues and eigenvectors
   - pde: partial differential equations, Fourier and Laplace transforms
-  - em: electromagnetism overview
-  - qm: quantum mechanics overview
+  - em: electromagnetism
+  - qm: quantum mechanics
   - mathmlds: notes from the math for ML and DS specialization course
   - mls: notes from the machine learning specialization course
   - hfrl: notes from the huggingface RL course
