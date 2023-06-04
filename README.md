@@ -21,11 +21,11 @@ Singularity, light elements, stars, heavier elements, Earth, humans, Giants, and
   - [regex](https://github.com/star-bits/blog/blob/main/regex.md): regular expression cheat sheet
   - [fastbook](https://github.com/star-bits/blog/blob/main/fastbook.md): notes from the fastai book
   - [yoonlp](https://github.com/star-bits/blog/blob/main/yoonlp.md): NNLM, Word2Vec, etc. from 딥 러닝을 이용한 자연어 처리 입문
-  - yoonlp-codes: Word2Vec, LSTM, 1D CNN, tokenizer, transformer
+  - yoonlp-codes: Word2Vec, LSTM, 1D CNN, tokenizer, Transformer
   - kaggle-learn: notes from the kaggle learn course
-  - transformer: transformer
+  - transformer: Transformer ⭐
   - word2vec-pytorch: Word2Vec implementation with PyTorch
-  - transformer-pytorch: transformer implementation with PyTorch
+  - transformer-pytorch: Transformer implementation with PyTorch
   - [wolfram-chatgpt](https://github.com/star-bits/blog/blob/main/wolfram-chatgpt.md): notes from Stephen Wolfram's blog on ChatGPT
   - [matplotlib-pyconkor22](https://github.com/star-bits/blog/blob/main/matplotlib-pyconkor22.ipynb): state-based vs. object-oriented
   - [utf-8](https://github.com/star-bits/blog/blob/main/utf-8.md): UTF-8 and URL encoding
