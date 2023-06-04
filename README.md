@@ -31,6 +31,7 @@ Singularity, light elements, stars, heavier elements, Earth, humans, Giants, and
   - [utf-8](https://github.com/star-bits/blog/blob/main/utf-8.md): UTF-8 and URL encoding
   - [network](https://github.com/star-bits/blog/blob/main/network.md): HTTP, DNS, IP, TCP, CDN, TLS, request, response
   - q4: 4-bit quantization and mixed precision
+  - csnote: notes from 면접을 위한 CS 전공지식 노트
   - ode: ordinary differential equations, eigenvalues and eigenvectors
   - pde: partial differential equations, Fourier and Laplace transforms
   - em: electromagnetism
@@ -38,7 +39,6 @@ Singularity, light elements, stars, heavier elements, Earth, humans, Giants, and
   - mathmlds: notes from the math for ML and DS specialization course
   - mls: notes from the machine learning specialization course
   - hfrl: notes from the huggingface RL course
-  - csnote: notes from 면접을 위한 CS 전공지식 노트
 - cf2000: Road to 2000
   - [classics](https://github.com/star-bits/cf2000/blob/main/classics.ipynb) ⭐
   - [koi](https://github.com/star-bits/cf2000/blob/main/koi.ipynb)
