@@ -1,9 +1,7 @@
 Singularity, light elements, stars, heavier elements, Earth, humans, Giants, and Intelligence. 
 - [giftMacro](https://github.com/star-bits/giftMacro): 카톡 단톡방 기프티콘 선착순 선물하기를 (거의) 항상 1등으로 받게 해주는 매크로
 - [giftChatCounter](https://github.com/star-bits/giftChatCounter): 카톡 단톡방의 대화량과 기프티콘 선착순 선물하기를 쏘고 받은 횟수를 세어줍니다.
-- [chatClassifier](https://github.com/star-bits/chatClassifier): 문장만 보고 누가 쓴 건지 추측해보자 (SentencePiece, Multi-Kernel 1D CNN)
-- [chatClassifier2](https://github.com/star-bits/chatClassifier2): chatClassifier, but with tiktoken tokenizer from OpenAI
-- [chatClassifier3](https://github.com/star-bits/chatClassifier3): chatClassifier, but with Word2Vec and Transformer
+- [chatClassifier3](https://github.com/star-bits/chatClassifier3): 문장만 보고 누가 쓴 건지 추측해보자 (Word2Vec, CNN, LSTM, Transformer)
 - [eye-of-segmento](https://github.com/star-bits/eye-of-segmento): segment-anything and ConvNeXt on webcam input
 - [all-seaing-eye](https://github.com/star-bits/all-seaing-eye): AI lookout at sea using MMDetection
 - [prettyURL](https://github.com/star-bits/prettyURL): Click the extension icon to copy human readable URL.
