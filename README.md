@@ -23,10 +23,11 @@ Singularity, light elements, stars, heavier elements, Earth, humans, Giants, and
   - [yoonlp-codes](https://github.com/star-bits/blog/blob/main/yoonlp-codes.ipynb): Word2Vec, LSTM, 1D CNN, tokenizer, Transformer
   - transformer: Transformer ⭐
   - transformer-pytorch: Transformer implementation with PyTorch
-  - [wolfram-chatgpt](https://github.com/star-bits/blog/blob/main/wolfram-chatgpt.md): notes from Stephen Wolfram's blog on ChatGPT
+  - [wolfram-chatgpt](https://github.com/star-bits/blog/blob/main/wolfram-chatgpt.md): notes from Wolfram's writing on ChatGPT
   - [matplotlib-pyconkor22](https://github.com/star-bits/blog/blob/main/matplotlib-pyconkor22.ipynb): state-based vs. object-oriented
   - [utf-8](https://github.com/star-bits/blog/blob/main/utf-8.md): UTF-8 and URL encoding
   - [network](https://github.com/star-bits/blog/blob/main/network.md): HTTP, DNS, IP, TCP, CDN, TLS, request, response
+  - [karpathy-sogpt](): notes from Karpathy's talk on the state of GPT
   - q4: 4-bit quantization and mixed precision
   - kaggle-learn: notes from the kaggle learn course
   - csnote: notes from 면접을 위한 CS 전공지식 노트
