@@ -19,14 +19,14 @@ Singularity, light elements, stars, heavier elements, Earth, humans, Giants, and
   - [commands](https://github.com/star-bits/blog/blob/main/commands.md): terminal commands cheat sheet 
   - [regex](https://github.com/star-bits/blog/blob/main/regex.md): regular expression cheat sheet
   - [fastbook](https://github.com/star-bits/blog/blob/main/fastbook.md): notes from the fastai book
-  - [yoonlp](https://github.com/star-bits/blog/blob/main/yoonlp.md): NNLM, Word2Vec, etc. from 딥 러닝을 이용한 자연어 처리 입문
+  - [yoonlp](https://github.com/star-bits/blog/blob/main/yoonlp.md): NNLM, Word2Vec from 딥 러닝을 이용한 자연어 처리 입문
   - [yoonlp-codes](https://github.com/star-bits/blog/blob/main/yoonlp-codes.ipynb): Word2Vec, LSTM, 1D CNN, tokenizer, Transformer
   - transformer: Transformer ⭐
   - transformer-pytorch: Transformer implementation with PyTorch
   - [wolfram-chatgpt](https://github.com/star-bits/blog/blob/main/wolfram-chatgpt.md): notes from Wolfram's writing on ChatGPT
   - [matplotlib-pyconkor22](https://github.com/star-bits/blog/blob/main/matplotlib-pyconkor22.ipynb): state-based vs. object-oriented
   - [utf-8](https://github.com/star-bits/blog/blob/main/utf-8.md): UTF-8 and URL encoding
-  - [network](https://github.com/star-bits/blog/blob/main/network.md): routers, frames, ARP, HTTP
+  - [network](https://github.com/star-bits/blog/blob/main/network.md): routers, frames, ARP, HTTP, IP addresses
   - [karpathy-sogpt](https://github.com/star-bits/blog/blob/main/karpathy-sogpt.md): notes from Karpathy's talk on the state of GPT
   - [q4](https://github.com/star-bits/blog/blob/main/q4.md): 4-bit quantization
   - kaggle-learn: notes from the kaggle learn course
