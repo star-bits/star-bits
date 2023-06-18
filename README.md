@@ -37,7 +37,7 @@ Singularity, light elements, stars, heavier elements, Earth, humans, Giants, and
   - pde: partial differential equations, Fourier and Laplace transforms
   - em: electromagnetism
   - qm: quantum mechanics
-  - mathmlds: notes from the math for ML and DS specialization course
+  - mathmlds: notes from the math for ML and DS course
   - mls: notes from the machine learning specialization course
   - hfrl: notes from the huggingface RL course
 - cf2000: Road to 2000
