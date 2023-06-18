@@ -32,7 +32,7 @@ Singularity, light elements, stars, heavier elements, Earth, humans, Giants, and
   - kaggle-learn: notes from the kaggle learn course
   - csnote: notes from 면접을 위한 CS 전공지식 노트
   - self-learning-cs: notes from 혼자 공부하는 컴퓨터구조 & 운영체제
-  - m1: cisc, risc, m1
+  - m1: cisc, risc, and m1
   - ode: ordinary differential equations, eigenvalues and eigenvectors
   - pde: partial differential equations, Fourier and Laplace transforms
   - em: electromagnetism
