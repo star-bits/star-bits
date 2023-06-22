@@ -14,7 +14,7 @@ Singularity, light elements, stars, heavier elements, Earth, humans, Giants, and
 - \<subway-map-app>
 - \<static-website>
 - \<subfolder-mac-app>
-- \<str-thingy>
+- \<sdr-thingy>
 - [eye-of-segmento](https://github.com/star-bits/eye-of-segmento): segment-anything and ConvNeXt on webcam input
 - [all-seaing-eye](https://github.com/star-bits/all-seaing-eye): AI lookout at sea using MMDetection
 - [prettyURL](https://github.com/star-bits/prettyURL): Click the extension icon to copy human readable URL.
