@@ -7,9 +7,9 @@ Singularity, light elements, stars, heavier elements, Earth, humans, Giants, and
 - \<sd-lora>
 - \<sllm-lora>
 - \<kiosk-system>
-- pac-man: packet-manipulator, the web automation toolkit
+- pac-man: packet-manipulator, a web automation toolkit
 - \<body-temp-app>
-- chatterm
+- chatterm: terminal themed chat website
 - \<yolo-od-app>
 - \<subway-map-app>
 - \<static-website>
