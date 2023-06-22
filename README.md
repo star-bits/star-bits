@@ -5,7 +5,7 @@ Singularity, light elements, stars, heavier elements, Earth, humans, Giants, and
 - \<rl-pong>
 - \<rl-tetris>
 - \<sd-lora>
-- \<sllm-lora>
+- \<llama-lora>
 - \<kiosk-system>
 - pac-man: packet-manipulator, a web automation toolkit
 - \<body-temp-app>
