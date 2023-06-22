@@ -11,7 +11,7 @@ Singularity, light elements, stars, heavier elements, Earth, humans, Giants, and
 - \<body-temp-app>
 - chatterm
 - \<yolo-od-app>
-- \<metro-app>
+- \<subway-map-app>
 - \<static-website>
 - \<subfolder-mac-app>
 - \<str-thingy>
