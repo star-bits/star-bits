@@ -52,6 +52,7 @@ Singularity, light elements, stars, heavier elements, Earth, humans, Giants, and
   - mathmlds: notes from the math for ML and DS course
   - mls: notes from the machine learning specialization course
   - hfrl: notes from the huggingface RL course
+  - databookuw: notes from Data-Driven Science and Engineering
 - cf2000: Road to 2000
   - [classics](https://github.com/star-bits/cf2000/blob/main/classics.ipynb) ⭐
   - [koi](https://github.com/star-bits/cf2000/blob/main/koi.ipynb)
