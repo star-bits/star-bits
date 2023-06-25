@@ -15,6 +15,9 @@ Singularity, light elements, stars, heavier elements, Earth, humans, Giants, and
 - \<static-website>
 - \<subfolder-mac-app>
 - \<sdr-thingy>
+- \<yt-summarizer-chrome>
+- \<yt-summarizer-app>
+- \<yt-summarizer>
 - [eye-of-segmento](https://github.com/star-bits/eye-of-segmento): segment-anything and ConvNeXt on webcam input
 - [all-seaing-eye](https://github.com/star-bits/all-seaing-eye): AI lookout at sea using MMDetection
 - [prettyURL](https://github.com/star-bits/prettyURL): Click the extension icon to copy human readable URL.
