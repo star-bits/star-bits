@@ -33,7 +33,7 @@ Singularity, light elements, stars, heavier elements, Earth, humans, Giants, and
   - [mnist](https://github.com/star-bits/blog/blob/main/mnist.ipynb): MNIST classification with FC/CNN using NumPy/PyTorch ⭐
   - [commands](https://github.com/star-bits/blog/blob/main/commands.md): terminal commands cheat sheet 
   - [regex](https://github.com/star-bits/blog/blob/main/regex.md): regular expression cheat sheet
-  - [fastbook](https://github.com/star-bits/blog/blob/main/fastbook.md): notes from the fastai book
+  - [fastbook](https://github.com/star-bits/blog/blob/main/fastbook.md): notes from the fastai book ⭐
   - [yoonlp](https://github.com/star-bits/blog/blob/main/yoonlp.md): NNLM, Word2Vec from 딥 러닝을 이용한 자연어 처리 입문
   - [yoonlp-codes](https://github.com/star-bits/blog/blob/main/yoonlp-codes.ipynb): Word2Vec, LSTM, 1D CNN, tokenizer, Transformer
   - [transformer](https://github.com/star-bits/blog/blob/main/transformer.md): Transformer ⭐
@@ -42,7 +42,7 @@ Singularity, light elements, stars, heavier elements, Earth, humans, Giants, and
   - [matplotlib-pyconkor22](https://github.com/star-bits/blog/blob/main/matplotlib-pyconkor22.ipynb): state-based vs. object-oriented
   - [utf-8](https://github.com/star-bits/blog/blob/main/utf-8.md): UTF-8 and URL encoding
   - [network](https://github.com/star-bits/blog/blob/main/network.md): router, frame, DHCP, NAT, ARP
-  - [karpathy-sogpt](https://github.com/star-bits/blog/blob/main/karpathy-sogpt.md): notes from Karpathy's talk on the state of GPT
+  - [karpathy-sogpt](https://github.com/star-bits/blog/blob/main/karpathy-sogpt.md): notes from Karpathy's talk on the state of GPT ⭐
   - [q4](https://github.com/star-bits/blog/blob/main/q4.md): 4-bit quantization
   - kaggle-learn: notes from the kaggle learn course
   - csnote: notes from 면접을 위한 CS 전공지식 노트
