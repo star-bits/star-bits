@@ -7,7 +7,7 @@ Singularity, light elements, stars, heavier elements, Earth, humans, Giants, and
 - \<sd-lora>
 - \<llama-lora>
 - \<kiosk-system>
-- \<web-automation>
+- [web-automation](https://github.com/star-bits/web-automation)
 - \<body-temp-app>
 - chatterm: terminal themed chat website
 - \<yolo-od-app>
