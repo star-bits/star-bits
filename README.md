@@ -18,10 +18,10 @@ Singularity, light elements, stars, heavier elements, Earth, humans, Giants, and
 - \<yt-summarizer-chrome>
 - \<yt-summarizer-app>
 - \<yt-summarizer>
+- [ui-time](https://github.com/star-bits/ui-time): App that displays a 15-minute countdown timer in the macOS menu bar
+- [prettyURL](https://github.com/star-bits/prettyURL): Click the extension icon to copy human readable URL.
 - [eye-of-segmento](https://github.com/star-bits/eye-of-segmento): segment-anything and ConvNeXt on webcam input
 - [all-seaing-eye](https://github.com/star-bits/all-seaing-eye): AI lookout at sea using MMDetection
-- [prettyURL](https://github.com/star-bits/prettyURL): Click the extension icon to copy human readable URL.
-- [ui-time](https://github.com/star-bits/ui-time): App that displays a 15-minute countdown timer in the macOS menu bar
 - [burgerkingevent-bot](https://github.com/star-bits/burgerkingevent-bot): 콰트로 맥시멈...이하 생략 이벤트 매크로
 - [gmarket-taja-game-bot](https://github.com/star-bits/gmarket-taja-game-bot): G마켓 타자왕 이벤트 매크로
 - blog
