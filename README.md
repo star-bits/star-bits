@@ -44,7 +44,7 @@ Singularity, light elements, stars, heavier elements, Earth, humans, Giants, and
   - [network](https://github.com/star-bits/blog/blob/main/network.md): router, frame, DHCP, NAT, ARP
   - [karpathy-sogpt](https://github.com/star-bits/blog/blob/main/karpathy-sogpt.md): notes from Karpathy's talk on the state of GPT ⭐
   - [q4](https://github.com/star-bits/blog/blob/main/q4.md): 4-bit quantization
-  - quantum-of-everything: little bit of many things in physics ⭐
+  - quantum-of-everything: a little bit of many things about physics ⭐
   - kaggle-learn: notes from the kaggle learn course
   - csnote: notes from 면접을 위한 CS 전공지식 노트
   - self-learning-cs: notes from 혼자 공부하는 컴퓨터구조 & 운영체제
