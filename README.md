@@ -8,16 +8,14 @@ Singularity, light elements, stars, heavier elements, Earth, humans, Giants, and
 - \<llama-lora>
 - \<kiosk-system>
 - [web-automation](https://github.com/star-bits/web-automation)
-- \<body-temp-app>
+- \<body-temp-system>
 - chatterm: terminal themed chat website
-- \<yolo-od-app>
 - \<subway-map-app>
 - \<static-website>
 - \<subfolder-mac-app>
 - \<sdr-thingy>
 - \<yt-summarizer-chrome>
 - \<yt-summarizer-app>
-- \<yt-summarizer>
 - [ui-time](https://github.com/star-bits/ui-time): App that displays a 15-minute countdown timer in the macOS menu bar
 - [prettyURL](https://github.com/star-bits/prettyURL): Click the extension icon to copy human readable URL.
 - [eye-of-segmento](https://github.com/star-bits/eye-of-segmento): segment-anything and ConvNeXt on webcam input
@@ -57,8 +55,6 @@ Singularity, light elements, stars, heavier elements, Earth, humans, Giants, and
   - databookuw: notes from Data-Driven Science and Engineering
 - cf2000: Road to 2000
   - [classics](https://github.com/star-bits/cf2000/blob/main/classics.ipynb) ⭐
-  - koi
-  - leetcode
 - [boostcampAI](https://github.com/star-bits/boostcampAI): 부스트캠프 AI Tech 학습 내용 정리
 - sparta-coding-club: 스파르타코딩클럽
   - [web](https://github.com/star-bits/sparta-coding-club-web): index.html, <style>, <script>, app.py, Flask, MongoDB, GET, POST, bs4, AWS
