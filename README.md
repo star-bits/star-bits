@@ -33,12 +33,12 @@ Singularity, light elements, stars, heavier elements, Earth, humans, Giants, and
   - [linlog](https://github.com/star-bits/blog/blob/main/linlog.ipynb): linear regression and logistic regression with PyTorch ⭐
   - [mnist](https://github.com/star-bits/blog/blob/main/mnist.ipynb): MNIST classification with FC/CNN using NumPy/PyTorch ⭐
   - [optimizer](https://github.com/star-bits/blog/blob/main/optimizer.md): SGD, SGD with momentum, AdaGrad, RMSprop, Adam
-  - [yoonlp](https://github.com/star-bits/blog/blob/main/yoonlp.md): NNLM, Word2Vec from 딥 러닝을 이용한 자연어 처리 입문
+  - [yoonlp](https://github.com/star-bits/blog/blob/main/yoonlp.md): NNLM, Word2Vec from 딥 러닝을 이용한 자연어 처리 입문 ⭐
   - [yoonlp-codes](https://github.com/star-bits/blog/blob/main/yoonlp-codes.ipynb): Word2Vec, LSTM, 1D CNN, tokenizer, Transformer
   - [wolfram-chatgpt](https://github.com/star-bits/blog/blob/main/wolfram-chatgpt.md): notes from Wolfram's writing on ChatGPT
-  - [karpathy-sogpt](https://github.com/star-bits/blog/blob/main/karpathy-sogpt.md): notes from Karpathy's talk on the state of GPT
+  - [karpathy-sogpt](https://github.com/star-bits/blog/blob/main/karpathy-sogpt.md): notes from Karpathy's talk on the state of GPT ⭐
   - [transformer](https://github.com/star-bits/blog/blob/main/transformer.md): attention and nanoGPT ⭐
-  - [stable-diffusion](https://github.com/star-bits/blog/blob/main/stable-diffusion.md): (latent image)-(predicted noise), VAE, LoRA
+  - [stable-diffusion](https://github.com/star-bits/blog/blob/main/stable-diffusion.md): (latent image)-(predicted noise), VAE, LoRA ⭐
   - [q4](https://github.com/star-bits/blog/blob/main/q4.md): 4-bit quantization
   - kaggle-learn: notes from the kaggle learn course
   - [network](https://github.com/star-bits/blog/blob/main/network.md): router, frame, DHCP, NAT, ARP
