@@ -46,7 +46,7 @@ Singularity, light elements, stars, heavier elements, Earth, humans, Giants, and
   - [network](https://github.com/star-bits/blog/blob/main/network.md): router, frame, DHCP, NAT, ARP
   - [matplotlib-pyconkor22](https://github.com/star-bits/blog/blob/main/matplotlib-pyconkor22.ipynb): state-based vs. object-oriented
   - [utf-8](https://github.com/star-bits/blog/blob/main/utf-8.md): UTF-8 and URL encoding
-  - [nbym](https://github.com/star-bits/blog/blob/main/nbym.md): matrix shape in math, python, numpy
+  - [mbyn](https://github.com/star-bits/blog/blob/main/mbyn.md): matrix shape in math, python, numpy
   - self-learning-cs: notes from 혼자 공부하는 컴퓨터구조 & 운영체제
   - m1: CISC, RISC, and M1 chips
   - mathmlds: notes from the math for ML and DS course
