@@ -23,6 +23,8 @@ Singularity, light elements, stars, heavier elements, Earth, humans, Giants, and
 - [burgerkingevent-bot](https://github.com/star-bits/burgerkingevent-bot): 콰트로 맥시멈...이하 생략 이벤트 매크로
 - [gmarket-taja-game-bot](https://github.com/star-bits/gmarket-taja-game-bot): G마켓 타자왕 이벤트 매크로
 - blog
+  - [classics](https://github.com/star-bits/blog/blob/main/classics.ipynb): prime, fibonacci, factorial, sort, shortest path, MST ⭐
+  - [dp](https://github.com/star-bits/blog/blob/main/dp.md): accumulative programming
   - [commands](https://github.com/star-bits/blog/blob/main/commands.md): terminal commands cheat sheet 
   - [regex](https://github.com/star-bits/blog/blob/main/regex.md): regular expression cheat sheet
   - [entropy](https://github.com/star-bits/blog/blob/main/entropy.md): expected amount of surprisal/disorder in a system 
@@ -53,9 +55,6 @@ Singularity, light elements, stars, heavier elements, Earth, humans, Giants, and
   - databookuw: notes from Data-Driven Science and Engineering
   - ode: ordinary differential equations, eigenvalues and eigenvectors
   - pde: partial differential equations, Fourier and Laplace transforms
-- cf2000: Road to 2000
-  - [classics](https://github.com/star-bits/cf2000/blob/main/classics.ipynb): prime, fibonacci, factorial, sort, shortest path, MST ⭐
-  - [dp](https://github.com/star-bits/cf2000/blob/main/dp.md): accumulative programming
 - [boostcampAI](https://github.com/star-bits/boostcampAI): 부스트캠프 AI Tech 학습 내용 정리
 - sparta-coding-club: 스파르타코딩클럽
   - [web](https://github.com/star-bits/sparta-coding-club-web): index.html, <style>, <script>, app.py, Flask, MongoDB, GET, POST, bs4, AWS
