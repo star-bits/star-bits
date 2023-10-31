@@ -41,10 +41,10 @@ Singularity, light elements, stars, heavier elements, Earth, humans, Giants, and
   - [karpathy-sogpt](https://github.com/star-bits/blog/blob/main/karpathy-sogpt.md): notes from Karpathy's talk on the state of GPT ⭐
   - [transformer](https://github.com/star-bits/blog/blob/main/transformer.md): attention ⭐
   - [karpathy-nanogpt-lecture](https://github.com/star-bits/blog/blob/main/karpathy-nanogpt-lecture.ipynb): nanoGPT as in the lecture
-  - [karpathy-nanogpt-gpt2](): nanoGPT as GPT-2
+  - [karpathy-nanogpt-gpt2](https://github.com/star-bits/blog/blob/main/karpathy-nanogpt-gpt2.ipynb): nanoGPT as GPT-2
   - [stable-diffusion](https://github.com/star-bits/blog/blob/main/stable-diffusion.md): (latent image)-(predicted noise), conditioning ⭐
   - [stable-diffusion-webui](https://github.com/star-bits/blog/blob/main/stable-diffusion-webui.md): guide on Stable Diffusion web UI
-  - [stable-diffusion-webui-colab](): Stable Diffusion web UI on Colab
+  - [stable-diffusion-webui-colab](https://github.com/star-bits/blog/blob/main/stable-diffusion-webui-colab.ipynb): Stable Diffusion web UI on Colab
   - [q4](https://github.com/star-bits/blog/blob/main/q4.md): 4-bit quantization
   - kaggle-learn: notes from the kaggle learn course
   - [network](https://github.com/star-bits/blog/blob/main/network.md): router, frame, DHCP, NAT, ARP
