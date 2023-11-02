@@ -6,16 +6,16 @@ Singularity, light elements, stars, heavier elements, Earth, humans, Giants, and
 - rl-tetris
 - lora-sd
 - lora-llama
-- kiosk-ipad
+- sdr-esp32
 - [web-automation](https://github.com/star-bits/web-automation) 🚧
 - chatterm: terminal themed chat website
 - design-focused-static-website
+- kiosk-ipad
+- subway-map-app
+- contact-ios-widget
+- subfolder-mac-app
 - yt-summarizer-chrome
 - yt-summarizer-app
-- ios-contact-widget
-- subway-map-app
-- subfolder-mac-app
-- sdr-esp32
 - [ui-time](https://github.com/star-bits/ui-time): App that displays a 15-minute countdown timer in the macOS menu bar
 - [prettyURL](https://github.com/star-bits/prettyURL): Click the extension icon to copy human readable URL.
 - [eye-of-segmento](https://github.com/star-bits/eye-of-segmento): segment-anything and ConvNeXt on webcam input
