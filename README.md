@@ -37,6 +37,11 @@ Singularity, light elements, stars, heavier elements, Earth, humans, Giants, and
   - [optimizer](https://github.com/star-bits/blog/blob/main/optimizer.md): SGD, SGD with momentum, AdaGrad, RMSprop, Adam
   - [yoonlp](https://github.com/star-bits/blog/blob/main/yoonlp.md): NNLM, Word2Vec from 딥 러닝을 이용한 자연어 처리 입문 ⭐
   - [yoonlp-codes](https://github.com/star-bits/blog/blob/main/yoonlp-codes.ipynb): Word2Vec, LSTM, 1D CNN, tokenizer, Transformer
+  - [matplotlib-pyconkor22](https://github.com/star-bits/blog/blob/main/matplotlib-pyconkor22.ipynb): state-based vs. object-oriented
+  - [network](https://github.com/star-bits/blog/blob/main/network.md): router, frame, DHCP, NAT, ARP
+  - [utf-8](https://github.com/star-bits/blog/blob/main/utf-8.md): UTF-8 and URL encoding
+  - [q4](https://github.com/star-bits/blog/blob/main/q4.md): 4-bit quantization
+  - [mbyn](https://github.com/star-bits/blog/blob/main/mbyn.md): representation of m by n matrix in math, python, numpy
   - [wolfram-chatgpt](https://github.com/star-bits/blog/blob/main/wolfram-chatgpt.md): notes from Wolfram's writing on ChatGPT
   - [karpathy-sogpt](https://github.com/star-bits/blog/blob/main/karpathy-sogpt.md): notes from Karpathy's talk on the state of GPT ⭐
   - [transformer](https://github.com/star-bits/blog/blob/main/transformer.md): attention ⭐
@@ -45,12 +50,10 @@ Singularity, light elements, stars, heavier elements, Earth, humans, Giants, and
   - [stable-diffusion](https://github.com/star-bits/blog/blob/main/stable-diffusion.md): steering the noise predictor in latent space ⭐
   - [stable-diffusion-webui](https://github.com/star-bits/blog/blob/main/stable-diffusion-webui.md): guide on Stable Diffusion web UI
   - [stable-diffusion-webui-colab](https://github.com/star-bits/blog/blob/main/stable-diffusion-webui-colab.ipynb): Stable Diffusion web UI on Colab
-  - [q4](https://github.com/star-bits/blog/blob/main/q4.md): 4-bit quantization
+  - stable-diffusion-kohya-train-lora-colab: custom LoRA
+  - ip-adapter
+  - ip-adapter-colab
   - kaggle-learn: notes from the kaggle learn course
-  - [network](https://github.com/star-bits/blog/blob/main/network.md): router, frame, DHCP, NAT, ARP
-  - [matplotlib-pyconkor22](https://github.com/star-bits/blog/blob/main/matplotlib-pyconkor22.ipynb): state-based vs. object-oriented
-  - [utf-8](https://github.com/star-bits/blog/blob/main/utf-8.md): UTF-8 and URL encoding
-  - [mbyn](https://github.com/star-bits/blog/blob/main/mbyn.md): representation of m by n matrix in math, python, numpy
   - self-learning-cs: notes from 혼자 공부하는 컴퓨터구조 & 운영체제
   - m1: CISC, RISC, and M1 chips
   - mathmlds: notes from the math for ML and DS course
