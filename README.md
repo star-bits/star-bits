@@ -50,7 +50,7 @@ Singularity, light elements, stars, heavier elements, Earth, humans, Giants, and
   - [stable-diffusion](https://github.com/star-bits/blog/blob/main/stable-diffusion.md): steering the noise predictor in latent space ⭐
   - [stable-diffusion-webui](https://github.com/star-bits/blog/blob/main/stable-diffusion-webui.md): guide on Stable Diffusion web UI
   - [stable-diffusion-webui-colab](https://github.com/star-bits/blog/blob/main/stable-diffusion-webui-colab.ipynb): Stable Diffusion web UI on Colab
-  - stable-diffusion-kohya-train-lora-colab: custom LoRA
+  - [stable-diffusion-kohya-train-lora-colab](https://github.com/star-bits/blog/blob/main/stable-diffusion-kohya-train-lora-colab.ipynb): custom LoRA
   - ip-adapter
   - ip-adapter-colab
   - kaggle-learn: notes from the kaggle learn course
