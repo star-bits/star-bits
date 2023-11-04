@@ -51,8 +51,8 @@ Singularity, light elements, stars, heavier elements, Earth, humans, Giants, and
   - [stable-diffusion-webui](https://github.com/star-bits/blog/blob/main/stable-diffusion-webui.md): guide on Stable Diffusion web UI
   - [stable-diffusion-webui-colab](https://github.com/star-bits/blog/blob/main/stable-diffusion-webui-colab.ipynb): Stable Diffusion web UI on Colab
   - [stable-diffusion-kohya-colab](https://github.com/star-bits/blog/blob/main/stable-diffusion-kohya-colab.ipynb): train SD LoRA with kohya_ss
-  - ip-adapter
-  - ip-adapter-colab
+  - ip-adapter: image prompt using decoupled cross-attention
+  - ip-adapter-colab: ip-adapter with huggingface diffusers
   - kaggle-learn: notes from the kaggle learn course
   - self-learning-cs: notes from 혼자 공부하는 컴퓨터구조 & 운영체제
   - m1: CISC, RISC, and M1 chips
