@@ -54,10 +54,10 @@ Singularity, light elements, stars, heavier elements, Earth, humans, Giants, and
   - [ip-adapter](https://github.com/star-bits/blog/blob/main/ip-adapter.md): image prompt using decoupled cross-attention
   - ip-adapter-colab: ip-adapter with huggingface diffusers
   - kaggle-learn: notes from the kaggle learn course
+  - mls: notes from the machine learning specialization course
   - self-learning-cs: notes from 혼자 공부하는 컴퓨터구조 & 운영체제
   - m1: CISC, RISC, and M1 chips
   - mathmlds: notes from the math for ML and DS course
-  - mls: notes from the machine learning specialization course
   - hfrl: notes from the huggingface RL course
   - databookuw: notes from Data-Driven Science and Engineering
   - ode: ordinary differential equations, eigenvalues and eigenvectors
