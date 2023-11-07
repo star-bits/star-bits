@@ -7,7 +7,7 @@ Singularity, light elements, stars, heavier elements, Earth, humans, Giants, and
 - lora-sd
 - lora-llama
 - sdr-esp32
-- packet-manipulator: web-automation
+- pac-man: packet-manipulator - the web automation toolkit
 - chatterm: terminal themed chat website
 - design-focused-static-website
 - kiosk-ipad-app
