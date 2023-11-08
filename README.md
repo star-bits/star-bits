@@ -28,7 +28,7 @@ Singularity, light elements, stars, heavier elements, Earth, humans, Giants, and
   - [commands](https://github.com/star-bits/blog/blob/main/commands.md): terminal commands cheat sheet 
   - [regex](https://github.com/star-bits/blog/blob/main/regex.md): regular expression cheat sheet
   - [entropy](https://github.com/star-bits/blog/blob/main/entropy.md): expected amount of surprisal/disorder in a system 
-  - qoe: quantum of everything 
+  - [qoe](https://github.com/star-bits/blog/blob/main/qoe.md): quantum of everything 🚧
   - [gradient](https://github.com/star-bits/blog/blob/main/gradient.md): dL/dw, numerical gradient, backprop ⭐
   - [backprop](https://github.com/star-bits/blog/blob/main/backprop.md): backward propagation ⭐
   - [fastbook](https://github.com/star-bits/blog/blob/main/fastbook.md): notes from the fastai book ⭐
