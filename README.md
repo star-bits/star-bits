@@ -46,7 +46,7 @@ Singularity, light elements, stars, heavier elements, Earth, humans, Giants, and
   - [karpathy-sogpt](https://github.com/star-bits/blog/blob/main/karpathy-sogpt.md): notes from Karpathy's talk on the state of GPT ⭐
   - [transformer](https://github.com/star-bits/blog/blob/main/transformer.md): attention ⭐
   - [karpathy-nanogpt-lecture](https://github.com/star-bits/blog/blob/main/karpathy-nanogpt-lecture.ipynb): nanoGPT as in the lecture
-  - [karpathy-nanogpt-gpt2](https://github.com/star-bits/blog/blob/main/karpathy-nanogpt-gpt2.ipynb): nanoGPT as GPT-2 🚧
+  - [karpathy-nanogpt-gpt2](https://github.com/star-bits/blog/blob/main/karpathy-nanogpt-gpt2.ipynb): nanoGPT as GPT-2
   - [stable-diffusion](https://github.com/star-bits/blog/blob/main/stable-diffusion.md): steering the noise predictor in latent space ⭐
   - [stable-diffusion-webui](https://github.com/star-bits/blog/blob/main/stable-diffusion-webui.md): guide on Stable Diffusion web UI
   - [stable-diffusion-webui-colab](https://github.com/star-bits/blog/blob/main/stable-diffusion-webui-colab.ipynb): Stable Diffusion web UI on Colab
