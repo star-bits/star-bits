@@ -27,7 +27,7 @@ Singularity, light elements, stars, heavier elements, Earth, humans, Giants, and
   - [dp](https://github.com/star-bits/blog/blob/main/dp.md): accumulative computation 🚧
   - [commands](https://github.com/star-bits/blog/blob/main/commands.md): terminal commands cheat sheet 
   - [regex](https://github.com/star-bits/blog/blob/main/regex.md): regular expression cheat sheet
-  - [entropy](https://github.com/star-bits/blog/blob/main/entropy.md): average amount of disorder/unpredictability in a system ⭐
+  - [entropy](https://github.com/star-bits/blog/blob/main/entropy.md): average amount of disorder/surprisal in a system ⭐
   - [qoe](https://github.com/star-bits/blog/blob/main/qoe.md): quantum of everything 🚧
   - [gradient](https://github.com/star-bits/blog/blob/main/gradient.md): dL/dw, numerical gradient, backprop ⭐
   - [backprop](https://github.com/star-bits/blog/blob/main/backprop.md): backward propagation ⭐
