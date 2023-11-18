@@ -60,8 +60,6 @@ Singularity, light elements, stars, heavier elements, Earth, humans, Giants, and
   - mathmlds: notes from the math for ML and DS course
   - hfrl: notes from the huggingface RL course
   - databookuw: notes from Data-Driven Science and Engineering
-  - ode: ordinary differential equations, eigenvalues and eigenvectors
-  - pde: partial differential equations, Fourier and Laplace transforms
 - [boostcampAI](https://github.com/star-bits/boostcampAI): 부스트캠프 AI Tech 학습 내용 정리
 - sparta-coding-club: 스파르타코딩클럽
   - [web](https://github.com/star-bits/sparta-coding-club-web): index.html, <style>, <script>, app.py, Flask, MongoDB, GET, POST, bs4, AWS
