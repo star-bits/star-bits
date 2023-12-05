@@ -16,6 +16,7 @@ Singularity, light elements, stars, heavier elements, Earth, humans, Giants, and
 - yt-summarizer-chrome
 - yt-summarizer-app
 - contact-ios-widget
+- jjuproach-exterminator: 줌강/녹강 교수가 쩝쩝충일 때
 - [ui-time](https://github.com/star-bits/ui-time): App that displays a 15-minute countdown timer in the macOS menu bar
 - [prettyURL](https://github.com/star-bits/prettyURL): Click the extension icon to copy human readable URL.
 - [all-seaing-eye](https://github.com/star-bits/all-seaing-eye): AI lookout at sea using MMDetection
