@@ -56,7 +56,7 @@ Singularity, light elements, stars, heavier elements, Earth, humans, Giants, and
   - [ip-adapter-colab](https://github.com/star-bits/blog/blob/main/ip-adapter-colab.ipynb): ip-adapter with huggingface diffusers
   - [mls](https://github.com/star-bits/blog/blob/main/mls.md): notes from the Machine Learning Specialization course
   - titanic
-  - housing-price
+  - housing-prices
   - self-learning-cs: notes from 혼자 공부하는 컴퓨터구조 & 운영체제
   - m1: CISC, RISC, and M1 chips
   - mathmlds: notes from the math for ML and DS course
