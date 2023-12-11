@@ -54,7 +54,7 @@ Singularity, light elements, stars, heavier elements, Earth, humans, Giants, and
   - [stable-diffusion-kohya-colab](https://github.com/star-bits/blog/blob/main/stable-diffusion-kohya-colab.ipynb): train SD LoRA with kohya_ss
   - [ip-adapter](https://github.com/star-bits/blog/blob/main/ip-adapter.md): image prompt using decoupled cross-attention ⭐
   - [ip-adapter-colab](https://github.com/star-bits/blog/blob/main/ip-adapter-colab.ipynb): ip-adapter with huggingface diffusers
-  - [mls](https://github.com/star-bits/blog/blob/main/mls.md): notes from the Machine Learning Specialization course
+  - [mls](https://github.com/star-bits/blog/blob/main/mls.md): notes from the Machine Learning Specialization course ⭐
   - titanic
   - housing-prices
   - self-learning-cs: notes from 혼자 공부하는 컴퓨터구조 & 운영체제
