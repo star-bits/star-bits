@@ -2,9 +2,6 @@ Singularity, light elements, stars, heavier elements, Earth, humans, Giants, and
 - [giftMacro](https://github.com/star-bits/giftMacro): 카톡 단톡방 기프티콘 선착순 선물하기를 (거의) 항상 1등으로 받게 해주는 매크로
 - [giftChatCounter](https://github.com/star-bits/giftChatCounter): 카톡 단톡방의 대화량과 기프티콘 선착순 선물하기를 쏘고 받은 횟수를 세어줍니다.
 - [chatClassifier3](https://github.com/star-bits/chatClassifier3): 문장만 보고 누가 쓴 건지 추측해보자 (Word2Vec, CNN, LSTM, Transformer)
-- rl-pong
-- rl-tetris
-- lora-sd
 - lora-llama
 - sdr-esp32
 - pac-man: packet-manipulator, a web automation toolkit
@@ -57,11 +54,14 @@ Singularity, light elements, stars, heavier elements, Earth, humans, Giants, and
   - [mls](https://github.com/star-bits/blog/blob/main/mls.md): notes from the Machine Learning Specialization course ⭐
   - titanic
   - housing-prices
+  - hfrl: notes from the huggingface RL course
+  - rl-lunarlander
+  - rl-pong
+  - rl-tetris
   - self-learning-cs: notes from 혼자 공부하는 컴퓨터구조 & 운영체제
   - m1: CISC, RISC, and M1 chips
-  - mathmlds: notes from the math for ML and DS course
-  - hfrl: notes from the huggingface RL course
-  - databookuw: notes from Data-Driven Science and Engineering
+- coding-apple: 코딩애플
+  - nodejs
 - [boostcampAI](https://github.com/star-bits/boostcampAI): 부스트캠프 AI Tech 학습 내용 정리
 - sparta-coding-club: 스파르타코딩클럽
   - [web](https://github.com/star-bits/sparta-coding-club-web): index.html, <style>, <script>, app.py, Flask, MongoDB, GET, POST, bs4, AWS
