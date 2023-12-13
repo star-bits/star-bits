@@ -66,7 +66,7 @@ Singularity, light elements, stars, heavier elements, Earth, humans, Giants, and
 - sparta-coding-club: 스파르타코딩클럽
   - [web](https://github.com/star-bits/sparta-coding-club-web): index.html, <style>, <script>, app.py, Flask, MongoDB, GET, POST, bs4, AWS
   - [app](https://github.com/star-bits/sparta-coding-club-app): flutter, StatelessWidget, StatefulWidget, Provider, SharedPreferences, async
-- sogang: 서강
+- sogang: 서강대
   - cse3013: 컴퓨터공학설계및실험I (???, 2024-1)
 - [kichATwear](https://github.com/star-bits/kichATwear): A Wear OS watch face inspired by linux terminal aesthetics.
 - [sort-into-subfolders](https://github.com/star-bits/sort-into-subfolders): Sort files by date created, date modified, content created (EXIF)
