@@ -52,10 +52,10 @@ Singularity, light elements, stars, heavier elements, Earth, humans, Giants, and
   - [ip-adapter](https://github.com/star-bits/blog/blob/main/ip-adapter.md): image prompt using decoupled cross-attention ⭐
   - [ip-adapter-colab](https://github.com/star-bits/blog/blob/main/ip-adapter-colab.ipynb): ip-adapter with huggingface diffusers
   - [mls](https://github.com/star-bits/blog/blob/main/mls.md): notes from the Machine Learning Specialization course ⭐
+  - rl-lunarlander
   - titanic
   - housing-prices
   - hfrl: notes from the huggingface RL course
-  - rl-lunarlander
   - rl-pong
   - rl-tetris
   - self-learning-cs: notes from 혼자 공부하는 컴퓨터구조 & 운영체제
