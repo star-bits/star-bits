@@ -62,12 +62,12 @@ Singularity, light elements, stars, heavier elements, Earth, humans, Giants, and
   - m1: CISC, RISC, and M1 chips
 - codingapple
   - [nodejs](https://github.com/star-bits/codingapple-nodejs)
-- [boostcampAI](https://github.com/star-bits/boostcampAI): 부스트캠프 AI Tech 학습 내용 정리
 - sparta-coding-club
   - [web](https://github.com/star-bits/sparta-coding-club-web): index.html, <style>, <script>, app.py, Flask, MongoDB, GET, POST, bs4, AWS
   - [app](https://github.com/star-bits/sparta-coding-club-app): flutter, StatelessWidget, StatefulWidget, Provider, SharedPreferences, async
 - sogang
   - cse3013: 컴퓨터공학설계및실험I (???, 2024-1)
+- [boostcampAI](https://github.com/star-bits/boostcampAI): 부스트캠프 AI Tech 학습 내용 정리
 - [kichATwear](https://github.com/star-bits/kichATwear): A Wear OS watch face inspired by linux terminal aesthetics.
 - [sort-into-subfolders](https://github.com/star-bits/sort-into-subfolders): Sort files by date created, date modified, content created (EXIF)
 - Quickstart guide for running...
