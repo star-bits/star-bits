@@ -58,6 +58,7 @@ Singularity, light elements, stars, heavier elements, Earth, humans, Giants, and
   - hfrl: notes from the huggingface RL course
   - pong
   - tetris
+  - physics-informed: physics-informed neural networks
   - self-learning-cs: notes from 혼자 공부하는 컴퓨터구조 & 운영체제
   - m1: CISC, RISC, and M1 chips
 - codingapple
