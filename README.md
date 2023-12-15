@@ -51,12 +51,12 @@ Singularity, light elements, stars, heavier elements, Earth, humans, Giants, and
   - [ip-adapter-colab](https://github.com/star-bits/blog/blob/main/ip-adapter-colab.ipynb): ip-adapter with huggingface diffusers
   - [mls](https://github.com/star-bits/blog/blob/main/mls.md): notes from the Machine Learning Specialization course ⭐
   - lunarlander
+  - [physics-informed](https://github.com/star-bits/blog/blob/main/physics-informed.md): physics-informed neural networks
   - titanic
   - housing-prices
   - hfrl: notes from the huggingface RL course
   - pong
   - tetris
-  - physics-informed: physics-informed neural networks
   - self-learning-cs: notes from 혼자 공부하는 컴퓨터구조 & 운영체제
   - m1: CISC, RISC, and M1 chips
 - codingapple
