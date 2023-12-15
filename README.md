@@ -3,6 +3,7 @@ Singularity, light elements, stars, heavier elements, Earth, humans, Giants, and
 - [giftChatCounter](https://github.com/star-bits/giftChatCounter): 카톡 단톡방의 대화량과 기프티콘 선착순 선물하기를 쏘고 받은 횟수를 세어줍니다.
 - [chatClassifier3](https://github.com/star-bits/chatClassifier3): 문장만 보고 누가 쓴 건지 추측해보자 (Word2Vec, CNN, LSTM, Transformer)
 - tldr-machinegod: 세줄요약 기계신 - 유튭/링크 요약기
+- jjuproach-exterminator: 줌강/녹강 교수가 쩝쩝충일 때
 - subfolder-mac-app
 - contact-ios-widget
 - sdr-esp32
@@ -11,7 +12,6 @@ Singularity, light elements, stars, heavier elements, Earth, humans, Giants, and
 - design-focused-static-website
 - kiosk-ipad-app
 - subway-map-app
-- jjuproach-exterminator: 줌강/녹강 교수가 쩝쩝충일 때
 - [ui-time](https://github.com/star-bits/ui-time): App that displays a 15-minute countdown timer in the macOS menu bar
 - [prettyURL](https://github.com/star-bits/prettyURL): Click the extension icon to copy human readable URL.
 - [all-seaing-eye](https://github.com/star-bits/all-seaing-eye): AI lookout at sea using MMDetection
