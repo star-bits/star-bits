@@ -2,17 +2,15 @@ Singularity, light elements, stars, heavier elements, Earth, humans, Giants, and
 - [giftMacro](https://github.com/star-bits/giftMacro): 카톡 단톡방 기프티콘 선착순 선물하기를 (거의) 항상 1등으로 받게 해주는 매크로
 - [giftChatCounter](https://github.com/star-bits/giftChatCounter): 카톡 단톡방의 대화량과 기프티콘 선착순 선물하기를 쏘고 받은 횟수를 세어줍니다.
 - [chatClassifier3](https://github.com/star-bits/chatClassifier3): 문장만 보고 누가 쓴 건지 추측해보자 (Word2Vec, CNN, LSTM, Transformer)
-- lora-llama
+- tldr-machinegod: 세줄요약 기계신 - 유튭/링크 요약기
+- subfolder-mac-app
+- contact-ios-widget
 - sdr-esp32
 - pac-man: packet-manipulator, a web automation toolkit
 - chatterm: terminal themed chat website
 - design-focused-static-website
 - kiosk-ipad-app
 - subway-map-app
-- subfolder-mac-app
-- yt-summarizer-chrome
-- yt-summarizer-app
-- contact-ios-widget
 - jjuproach-exterminator: 줌강/녹강 교수가 쩝쩝충일 때
 - [ui-time](https://github.com/star-bits/ui-time): App that displays a 15-minute countdown timer in the macOS menu bar
 - [prettyURL](https://github.com/star-bits/prettyURL): Click the extension icon to copy human readable URL.
