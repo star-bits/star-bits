@@ -53,6 +53,9 @@
   - [physics-informed](https://github.com/star-bits/blog/blob/main/physics-informed.md): physics-informed neural networks
   - titanic
   - housing-prices
+  - deeplearningbook: notes from the Deep Learning book
+  - mml-book: notes from Mathematics for Machine Learning
+  - pml-book: notes from Probabilistic Machine Learning
   - hfrl: notes from the huggingface RL course
   - pong
   - tetris
