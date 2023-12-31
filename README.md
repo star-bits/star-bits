@@ -3,7 +3,7 @@
 - [chatClassifier3](https://github.com/star-bits/chatClassifier3): 문장만 보고 누가 쓴 건지 추측해보자 (Word2Vec, CNN, LSTM, Transformer)
 - tldr-machinegod: 세줄요약 기계신 - 유튭/링크 요약 앱
 - jjuproach-exterminator: 줌강/녹강 교수가 쩝쩝충일 때
-- subfolder-mac-app
+- date-taken: DateTaken - rename photos by, sort into subfolders named after
 - contact-ios-widget
 - sdr-esp32
 - pac-man: packet-manipulator, a web automation toolkit
