@@ -72,7 +72,7 @@
 - [kichATwear](https://github.com/star-bits/kichATwear): A Wear OS watch face inspired by linux terminal aesthetics.
 - [sort-into-subfolders](https://github.com/star-bits/sort-into-subfolders): Sort files by date created, date modified, content created (EXIF)
 - gist
-  - [nintendo_switch_screenshots.py](https://gist.github.com/star-bits/f7250dc0af18fb2daee6ed074ff043c5), [rename_photos.py](https://gist.github.com/star-bits/6bf1b8edf07806f096367886db9ac41d)
+  - [nintendo_switch_screenshots_folder.py](https://gist.github.com/star-bits/f7250dc0af18fb2daee6ed074ff043c5), [rename_photos_YYYYMMDD_hhmmss.py](https://gist.github.com/star-bits/6bf1b8edf07806f096367886db9ac41d)
 - Quickstart guide for running...
   - [stable-diffusion-webui](https://github.com/star-bits/stable-diffusion-webui/tree/master), [llama.cpp](https://github.com/star-bits/llama.cpp), [llama.ggmlv3.cpp](https://github.com/star-bits/llama.ggmlv3.cpp), [whisper.cpp](https://github.com/star-bits/whisper.cpp), [Whisper-WebUI](https://github.com/star-bits/Whisper-WebUI), [pdfGPT](https://github.com/star-bits/pdfGPT), [ThreeBodyBot](https://github.com/star-bits/ThreeBodyBot), [llama2](https://github.com/star-bits/llama2)
 - [cv](https://github.com/star-bits/cv)
