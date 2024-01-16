@@ -49,7 +49,7 @@
   - [ip-adapter](https://github.com/star-bits/blog/blob/main/ip-adapter.md): image prompt using decoupled cross-attention ⭐
   - [ip-adapter-colab](https://github.com/star-bits/blog/blob/main/ip-adapter-colab.ipynb): ip-adapter with huggingface diffusers
   - [mls](https://github.com/star-bits/blog/blob/main/mls.md): notes from the Machine Learning Specialization course ⭐
-  - [lunarlander](https://github.com/star-bits/blog/blob/main/lunarlander.ipynb): Q* optimal action-value function, maxQ(s', a'; w)
+  - [lunarlander](https://github.com/star-bits/blog/blob/main/lunarlander.ipynb): optimal action-value function Q*, maxQ(s', a'; w)
   - [physics-informed](https://github.com/star-bits/blog/blob/main/physics-informed.md): physics-informed neural networks
   - titanic
   - housing-prices
