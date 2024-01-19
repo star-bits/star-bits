@@ -1,9 +1,10 @@
 - [giftMacro](https://github.com/star-bits/giftMacro): 카톡 단톡방 기프티콘 선착순 선물하기를 (거의) 항상 1등으로 받게 해주는 매크로
 - [giftChatCounter](https://github.com/star-bits/giftChatCounter): 카톡 단톡방의 대화량과 기프티콘 선착순 선물하기를 쏘고 받은 횟수를 세어줍니다.
 - [chatClassifier3](https://github.com/star-bits/chatClassifier3): 문장만 보고 누가 쓴 건지 추측해보자 (Word2Vec, CNN, LSTM, Transformer)
-- tldr-machinegod: 세줄요약 기계신 - 유튭/링크 요약 앱
+- tldr-machinegod: 세줄요약 기계신 - 유튜브 누가 요약 좀
 - jjuproach-exterminator: 줌강/녹강 교수가 쩝쩝충일 때
-- date-taken: DateTaken - rename photos by, sort photos into subfolders named after
+- rename-photos: rename photos by their date taken and description
+- sort-photos: sort photos into subfolders named by the date taken
 - contact-ios-widget
 - sdr-esp32
 - pac-man: packet-manipulator, a web automation toolkit
