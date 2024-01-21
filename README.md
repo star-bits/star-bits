@@ -20,7 +20,7 @@
 - [gmarket-taja-game-bot](https://github.com/star-bits/gmarket-taja-game-bot): G마켓 타자왕 이벤트 매크로
 - blog
   - [classics](https://github.com/star-bits/blog/blob/main/classics.ipynb): prime, fibonacci, factorial, sort, shortest path, MST ⭐
-  - [dp](https://github.com/star-bits/blog/blob/main/dp.md): accumulative computation 🚧
+  - dp: accumulative computation
   - [commands](https://github.com/star-bits/blog/blob/main/commands.md): terminal commands cheat sheet 
   - [regex](https://github.com/star-bits/blog/blob/main/regex.md): regular expression cheat sheet
   - [entropy](https://github.com/star-bits/blog/blob/main/entropy.md): average amount of disorder/surprisal in a system ⭐
@@ -51,7 +51,7 @@
   - [ip-adapter-colab](https://github.com/star-bits/blog/blob/main/ip-adapter-colab.ipynb): ip-adapter with huggingface diffusers
   - [mls](https://github.com/star-bits/blog/blob/main/mls.md): notes from the Machine Learning Specialization course ⭐
   - [lunarlander](https://github.com/star-bits/blog/blob/main/lunarlander.ipynb): optimal action-value function Q*, maxQ(s', a'; w)
-  - [physics-informed](https://github.com/star-bits/blog/blob/main/physics-informed.md): physics-informed neural networks
+  - [physics-informed](https://github.com/star-bits/blog/blob/main/physics-informed.md): physics-informed neural networks 🚧
   - titanic
   - housing-prices
   - deeplearningbook: notes from the Deep Learning book
