@@ -52,7 +52,7 @@
   - [mls](https://github.com/star-bits/blog/blob/main/mls.md): notes from the Machine Learning Specialization course ⭐
   - [lunarlander](https://github.com/star-bits/blog/blob/main/lunarlander.ipynb): optimal action-value function Q*, maxQ(s', a'; w)
   - [physics-informed](https://github.com/star-bits/blog/blob/main/physics-informed.md): physics-informed neural networks 🚧
-  - png: png, jpeg, gif, mp4, mkv
+  - png: png, jpeg, gif, mp3, mp4, mkv
   - titanic
   - housing-prices
   - deeplearningbook: notes from the Deep Learning book
