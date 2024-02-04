@@ -52,11 +52,13 @@
   - [mls](https://github.com/star-bits/blog/blob/main/mls.md): notes from the Machine Learning Specialization course ⭐
   - [lunarlander](https://github.com/star-bits/blog/blob/main/lunarlander.ipynb): optimal action-value function Q*, maxQ(s', a'; w)
   - [physics-informed](https://github.com/star-bits/blog/blob/main/physics-informed.md): physics-informed neural networks 🚧
+  - png: png, jpeg, gif, mp4, mkv
   - titanic
   - housing-prices
   - deeplearningbook: notes from the Deep Learning book
   - mml-book: notes from Mathematics for Machine Learning
   - pml-book: notes from Probabilistic Machine Learning
+  - udl-book: notes from Understanding Deep Learning
   - hfrl: notes from the huggingface RL course
   - pong
   - tetris
