@@ -51,7 +51,7 @@
   - [ip-adapter-colab](https://github.com/star-bits/blog/blob/main/ip-adapter-colab.ipynb): ip-adapter with huggingface diffusers
   - [mls](https://github.com/star-bits/blog/blob/main/mls.md): notes from the Machine Learning Specialization course ⭐
   - [lunarlander](https://github.com/star-bits/blog/blob/main/lunarlander.ipynb): optimal action-value function Q*, maxQ(s', a'; w)
-  - physics-informed: physics-informed neural networks
+  - [physics-informed](https://github.com/star-bits/blog/blob/main/physics-informed.ipynb): physics-informed neural networks 🚧
   - png: png, jpeg, gif, mp3, mp4, mkv
   - titanic
   - housing-prices
