@@ -45,8 +45,6 @@
   - [karpathy-nanogpt-gpt2](https://github.com/star-bits/blog/blob/main/karpathy-nanogpt-gpt2.ipynb): multi-head attention dim check
   - [stable-diffusion](https://github.com/star-bits/blog/blob/main/stable-diffusion.md): steering the noise predictor in latent space ⭐
   - [stable-diffusion-webui](https://github.com/star-bits/blog/blob/main/stable-diffusion-webui.md): guide on Stable Diffusion web UI
-  - [stable-diffusion-webui-colab](https://github.com/star-bits/blog/blob/main/stable-diffusion-webui-colab.ipynb): Stable Diffusion web UI on Colab
-  - [stable-diffusion-kohya-colab](https://github.com/star-bits/blog/blob/main/stable-diffusion-kohya-colab.ipynb): train SD LoRA with kohya_ss
   - [ip-adapter](https://github.com/star-bits/blog/blob/main/ip-adapter.md): image prompt using decoupled cross-attention ⭐
   - [ip-adapter-colab](https://github.com/star-bits/blog/blob/main/ip-adapter-colab.ipynb): ip-adapter with huggingface diffusers
   - [mls](https://github.com/star-bits/blog/blob/main/mls.md): notes from the Machine Learning Specialization course
