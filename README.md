@@ -41,15 +41,15 @@
   - [wolfram-chatgpt](https://github.com/star-bits/blog/blob/main/wolfram-chatgpt.md): notes from Wolfram's writing on ChatGPT
   - [karpathy-sogpt](https://github.com/star-bits/blog/blob/main/karpathy-sogpt.md): notes from Karpathy's talk on the state of GPT ⭐
   - [transformer](https://github.com/star-bits/blog/blob/main/transformer.md): attention ⭐
-  - [karpathy-nanogpt-lecture](https://github.com/star-bits/blog/blob/main/karpathy-nanogpt-lecture.ipynb): small generative transformer ⭐
-  - [karpathy-nanogpt-gpt2](https://github.com/star-bits/blog/blob/main/karpathy-nanogpt-gpt2.ipynb): multi-head attention dim check ⭐
+  - [karpathy-nanogpt-lecture](https://github.com/star-bits/blog/blob/main/karpathy-nanogpt-lecture.ipynb): small generative transformer
+  - [karpathy-nanogpt-gpt2](https://github.com/star-bits/blog/blob/main/karpathy-nanogpt-gpt2.ipynb): multi-head attention dim check
   - [stable-diffusion](https://github.com/star-bits/blog/blob/main/stable-diffusion.md): steering the noise predictor in latent space ⭐
   - [stable-diffusion-webui](https://github.com/star-bits/blog/blob/main/stable-diffusion-webui.md): guide on Stable Diffusion web UI
   - [stable-diffusion-webui-colab](https://github.com/star-bits/blog/blob/main/stable-diffusion-webui-colab.ipynb): Stable Diffusion web UI on Colab
   - [stable-diffusion-kohya-colab](https://github.com/star-bits/blog/blob/main/stable-diffusion-kohya-colab.ipynb): train SD LoRA with kohya_ss
   - [ip-adapter](https://github.com/star-bits/blog/blob/main/ip-adapter.md): image prompt using decoupled cross-attention ⭐
   - [ip-adapter-colab](https://github.com/star-bits/blog/blob/main/ip-adapter-colab.ipynb): ip-adapter with huggingface diffusers
-  - [mls](https://github.com/star-bits/blog/blob/main/mls.md): notes from the Machine Learning Specialization course ⭐
+  - [mls](https://github.com/star-bits/blog/blob/main/mls.md): notes from the Machine Learning Specialization course
   - [lunarlander](https://github.com/star-bits/blog/blob/main/lunarlander.ipynb): optimal action-value function Q*, maxQ(s', a'; w)
   - [physics-informed](https://github.com/star-bits/blog/blob/main/physics-informed.ipynb): physics-informed neural networks 🚧
   - png: png, jpeg, gif, mp3, mp4, mkv
