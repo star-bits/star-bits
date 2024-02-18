@@ -37,13 +37,13 @@
   - [utf-8](https://github.com/star-bits/blog/blob/main/utf-8.md): UTF-8 and URL encoding
   - [q4](https://github.com/star-bits/blog/blob/main/q4.md): 4-bit quantization
   - [mbyn](https://github.com/star-bits/blog/blob/main/mbyn.md): representation of m by n matrix in math, python, numpy
-  - [wolfram-chatgpt](https://github.com/star-bits/blog/blob/main/wolfram-chatgpt.md): notes from Wolfram's writing on ChatGPT
-  - [karpathy-sogpt](https://github.com/star-bits/blog/blob/main/karpathy-sogpt.md): notes from Karpathy's talk on the State of GPT
-  - [karpathy-nanogpt](): small gpt from scratch
   - [transformer](https://github.com/star-bits/blog/blob/main/transformer.md): attention ⭐
-  - [stable-diffusion](https://github.com/star-bits/blog/blob/main/stable-diffusion.md): steering the noise predictor in latent space
+  - [karpathy-nanogpt](): small gpt from scratch
+  - [karpathy-sogpt](https://github.com/star-bits/blog/blob/main/karpathy-sogpt.md): notes from Karpathy's talk on the State of GPT
+  - [wolfram-chatgpt](https://github.com/star-bits/blog/blob/main/wolfram-chatgpt.md): notes from Wolfram's writing on ChatGPT
+  - [stable-diffusion](https://github.com/star-bits/blog/blob/main/stable-diffusion.md): steering the noise predictor in latent space ⭐
   - [stable-diffusion-webui](https://github.com/star-bits/blog/blob/main/stable-diffusion-webui.md): guide on Stable Diffusion web UI
-  - [ip-adapter](https://github.com/star-bits/blog/blob/main/ip-adapter.md): image prompt using decoupled cross-attention
+  - [ip-adapter](https://github.com/star-bits/blog/blob/main/ip-adapter.md): image prompt using decoupled cross-attention ⭐
   - [mls](https://github.com/star-bits/blog/blob/main/mls.md): notes from the Machine Learning Specialization course
   - [lunarlander](https://github.com/star-bits/blog/blob/main/lunarlander.ipynb): optimal action-value function Q*, maxQ(s', a'; w)
   - [physics-informed](https://github.com/star-bits/blog/blob/main/physics-informed.ipynb): physics-informed neural networks 🚧
