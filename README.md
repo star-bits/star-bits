@@ -19,7 +19,7 @@
 - [burgerkingevent-bot](https://github.com/star-bits/burgerkingevent-bot): 콰트로 맥시멈...이하 생략 이벤트 매크로
 - [gmarket-taja-game-bot](https://github.com/star-bits/gmarket-taja-game-bot): G마켓 타자왕 이벤트 매크로
 - blog
-  - [classics](https://github.com/star-bits/blog/blob/main/classics.ipynb): prime, fibonacci, factorial, sort, shortest path, MST ⭐
+  - [classics](https://github.com/star-bits/blog/blob/main/classics.ipynb): prime, fibonacci, factorial, sort, shortest path, MST
   - dp: accumulative computation
   - [commands](https://github.com/star-bits/blog/blob/main/commands.md): terminal commands cheat sheet 
   - [regex](https://github.com/star-bits/blog/blob/main/regex.md): regular expression cheat sheet
@@ -27,9 +27,9 @@
   - [qoe](https://drive.google.com/file/d/1HahBjN6KSeKger0uzt_IVXXyjMn802YE/view?usp=drive_link): quantum of everything 🚧
   - [gradient](https://github.com/star-bits/blog/blob/main/gradient.md): dL/dw, numerical gradient, backprop ⭐
   - [backprop](https://github.com/star-bits/blog/blob/main/backprop.md): backward propagation ⭐
-  - [fastbook](https://github.com/star-bits/blog/blob/main/fastbook.md): notes from the fastai book ⭐
-  - [linlog](https://github.com/star-bits/blog/blob/main/linlog.ipynb): linear regression and logistic regression with PyTorch ⭐
-  - [mnist](https://github.com/star-bits/blog/blob/main/mnist.ipynb): MNIST classification with FC/CNN using NumPy/PyTorch ⭐
+  - [fastbook](https://github.com/star-bits/blog/blob/main/fastbook.md): notes from the fastai book
+  - [linlog](https://github.com/star-bits/blog/blob/main/linlog.ipynb): linear regression and logistic regression with PyTorch
+  - [mnist](https://github.com/star-bits/blog/blob/main/mnist.ipynb): MNIST classification with FC/CNN using NumPy/PyTorch
   - [optimizer](https://github.com/star-bits/blog/blob/main/optimizer.md): SGD, SGD with momentum, AdaGrad, RMSprop, Adam
   - [yoonlp](https://github.com/star-bits/blog/blob/main/yoonlp.md): NNLM, Word2Vec from 딥 러닝을 이용한 자연어 처리 입문
   - [yoonlp-codes](https://github.com/star-bits/blog/blob/main/yoonlp-codes.ipynb): Word2Vec, LSTM, 1D CNN, tokenizer, Transformer
