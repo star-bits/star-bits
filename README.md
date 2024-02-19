@@ -65,10 +65,10 @@
   - [web](https://github.com/star-bits/sparta-coding-club-web): index.html, <style>, <script>, app.py, Flask, MongoDB, GET, POST, bs4, AWS
   - [app](https://github.com/star-bits/sparta-coding-club-app): flutter, StatelessWidget, StatefulWidget, Provider, SharedPreferences, async
 - sogang
-  - phy: 수리물리학I (???, 2024-1)
-  - phy: 수리물리학II (???, 2024-2)
-  - mat: 선형대수학 (???, 2024-1)
-  - mat: 통계학입문 (???, 2024-1)
+  - phy2005: 수리물리학I (???, 2024-1)
+  - phy2006: 수리물리학II (???, 2024-2)
+  - mat2110: 선형대수학 (???, 2024-1)
+  - mat3020: 통계학입문 (???, 2024-1)
 - [boostcampAI](https://github.com/star-bits/boostcampAI): 부스트캠프 AI Tech 학습 내용 정리
 - [kichATwear](https://github.com/star-bits/kichATwear): A Wear OS watch face inspired by linux terminal aesthetics.
 - [sort-into-subfolders](https://github.com/star-bits/sort-into-subfolders): Sort files by date created, date modified, content created (EXIF)
