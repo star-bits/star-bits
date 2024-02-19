@@ -19,34 +19,34 @@
 - [burgerkingevent-bot](https://github.com/star-bits/burgerkingevent-bot): 콰트로 맥시멈...이하 생략 이벤트 매크로
 - [gmarket-taja-game-bot](https://github.com/star-bits/gmarket-taja-game-bot): G마켓 타자왕 이벤트 매크로
 - blog
-  - [classics](https://github.com/star-bits/blog/blob/main/classics.ipynb): prime, fibonacci, factorial, sort, shortest path, MST
-  - dp: accumulative computation
-  - [commands](https://github.com/star-bits/blog/blob/main/commands.md): terminal commands cheat sheet 
-  - [regex](https://github.com/star-bits/blog/blob/main/regex.md): regular expression cheat sheet
-  - [entropy](https://github.com/star-bits/blog/blob/main/entropy.md): average amount of disorder/surprisal in a system ⭐
-  - [qoe](https://drive.google.com/file/d/1HahBjN6KSeKger0uzt_IVXXyjMn802YE/view?usp=drive_link): quantum of everything 🚧
-  - [gradient](https://github.com/star-bits/blog/blob/main/gradient.md): dL/dw, numerical gradient, backprop ⭐
-  - [backprop](https://github.com/star-bits/blog/blob/main/backprop.md): backward propagation ⭐
-  - [fastbook](https://github.com/star-bits/blog/blob/main/fastbook.md): notes from the fastai book
-  - [linlog](https://github.com/star-bits/blog/blob/main/linlog.ipynb): linear regression and logistic regression with PyTorch
-  - [mnist](https://github.com/star-bits/blog/blob/main/mnist.ipynb): MNIST classification with FC/CNN using NumPy/PyTorch
-  - [optimizer](https://github.com/star-bits/blog/blob/main/optimizer.md): SGD, SGD with momentum, AdaGrad, RMSprop, Adam
-  - [yoonlp](https://github.com/star-bits/blog/blob/main/yoonlp.md): NNLM, Word2Vec from 딥 러닝을 이용한 자연어 처리 입문
-  - [matplotlib-pyconkor22](https://github.com/star-bits/blog/blob/main/matplotlib-pyconkor22.ipynb): state-based vs. object-oriented
-  - [network](https://github.com/star-bits/blog/blob/main/network.md): router, frame, DHCP, NAT, ARP
-  - [utf-8](https://github.com/star-bits/blog/blob/main/utf-8.md): UTF-8 and URL encoding
-  - [q4](https://github.com/star-bits/blog/blob/main/q4.md): 4-bit quantization
-  - [mbyn](https://github.com/star-bits/blog/blob/main/mbyn.md): representation of m by n matrix in math, python, numpy
-  - [transformer](https://github.com/star-bits/blog/blob/main/transformer.md): attention ⭐
-  - [karpathy-nanogpt](): small gpt from scratch
-  - [karpathy-sogpt](https://github.com/star-bits/blog/blob/main/karpathy-sogpt.md): notes from Karpathy's talk on the State of GPT
-  - [wolfram-chatgpt](https://github.com/star-bits/blog/blob/main/wolfram-chatgpt.md): notes from Wolfram's writing on ChatGPT
-  - [stable-diffusion](https://github.com/star-bits/blog/blob/main/stable-diffusion.md): steering the noise predictor in latent space ⭐
-  - [stable-diffusion-webui](https://github.com/star-bits/blog/blob/main/stable-diffusion-webui.md): guide on Stable Diffusion web UI
-  - [ip-adapter](https://github.com/star-bits/blog/blob/main/ip-adapter.md): image prompt using decoupled cross-attention ⭐
-  - [mls](https://github.com/star-bits/blog/blob/main/mls.md): notes from the Machine Learning Specialization course
-  - [lunarlander](https://github.com/star-bits/blog/blob/main/lunarlander.ipynb): optimal action-value function Q*, maxQ(s', a'; w)
-  - [physics-informed](https://github.com/star-bits/blog/blob/main/physics-informed.ipynb): physics-informed neural networks 🚧
+  - [classics.ipynb](https://github.com/star-bits/blog/blob/main/classics.ipynb): prime, fibonacci, factorial, sort, shortest path, MST
+  - dp.md: accumulative computation
+  - [commands.md](https://github.com/star-bits/blog/blob/main/commands.md): terminal commands cheat sheet 
+  - [regex.md](https://github.com/star-bits/blog/blob/main/regex.md): regular expression cheat sheet
+  - [entropy.md](https://github.com/star-bits/blog/blob/main/entropy.md): average amount of disorder/surprisal in a system ⭐
+  - [qoe.pdf](https://drive.google.com/file/d/1HahBjN6KSeKger0uzt_IVXXyjMn802YE/view?usp=drive_link): quantum of everything 🚧
+  - [gradient.md](https://github.com/star-bits/blog/blob/main/gradient.md): dL/dw, numerical gradient, backprop ⭐
+  - [backprop.md](https://github.com/star-bits/blog/blob/main/backprop.md): backward propagation ⭐
+  - [fastbook.md](https://github.com/star-bits/blog/blob/main/fastbook.md): notes from the fastai book
+  - [linlog.ipynb](https://github.com/star-bits/blog/blob/main/linlog.ipynb): linear regression and logistic regression with PyTorch
+  - [mnist.ipynb](https://github.com/star-bits/blog/blob/main/mnist.ipynb): MNIST classification with FC/CNN using NumPy/PyTorch
+  - [optimizer.md](https://github.com/star-bits/blog/blob/main/optimizer.md): SGD, SGD with momentum, AdaGrad, RMSprop, Adam
+  - [yoonlp.md](https://github.com/star-bits/blog/blob/main/yoonlp.md): NNLM, Word2Vec from 딥 러닝을 이용한 자연어 처리 입문
+  - [matplotlib-pyconkor22.ipynb](https://github.com/star-bits/blog/blob/main/matplotlib-pyconkor22.ipynb): state-based vs. object-oriented
+  - [network.md](https://github.com/star-bits/blog/blob/main/network.md): router, frame, DHCP, NAT, ARP
+  - [utf-8.md](https://github.com/star-bits/blog/blob/main/utf-8.md): UTF-8 and URL encoding
+  - [q4.md](https://github.com/star-bits/blog/blob/main/q4.md): 4-bit quantization
+  - [mbyn.md](https://github.com/star-bits/blog/blob/main/mbyn.md): representation of m by n matrix in math, python, numpy
+  - [transformer.md](https://github.com/star-bits/blog/blob/main/transformer.md): attention ⭐
+  - karpathy-nanogpt.ipynb: small gpt from scratch
+  - [karpathy-sogpt.md](https://github.com/star-bits/blog/blob/main/karpathy-sogpt.md): notes from Karpathy's talk on the State of GPT
+  - [wolfram-chatgpt.md](https://github.com/star-bits/blog/blob/main/wolfram-chatgpt.md): notes from Wolfram's writing on ChatGPT
+  - [stable-diffusion.md](https://github.com/star-bits/blog/blob/main/stable-diffusion.md): steering the noise predictor in latent space ⭐
+  - [stable-diffusion-webui.md](https://github.com/star-bits/blog/blob/main/stable-diffusion-webui.md): guide on Stable Diffusion web UI
+  - [ip-adapter.md](https://github.com/star-bits/blog/blob/main/ip-adapter.md): image prompt using decoupled cross-attention ⭐
+  - [mls.md](https://github.com/star-bits/blog/blob/main/mls.md): notes from the Machine Learning Specialization course
+  - [lunarlander.ipynb](https://github.com/star-bits/blog/blob/main/lunarlander.ipynb): optimal action-value function Q*, maxQ(s', a'; w)
+  - [physics-informed.ipynb](https://github.com/star-bits/blog/blob/main/physics-informed.ipynb): physics-informed neural networks 🚧
   - png: png, jpeg, gif, mp3, mp4, mkv
   - titanic
   - housing-prices
