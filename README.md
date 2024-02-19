@@ -28,8 +28,8 @@
   - [gradient.md](https://github.com/star-bits/blog/blob/main/gradient.md): dL/dw, numerical gradient, backprop ⭐
   - [backprop.md](https://github.com/star-bits/blog/blob/main/backprop.md): backward propagation ⭐
   - [fastbook.md](https://github.com/star-bits/blog/blob/main/fastbook.md): notes from the fastai book
-  - [linlog.ipynb](https://github.com/star-bits/blog/blob/main/linlog.ipynb): linear regression and logistic regression with PyTorch
-  - [mnist.ipynb](https://github.com/star-bits/blog/blob/main/mnist.ipynb): MNIST classification with FC/CNN using NumPy/PyTorch
+  - [linlog.ipynb](https://github.com/star-bits/blog/blob/main/linlog.ipynb): linear regression and logistic regression with torch
+  - [mnist.ipynb](https://github.com/star-bits/blog/blob/main/mnist.ipynb): MNIST classification with FC/CNN using np/torch
   - [optimizer.md](https://github.com/star-bits/blog/blob/main/optimizer.md): SGD, SGD with momentum, AdaGrad, RMSprop, Adam
   - [yoonlp.md](https://github.com/star-bits/blog/blob/main/yoonlp.md): NNLM, Word2Vec from 딥 러닝을 이용한 자연어 처리 입문
   - [matplotlib-pyconkor22.ipynb](https://github.com/star-bits/blog/blob/main/matplotlib-pyconkor22.ipynb): state-based vs. object-oriented
