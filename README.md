@@ -38,8 +38,8 @@
   - [q4.md](https://github.com/star-bits/blog/blob/main/q4.md): 4-bit quantization
   - [mbyn.md](https://github.com/star-bits/blog/blob/main/mbyn.md): representation of m by n matrix in math, python, numpy
   - [transformer.md](https://github.com/star-bits/blog/blob/main/transformer.md): attention ⭐
-  - karpathy-gpt.ipynb: small gpt from scratch
-  - karpathy-nanogpt.ipynb:
+  - [karpathy-gpt.ipynb](https://github.com/star-bits/blog/blob/main/karpathy-gpt.ipynb): small gpt from scratch
+  - [karpathy-nanogpt.ipynb](https://github.com/star-bits/blog/blob/main/karpathy-nanogpt.ipynb): multi-head attention dim check
   - karpathy-tokenizer.ipynb
   - [karpathy-sogpt.md](https://github.com/star-bits/blog/blob/main/karpathy-sogpt.md): notes from Karpathy's talk on the State of GPT
   - [wolfram-chatgpt.md](https://github.com/star-bits/blog/blob/main/wolfram-chatgpt.md): notes from Wolfram's writing on ChatGPT
