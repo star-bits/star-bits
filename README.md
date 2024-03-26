@@ -62,7 +62,7 @@
   - self-learning-cs: notes from 혼자 공부하는 컴퓨터구조 & 운영체제
   - m1: CISC, RISC, and M1 chips
 - sogang
-  - aieg106: 기초자연어처리 (장부루, 2024-1)
+  - [aieg106](https://github.com/star-bits/sogang-aieg106): 기초자연어처리 (장부루, 2024-1)
   - phy2005: 수리물리학I (Stefano Scopel, 2024-1)
   - phy2006: 수리물리학II (???, 2024-2)
   - mat2110: 선형대수학 (조상현, 2024-1)
