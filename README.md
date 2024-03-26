@@ -67,7 +67,7 @@
   - phy2006: 수리물리학II (???, 2024-2)
   - mat2110: 선형대수학 (조상현, 2024-1)
   - mat3020: 통계학입문 (임경수, 2024-1)
-  - [cse3013](https://github.com/star-bits/sogang-cse3013): 소프트웨어개발도구및환경실습
+  - [cse3013](https://github.com/star-bits/sogang-cse3013): 소프트웨어개발도구및환경실습 (김승욱, 2024-1)
 - codingapple
   - [nodejs](https://github.com/star-bits/codingapple-nodejs)
 - sparta-coding-club
