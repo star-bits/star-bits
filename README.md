@@ -11,7 +11,6 @@
 - chatterm: terminal themed chat website
 - design-focused-static-website
 - kiosk-ipad-app
-- subway-map-app
 - [ui-time](https://github.com/star-bits/ui-time): App that displays a 15-minute countdown timer in the macOS menu bar
 - [prettyURL](https://github.com/star-bits/prettyURL): Click the extension icon to copy human readable URL.
 - [all-seaing-eye](https://github.com/star-bits/all-seaing-eye): AI lookout at sea using MMDetection
@@ -56,7 +55,6 @@
   - mml-book: notes from Mathematics for Machine Learning
   - pml-book: notes from Probabilistic Machine Learning
   - udl-book: notes from Understanding Deep Learning
-  - hfrl: notes from the huggingface RL course
   - pong
   - tetris
   - self-learning-cs: notes from 혼자 공부하는 컴퓨터구조 & 운영체제
@@ -66,7 +64,6 @@
   - phy2005: 수리물리학I (Stefano Scopel, 2024-1)
   - phy2006: 수리물리학II (???, 2024-2)
   - mat2110: 선형대수학 (조상현, 2024-1)
-  - mat3020: 통계학입문 (임경수, 2024-1)
   - [cse3013](https://github.com/star-bits/sogang-cse3013): 소프트웨어개발도구및환경실습 (김승욱, 2024-1)
 - codingapple
   - [nodejs](https://github.com/star-bits/codingapple-nodejs)
