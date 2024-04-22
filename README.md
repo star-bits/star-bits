@@ -7,7 +7,7 @@
 - contact-ios-widget
 - sdr-esp32
 - pac-man: packet-manipulator, a web automation toolkit
-- click-timing-assist
+- timed-click-assist
 - chatterm: terminal themed chat website
 - design-focused-static-website
 - kiosk-ipad-app
