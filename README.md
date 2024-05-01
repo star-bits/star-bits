@@ -39,7 +39,7 @@
   - [transformer.md](https://github.com/star-bits/blog/blob/main/transformer.md): attention ⭐
   - [karpathy-gpt.ipynb](https://github.com/star-bits/blog/blob/main/karpathy-gpt.ipynb): small gpt from scratch
   - [karpathy-nanogpt.ipynb](https://github.com/star-bits/blog/blob/main/karpathy-nanogpt.ipynb): multi-head attention dim check
-  - karpathy-tokenizer.ipynb
+  - [karpathy-tokenizer.ipynb](https://github.com/star-bits/blog/blob/main/karpathy-tokenizer.ipynb): Unicode code point, UTF-8, BPE
   - [karpathy-sogpt.md](https://github.com/star-bits/blog/blob/main/karpathy-sogpt.md): notes from Karpathy's talk on the State of GPT
   - [wolfram-chatgpt.md](https://github.com/star-bits/blog/blob/main/wolfram-chatgpt.md): notes from Wolfram's writing on ChatGPT
   - [stable-diffusion.md](https://github.com/star-bits/blog/blob/main/stable-diffusion.md): steering the noise predictor in latent space ⭐
