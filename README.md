@@ -19,6 +19,7 @@
 - [gmarket-taja-game-bot](https://github.com/star-bits/gmarket-taja-game-bot): G마켓 타자왕 이벤트 매크로
 - blog
   - [classics.ipynb](https://github.com/star-bits/blog/blob/main/classics.ipynb): prime, fibonacci, factorial, sort, shortest path, MST
+  - [dict.ipynb](https://github.com/star-bits/blog/blob/main/dict.ipynb): versatility of python dict
   - dp.md: accumulative computation
   - [commands.md](https://github.com/star-bits/blog/blob/main/commands.md): terminal commands cheat sheet 
   - [regex.md](https://github.com/star-bits/blog/blob/main/regex.md): regular expression cheat sheet
