@@ -2,14 +2,11 @@
 - [giftChatCounter](https://github.com/star-bits/giftChatCounter): 카톡 단톡방의 대화량과 기프티콘 선착순 선물하기를 쏘고 받은 횟수를 세어줍니다.
 - [chatClassifier3](https://github.com/star-bits/chatClassifier3): 문장만 보고 누가 쓴 건지 추측해보자 (Word2Vec, CNN, LSTM, Transformer)
 - jjuproach-exterminator: 줌강/녹강 교수가 쩝쩝충일 때
-- rename-photos: rename photos by their date taken and description
-- sort-photos: sort photos into subfolders named by the date taken
-- contact-ios-widget
+- rename-group-photos: rename and group photos by their date taken
+- contact-info-ios-widget
 - sdr-esp32
-- pac-man: packet-manipulator, a web automation toolkit
 - timed-click-assist
 - chatterm: terminal themed chat website
-- design-focused-static-website
 - kiosk-ipad-app
 - [ui-time](https://github.com/star-bits/ui-time): App that displays a 15-minute countdown timer in the macOS menu bar
 - [prettyURL](https://github.com/star-bits/prettyURL): Click the extension icon to copy human readable URL.
