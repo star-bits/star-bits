@@ -62,7 +62,7 @@
   - [cse3013](https://github.com/star-bits/sogang-cse3013): 소프트웨어개발도구및환경실습 (김승욱, 2024-1)
 - codingapple
   - [nodejs](https://github.com/star-bits/codingapple-nodejs)
-- sparta-coding-club
+- spartacodingclub
   - [web](https://github.com/star-bits/sparta-coding-club-web): index.html, <style>, <script>, app.py, Flask, MongoDB, GET, POST, bs4, AWS
   - [app](https://github.com/star-bits/sparta-coding-club-app): flutter, StatelessWidget, StatefulWidget, Provider, SharedPreferences, async
 - [boostcampAI](https://github.com/star-bits/boostcampAI): 부스트캠프 AI Tech 학습 내용 정리
