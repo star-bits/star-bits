@@ -16,7 +16,7 @@
 - blog
   - [classics.ipynb](https://github.com/star-bits/blog/blob/main/classics.ipynb): prime, fibonacci, factorial, sort, shortest path, MST
   - [dict.ipynb](https://github.com/star-bits/blog/blob/main/dict.ipynb): versatility of python dict
-  - dp.md: accumulative computation
+  - [dp.md](https://github.com/star-bits/blog/blob/main/dp.md): accumulative computation
   - [commands.md](https://github.com/star-bits/blog/blob/main/commands.md): terminal commands cheat sheet 
   - [regex.md](https://github.com/star-bits/blog/blob/main/regex.md): regular expression cheat sheet
   - [entropy.md](https://github.com/star-bits/blog/blob/main/entropy.md): average amount of disorder/surprisal in a system ⭐
