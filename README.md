@@ -29,7 +29,7 @@
   - [mnist.ipynb](https://github.com/star-bits/blog/blob/main/mnist.ipynb): MNIST classification with FC/CNN using np/torch
   - [optimizer.md](https://github.com/star-bits/blog/blob/main/optimizer.md): SGD, SGD with momentum, AdaGrad, RMSprop, Adam
   - [yoonlp.md](https://github.com/star-bits/blog/blob/main/yoonlp.md): NNLM, Word2Vec from 딥 러닝을 이용한 자연어 처리 입문
-  - [matplotlib-pyconkor22.ipynb](https://github.com/star-bits/blog/blob/main/matplotlib-pyconkor22.ipynb): state-based vs. object-oriented
+  - [matplotlib.ipynb](https://github.com/star-bits/blog/blob/main/matplotlib.ipynb): state-based vs. object-oriented
   - [network.md](https://github.com/star-bits/blog/blob/main/network.md): router, frame, DHCP, NAT, ARP
   - [utf-8.md](https://github.com/star-bits/blog/blob/main/utf-8.md): UTF-8 and URL encoding
   - [q4.md](https://github.com/star-bits/blog/blob/main/q4.md): 4-bit quantization
