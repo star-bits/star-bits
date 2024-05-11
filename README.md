@@ -39,13 +39,13 @@
   - [nanogpt.ipynb](https://github.com/star-bits/blog/blob/main/nanogpt.ipynb): multi-head attention dim check
   - [tokenizer.ipynb](https://github.com/star-bits/blog/blob/main/tokenizer.ipynb): Unicode code point, UTF-8, BPE
   - [rlhf.md](https://github.com/star-bits/blog/blob/main/rlhf.md): techniques used to make GPT an assistant
-  - [wolfram-chatgpt.md](https://github.com/star-bits/blog/blob/main/wolfram-chatgpt.md): notes from Wolfram's writing on ChatGPT
+  - [wolfram-chatgpt.md](https://github.com/star-bits/blog/blob/main/wolfram-chatgpt.md): notes from Wolfram's blog on ChatGPT
   - [stable-diffusion.md](https://github.com/star-bits/blog/blob/main/stable-diffusion.md): steering the noise predictor in latent space ⭐
   - [stable-diffusion-webui.md](https://github.com/star-bits/blog/blob/main/stable-diffusion-webui.md): guide on Stable Diffusion web UI
   - [ip-adapter.md](https://github.com/star-bits/blog/blob/main/ip-adapter.md): image prompt using decoupled cross-attention ⭐
   - [mls.md](https://github.com/star-bits/blog/blob/main/mls.md): notes from the Machine Learning Specialization course
   - [lunarlander.ipynb](https://github.com/star-bits/blog/blob/main/lunarlander.ipynb): optimal action-value function Q*, maxQ(s', a'; w)
-  - [physics-informed.ipynb](https://github.com/star-bits/blog/blob/main/physics-informed.ipynb): physics-informed neural networks 🚧
+  - [pinn.ipynb](https://github.com/star-bits/blog/blob/main/pinn.ipynb): physics-informed neural networks 🚧
   - png: png, jpeg, gif, mp3, mp4, mkv
   - titanic
   - housing-prices
