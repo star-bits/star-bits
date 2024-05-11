@@ -21,7 +21,7 @@
   - [commands.md](https://github.com/star-bits/blog/blob/main/commands.md): terminal commands cheat sheet 
   - [regex.md](https://github.com/star-bits/blog/blob/main/regex.md): regular expression cheat sheet
   - [entropy.md](https://github.com/star-bits/blog/blob/main/entropy.md): average amount of disorder/surprisal in a system ⭐
-  - [qoe.pdf](https://drive.google.com/file/d/1HahBjN6KSeKger0uzt_IVXXyjMn802YE/view?usp=drive_link): quantum of everything 🚧
+  - quantum.pdf
   - [gradient.md](https://github.com/star-bits/blog/blob/main/gradient.md): dL/dw, numerical gradient, backprop ⭐
   - [backprop.md](https://github.com/star-bits/blog/blob/main/backprop.md): backward propagation ⭐
   - [fastbook.md](https://github.com/star-bits/blog/blob/main/fastbook.md): notes from the fastai book
@@ -38,8 +38,7 @@
   - [decoder.ipynb](https://github.com/star-bits/blog/blob/main/decoder.ipynb): small gpt from scratch, in code
   - [nanogpt.ipynb](https://github.com/star-bits/blog/blob/main/nanogpt.ipynb): multi-head attention dim check
   - [tokenizer.ipynb](https://github.com/star-bits/blog/blob/main/tokenizer.ipynb): Unicode code point, UTF-8, BPE
-  - [rlhf.md](https://github.com/star-bits/blog/blob/main/rlhf.md): techniques used to make GPT an assistant
-  - [wolfram-chatgpt.md](https://github.com/star-bits/blog/blob/main/wolfram-chatgpt.md): notes from Wolfram's blog on ChatGPT
+  - [rlhf.md](https://github.com/star-bits/blog/blob/main/rlhf.md): techniques used to turn GPT into an assistant
   - [stable-diffusion.md](https://github.com/star-bits/blog/blob/main/stable-diffusion.md): steering the noise predictor in latent space ⭐
   - [stable-diffusion-webui.md](https://github.com/star-bits/blog/blob/main/stable-diffusion-webui.md): guide on Stable Diffusion web UI
   - [ip-adapter.md](https://github.com/star-bits/blog/blob/main/ip-adapter.md): image prompt using decoupled cross-attention ⭐
