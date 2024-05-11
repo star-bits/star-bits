@@ -35,10 +35,10 @@
   - [q4.md](https://github.com/star-bits/blog/blob/main/q4.md): 4-bit quantization
   - [mbyn.md](https://github.com/star-bits/blog/blob/main/mbyn.md): representation of m by n matrix in math, python, numpy
   - [transformer.md](https://github.com/star-bits/blog/blob/main/transformer.md): attention ⭐
-  - [karpathy-gpt.ipynb](https://github.com/star-bits/blog/blob/main/karpathy-gpt.ipynb): small gpt from scratch
-  - [karpathy-nanogpt.ipynb](https://github.com/star-bits/blog/blob/main/karpathy-nanogpt.ipynb): multi-head attention dim check
-  - [karpathy-tokenizer.ipynb](https://github.com/star-bits/blog/blob/main/karpathy-tokenizer.ipynb): Unicode code point, UTF-8, BPE
-  - [karpathy-sogpt.md](https://github.com/star-bits/blog/blob/main/karpathy-sogpt.md): notes from Karpathy's talk on the State of GPT
+  - [decoder.ipynb](https://github.com/star-bits/blog/blob/main/decoder.ipynb): small gpt from scratch, in code
+  - [nanogpt.ipynb](https://github.com/star-bits/blog/blob/main/nanogpt.ipynb): multi-head attention dim check
+  - [tokenizer.ipynb](https://github.com/star-bits/blog/blob/main/tokenizer.ipynb): Unicode code point, UTF-8, BPE
+  - [rlhf.md](https://github.com/star-bits/blog/blob/main/rlhf.md): techniques used to make GPT an assistant
   - [wolfram-chatgpt.md](https://github.com/star-bits/blog/blob/main/wolfram-chatgpt.md): notes from Wolfram's writing on ChatGPT
   - [stable-diffusion.md](https://github.com/star-bits/blog/blob/main/stable-diffusion.md): steering the noise predictor in latent space ⭐
   - [stable-diffusion-webui.md](https://github.com/star-bits/blog/blob/main/stable-diffusion-webui.md): guide on Stable Diffusion web UI
