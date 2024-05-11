@@ -35,7 +35,6 @@
   - [mbyn.md](https://github.com/star-bits/blog/blob/main/mbyn.md): representation of m by n matrix in math, python, numpy
   - [transformer.md](https://github.com/star-bits/blog/blob/main/transformer.md): attention ⭐
   - [decoder.ipynb](https://github.com/star-bits/blog/blob/main/decoder.ipynb): small gpt from scratch, in code ⭐
-  - [nanogpt.ipynb](https://github.com/star-bits/blog/blob/main/nanogpt.ipynb): multi-head attention dim check
   - [tokenizer.ipynb](https://github.com/star-bits/blog/blob/main/tokenizer.ipynb): Unicode code point, UTF-8, BPE
   - [rlhf.md](https://github.com/star-bits/blog/blob/main/rlhf.md): techniques used to turn GPT into an assistant ⭐
   - [stable-diffusion.md](https://github.com/star-bits/blog/blob/main/stable-diffusion.md): steering the noise predictor in latent space ⭐
