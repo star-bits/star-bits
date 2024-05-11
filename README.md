@@ -46,16 +46,15 @@
   - [lunarlander.ipynb](https://github.com/star-bits/blog/blob/main/lunarlander.ipynb): optimal action-value function Q*, maxQ(s', a'; w)
   - [pinn.ipynb](https://github.com/star-bits/blog/blob/main/pinn.ipynb): physics-informed neural networks 🚧
   - png: png, jpeg, gif, mp3, mp4, mkv
-  - titanic
-  - housing-prices
   - deeplearningbook: notes from the Deep Learning book
   - mml-book: notes from Mathematics for Machine Learning
   - pml-book: notes from Probabilistic Machine Learning
   - udl-book: notes from Understanding Deep Learning
-  - pong
-  - tetris
   - self-learning-cs: notes from 혼자 공부하는 컴퓨터구조 & 운영체제
   - m1: CISC, RISC, and M1 chips
+  - mana-js: notes from 완성된 웹사이트로 배우는 자바스크립트
+  - pong
+  - tetris
 - sogang
   - [aieg106](https://github.com/star-bits/sogang-aieg106): 기초자연어처리 (장부루, 2024-1)
   - [cse3013](https://github.com/star-bits/sogang-cse3013): 소프트웨어개발도구및환경실습 (김승욱, 2024-1)
