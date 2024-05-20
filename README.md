@@ -2,12 +2,14 @@
 - [giftChatCounter](https://github.com/star-bits/giftChatCounter): 카톡 단톡방의 대화량과 기프티콘 선착순 선물하기를 쏘고 받은 횟수를 세어줍니다.
 - [chatClassifier3](https://github.com/star-bits/chatClassifier3): 문장만 보고 누가 쓴 건지 추측해보자 (Word2Vec, CNN, LSTM, Transformer)
 - [ui-time](https://github.com/star-bits/ui-time): App that displays a 15-minute countdown timer in the macOS menu bar
+- machinegod: 기계신의 노예 - 장당 천원 이미지 캡셔닝
 - rename-group-photos: rename and group photos by their date taken
 - chatterm: terminal themed chat website with recommender system
-- jjuproach-exterminator
+- jjuproach-exterminator: 쩝쩝충 박멸기
+- ipad-alarm-app
 - sdr-esp32
 - timed-click-assist
-- kiosk-ipad-app
+- ipad-kiosk-app
 - [prettyURL](https://github.com/star-bits/prettyURL): Click the extension icon to copy human readable URL.
 - [all-seaing-eye](https://github.com/star-bits/all-seaing-eye): AI lookout at sea using MMDetection
 - [eye-of-segmento](https://github.com/star-bits/eye-of-segmento): segment-anything and ConvNeXt on webcam input
