@@ -3,8 +3,8 @@
 - [chatClassifier3](https://github.com/star-bits/chatClassifier3): 문장만 보고 누가 쓴 건지 추측해보자 (Word2Vec, CNN, LSTM, Transformer)
 - [ui-time](https://github.com/star-bits/ui-time): App that displays a 15-minute countdown timer in the macOS menu bar
 - rename-group-photos: rename and group photos by their date taken
-- jjuproach-exterminator: 줌강/녹강 교수가 쩝쩝충일 때
 - chatterm: terminal themed chat website with recommender system
+- jjuproach-exterminator
 - sdr-esp32
 - timed-click-assist
 - kiosk-ipad-app
