@@ -1,7 +1,7 @@
 - [giftMacro](https://github.com/star-bits/giftMacro): 카톡 단톡방 기프티콘 선착순 선물하기를 (거의) 항상 1등으로 받게 해주는 매크로
 - [giftChatCounter2](https://github.com/star-bits/giftChatCounter2): 카톡 단톡방 대화량 & 선착순 카운터 🚧
 - [chatClassifier3](https://github.com/star-bits/chatClassifier3): 문장만 보고 누가 쓴 건지 추측해보자 (Word2Vec, CNN, LSTM, Transformer)
-- [ui-time](https://github.com/star-bits/ui-time): App that displays a 15-minute countdown timer in the macOS menu bar
+- [ui-time](https://github.com/star-bits/ui-time): add a 15-minute countdown timer in the macOS menu bar
 - rename-group-photos: rename and group photos by their date taken
 - chatterm: terminal themed chat website with recommender system
 - machinegod: 기계신의 노예 - 장당 천원 이미지 캡셔닝
