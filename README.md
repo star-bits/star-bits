@@ -1,6 +1,5 @@
 - [giftMacro](https://github.com/star-bits/giftMacro): 카톡 단톡방 기프티콘 선착순 선물하기를 (거의) 항상 1등으로 받게 해주는 매크로
 - [giftChatCounter2](https://github.com/star-bits/giftChatCounter2): 카톡 단톡방 대화량 & 선착순 카운터 🚧
-- [chatClassifier3](https://github.com/star-bits/chatClassifier3): 단톡방에서 문장만 보고 누가 쓴 건지 추측해보자
 - [ui-time](https://github.com/star-bits/ui-time): add a 15-minute countdown timer in the macOS menu bar
 - rename-group-photos: rename and group photos by their date taken
 - chatterm: terminal themed chat website with recommender system
@@ -47,6 +46,7 @@
   - [web](https://github.com/star-bits/sparta-coding-club-web): index.html, <style>, <script>, app.py, Flask, MongoDB, GET, POST, bs4, AWS
   - [app](https://github.com/star-bits/sparta-coding-club-app): flutter, StatelessWidget, StatefulWidget, Provider, SharedPreferences, async
 - [boostcampAI](https://github.com/star-bits/boostcampAI): 부스트캠프 AI Tech 학습 내용 정리
+- [chatClassifier3](https://github.com/star-bits/chatClassifier3): 단톡방에서 문장만 보고 누가 쓴 건지 추측해보자
 - [prettyURL](https://github.com/star-bits/prettyURL): Click the extension icon to copy human readable URL.
 - [all-seaing-eye](https://github.com/star-bits/all-seaing-eye): AI lookout at sea using MMDetection
 - [eye-of-segmento](https://github.com/star-bits/eye-of-segmento): segment-anything and ConvNeXt on webcam input
