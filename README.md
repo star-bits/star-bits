@@ -4,7 +4,6 @@
 - chatterm: terminal themed chat website with recommender system
 - machinegod: 기계신의 노예 - 장당 천원 이미지 캡셔닝
 - ipad-alarm-app
-- ipad-kiosk-app
 - sdr-esp32
 - blog
   - [entropy.md](https://github.com/star-bits/blog/blob/main/entropy.md): average amount of disorder/surprisal in a system ⭐
