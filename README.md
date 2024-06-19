@@ -1,5 +1,4 @@
 - [giftMacro](https://github.com/star-bits/giftMacro): 카톡 단톡방 기프티콘 선착순 선물하기를 (거의) 항상 1등으로 받게 해주는 매크로
-- [giftChatCounter2](https://github.com/star-bits/giftChatCounter2): 카톡 단톡방 대화량 & 선착순 카운터 🚧
 - [ui-time](https://github.com/star-bits/ui-time): add a 15-minute countdown timer in the macOS menu bar
 - rename-group-photos: rename and group photos by their date taken
 - chatterm: terminal themed chat website with recommender system
@@ -47,6 +46,7 @@
   - [app](https://github.com/star-bits/sparta-coding-club-app): flutter, StatelessWidget, StatefulWidget, Provider, SharedPreferences, async
 - [boostcampAI](https://github.com/star-bits/boostcampAI): 부스트캠프 AI Tech 학습 내용 정리
 - [chatClassifier3](https://github.com/star-bits/chatClassifier3): 단톡방에서 문장만 보고 누가 쓴 건지 추측해보자
+- [giftChatCounter2](https://github.com/star-bits/giftChatCounter2): 카톡 단톡방 대화량 & 선착순 카운터 🚧
 - [prettyURL](https://github.com/star-bits/prettyURL): Click the extension icon to copy human readable URL.
 - [all-seaing-eye](https://github.com/star-bits/all-seaing-eye): AI lookout at sea using MMDetection
 - [eye-of-segmento](https://github.com/star-bits/eye-of-segmento): segment-anything and ConvNeXt on webcam input
@@ -54,7 +54,3 @@
 - [gmarket-taja-game-bot](https://github.com/star-bits/gmarket-taja-game-bot): G마켓 타자왕 이벤트 매크로
 - [kichATwear](https://github.com/star-bits/kichATwear): A Wear OS watch face inspired by linux terminal aesthetics.
 - [sort-into-subfolders](https://github.com/star-bits/sort-into-subfolders): Sort files by date created, date modified, content created (EXIF)
-- gist
-  - [nintendo_switch_screenshots_folder.py](https://gist.github.com/star-bits/f7250dc0af18fb2daee6ed074ff043c5), [rename_photos_YYYYMMDD_hhmmss.py](https://gist.github.com/star-bits/6bf1b8edf07806f096367886db9ac41d)
-- Quickstart guide for running...
-  - [stable-diffusion-webui](https://github.com/star-bits/stable-diffusion-webui/tree/master), [llama.cpp](https://github.com/star-bits/llama.cpp), [llama.ggmlv3.cpp](https://github.com/star-bits/llama.ggmlv3.cpp), [whisper.cpp](https://github.com/star-bits/whisper.cpp), [Whisper-WebUI](https://github.com/star-bits/Whisper-WebUI), [pdfGPT](https://github.com/star-bits/pdfGPT), [ThreeBodyBot](https://github.com/star-bits/ThreeBodyBot), [llama2](https://github.com/star-bits/llama2)
