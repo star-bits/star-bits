@@ -1,10 +1,11 @@
 - [giftMacro](https://github.com/star-bits/giftMacro): 카톡 단톡방 기프티콘 선착순 선물하기를 (거의) 항상 1등으로 받게 해주는 매크로
 - [ui-time](https://github.com/star-bits/ui-time): add a 15-minute countdown timer in the macOS menu bar
-- rename-group-photos: rename and group photos by their date taken
-- chatterm: terminal themed chat website with recommender system
-- machinegod: 기계신의 노예 - 장당 천원 이미지 캡셔닝
 - ipad-alarm-app
+- imgcon-catter
 - sdr-esp32
+- rename-group-photos
+- chatterm
+- machinegod
 - blog
   - [entropy.md](https://github.com/star-bits/blog/blob/main/entropy.md): average amount of disorder/surprisal in a system ⭐
   - quantum.pdf: quantum physics
