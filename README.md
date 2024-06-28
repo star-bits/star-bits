@@ -11,7 +11,6 @@ Singularity, light elements, stars ⭐, heavier elements, Earth 🌏, humans �
 - machinegod
 - blog
   - [entropy.md](https://github.com/star-bits/blog/blob/main/entropy.md): average amount of disorder/surprisal in a system
-  - quantum.pdf: quantum physics
   - [gradient.md](https://github.com/star-bits/blog/blob/main/gradient.md): dL/dw, numerical gradient, backprop
   - [backprop.md](https://github.com/star-bits/blog/blob/main/backprop.md): backward propagation
   - [fastbook.md](https://github.com/star-bits/blog/blob/main/fastbook.md): notes from the fastai book
