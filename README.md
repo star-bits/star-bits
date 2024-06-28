@@ -41,6 +41,10 @@ Singularity, light elements, stars ⭐, heavier elements, Earth 🌏, humans �
 - sogang
   - [aieg106](https://github.com/star-bits/sogang-aieg106): 기초자연어처리 (장부루, 2024-1) 기말대체캐글
   - [cse3013](https://github.com/star-bits/sogang-cse3013): 소프트웨어개발도구및환경실습 (김승욱, 2024-1) 실습 및 과제
+- mlb
+  - dls
+  - kaggle
+  - sprint
 - codingapple
   - [nodejs](https://github.com/star-bits/codingapple-nodejs)
 - spartacodingclub
