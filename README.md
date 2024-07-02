@@ -19,7 +19,6 @@ Singularity, light elements, stars ⭐, heavier elements, Earth 🌏, humans �
   - [optimizer.md](https://github.com/star-bits/blog/blob/main/optimizer.md): SGD, SGD with momentum, AdaGrad, RMSprop, Adam
   - [yoonlp.md](https://github.com/star-bits/blog/blob/main/yoonlp.md): NNLM, Word2Vec from 딥 러닝을 이용한 자연어 처리 입문
   - [matplotlib.ipynb](https://github.com/star-bits/blog/blob/main/matplotlib.ipynb): state-based vs. object-oriented
-  - [network.md](https://github.com/star-bits/blog/blob/main/network.md): router, frame, DHCP, NAT, ARP
   - [mbyn.md](https://github.com/star-bits/blog/blob/main/mbyn.md): representation of m by n matrix in math, python, numpy
   - [transformer.md](https://github.com/star-bits/blog/blob/main/transformer.md): attention
   - [decoder.ipynb](https://github.com/star-bits/blog/blob/main/decoder.ipynb): small gpt from scratch, in code
@@ -27,7 +26,7 @@ Singularity, light elements, stars ⭐, heavier elements, Earth 🌏, humans �
   - [stable-diffusion.md](https://github.com/star-bits/blog/blob/main/stable-diffusion.md): steering the noise predictor in latent space
   - [ip-adapter.md](https://github.com/star-bits/blog/blob/main/ip-adapter.md): image prompt using decoupled cross-attention
   - [mls.md](https://github.com/star-bits/blog/blob/main/mls.md): notes from the Machine Learning Specialization course
-  - [pinn.ipynb](https://github.com/star-bits/blog/blob/main/pinn.ipynb): physics-informed neural networks
+  - pinn: physics-informed neural networks
   - png: png, jpeg, gif, mp3, mp4, mkv
   - deeplearningbook: notes from the Deep Learning book
   - mml-book: notes from Mathematics for Machine Learning
