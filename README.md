@@ -26,16 +26,15 @@ Singularity, light elements, stars ⭐, heavier elements, Earth 🌏, humans �
   - [stable-diffusion.md](https://github.com/star-bits/blog/blob/main/stable-diffusion.md): steering the noise predictor in latent space
   - [ip-adapter.md](https://github.com/star-bits/blog/blob/main/ip-adapter.md): image prompt using decoupled cross-attention
   - [mls.md](https://github.com/star-bits/blog/blob/main/mls.md): notes from the Machine Learning Specialization course
-  - pinn: physics-informed neural networks
-  - png: png, jpeg, gif, mp3, mp4, mkv
   - deeplearningbook: notes from the Deep Learning book
   - mml-book: notes from Mathematics for Machine Learning
   - pml-book: notes from Probabilistic Machine Learning
   - udl-book: notes from Understanding Deep Learning
+  - pinn: physics-informed neural networks
+  - png: png, jpeg, gif, mp3, mp4, mkv
   - self-learning-cs: notes from 혼자 공부하는 컴퓨터구조 & 운영체제
   - m1: CISC, RISC, and M1 chips
   - mana-js: notes from 완성된 웹사이트로 배우는 자바스크립트
-  - pong
 - sogang
   - [aieg106](https://github.com/star-bits/sogang-aieg106): 기초자연어처리 (장부루, 2024-1) 기말대체캐글
   - [cse3013](https://github.com/star-bits/sogang-cse3013): 소프트웨어개발도구및환경실습 (김승욱, 2024-1) 실습 및 과제
