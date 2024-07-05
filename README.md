@@ -13,11 +13,9 @@ Singularity, light elements, stars ⭐, heavier elements, Earth 🌏, humans �
   - [entropy.md](https://github.com/star-bits/blog/blob/main/entropy.md): average amount of disorder/surprisal in a system
   - [gradient.md](https://github.com/star-bits/blog/blob/main/gradient.md): calculating dL/dw
   - [backprop.md](https://github.com/star-bits/blog/blob/main/backprop.md): propagating backward
-  - [fastbook.md](https://github.com/star-bits/blog/blob/main/fastbook.md): notes from the fastai book
   - [linlog.ipynb](https://github.com/star-bits/blog/blob/main/linlog.ipynb): linear regression and logistic regression in torch
   - [mnist.ipynb](https://github.com/star-bits/blog/blob/main/mnist.ipynb): MNIST classification with FC/CNN in np/torch
   - [optimizer.md](https://github.com/star-bits/blog/blob/main/optimizer.md): SGD, SGD with momentum, AdaGrad, RMSprop, Adam
-  - [yoonlp.md](https://github.com/star-bits/blog/blob/main/yoonlp.md): NNLM, Word2Vec from 딥 러닝을 이용한 자연어 처리 입문
   - [matplotlib.ipynb](https://github.com/star-bits/blog/blob/main/matplotlib.ipynb): state-based vs. object-oriented
   - [mbyn.md](https://github.com/star-bits/blog/blob/main/mbyn.md): representation of m by n matrix in math, python, numpy
   - [transformer.md](https://github.com/star-bits/blog/blob/main/transformer.md): attention
@@ -25,7 +23,6 @@ Singularity, light elements, stars ⭐, heavier elements, Earth 🌏, humans �
   - [tokenizer.ipynb](https://github.com/star-bits/blog/blob/main/tokenizer.ipynb): Unicode code point, UTF-8, BPE
   - [stable-diffusion.md](https://github.com/star-bits/blog/blob/main/stable-diffusion.md): steering the noise predictor in latent space
   - [ip-adapter.md](https://github.com/star-bits/blog/blob/main/ip-adapter.md): image prompt using decoupled cross-attention
-  - [mls.md](https://github.com/star-bits/blog/blob/main/mls.md): notes from the Machine Learning Specialization course
   - deeplearningbook: notes from the Deep Learning book
   - mml-book: notes from Mathematics for Machine Learning
   - pml-book: notes from Probabilistic Machine Learning
