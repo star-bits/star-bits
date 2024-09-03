@@ -30,7 +30,8 @@ Singularity, light elements, stars ⭐, heavier elements, Earth 🌏, humans �
   - [aieg106](https://github.com/star-bits/sogang-aieg106): 기초자연어처리 (장부루, 2024-1) 기말대체캐글
   - cseg109: 오디오인식및합성변환 (김지환, 2024-2)
   - [cse3013](https://github.com/star-bits/sogang-cse3013): 소프트웨어개발도구및환경실습 (김승욱, 2024-1) 실습 및 과제
-  - cse3016: 컴퓨터공학실험II (2024-2)
+  - cse3016: 컴퓨터공학실험II (2024-2) 실습 및 과제
+  - cse4070: 운영체제 (김영재, 2024-2) 핀토스 프로젝트
 - mlb
   - [dls](https://github.com/star-bits/mlb-dls)
   - [kaggle](https://github.com/star-bits/mlb-kaggle)
