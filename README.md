@@ -36,7 +36,7 @@
 - mlb
   - [dls](https://github.com/star-bits/mlb-dls): Transformer section from the Deep Learning Specialization
   - [kaggle](https://github.com/star-bits/mlb-kaggle): 캐글 기록 (RSNA 2024 LSDC)
-  - [gemma](https://github.com/star-bits/mlb-gemma): 구글머신러닝부트캠프 Gemma Sprint
+  - [gemma](https://github.com/star-bits/mlb-gemma): Gemma Sprint
 - codingapple
   - [nodejs](https://github.com/star-bits/codingapple-nodejs)
 - spartacodingclub
