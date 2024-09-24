@@ -34,9 +34,9 @@
   - [cse3016](https://github.com/star-bits/sogang-cse3016): 컴퓨터공학실험II (2024-2) 실습 및 과제
   - [cse4070](https://github.com/star-bits/sogang-cse4070): 운영체제 (김영재, 2024-2) 핀토스 프로젝트
 - mlb
-  - [dls](https://github.com/star-bits/mlb-dls)
-  - [kaggle](https://github.com/star-bits/mlb-kaggle)
-  - gemma
+  - [dls](https://github.com/star-bits/mlb-dls): Transformer section from the Deep Learning Specialization
+  - [kaggle](https://github.com/star-bits/mlb-kaggle): 캐글 기록 (RSNA 2024 LSDC)
+  - [gemma](https://github.com/star-bits/mlb-gemma): 구글머신러닝부트캠프 Gemma Sprint
 - codingapple
   - [nodejs](https://github.com/star-bits/codingapple-nodejs)
 - spartacodingclub
