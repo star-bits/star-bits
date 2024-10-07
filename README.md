@@ -36,7 +36,7 @@
   - [cse3016](https://github.com/star-bits/sogang-cse3016): 컴퓨터공학실험II (2024-2) 실습
 - mlb
   - [dls](https://github.com/star-bits/mlb-dls): Transformer section from the Deep Learning Specialization
-  - [kaggle](https://github.com/star-bits/mlb-kaggle): 캐글 기록 (RSNA 2024 LSDC)
+  - [kaggle](https://github.com/star-bits/mlb-kaggle): 구글머신러닝부트캠프 캐글 기록 - RSNA 2024 LSDC
   - [gemma](https://github.com/star-bits/mlb-gemma): instruction tuning gemma2-2b-it through LoRA
 - codingapple
   - [nodejs](https://github.com/star-bits/codingapple-nodejs)
