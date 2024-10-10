@@ -35,7 +35,7 @@
   - [cse4070](https://github.com/star-bits/sogang-cse4070): 운영체제 (김영재, 2024-2) 핀토스 프로젝트
   - [cse3013](https://github.com/star-bits/sogang-cse3013): 소프트웨어개발도구및환경실습 (김승욱, 2024-1) 실습 및 과제
   - [cse3016](https://github.com/star-bits/sogang-cse3016): 컴퓨터공학실험II (2024-2) 실습
-  - phy4202: 양자정보이론 (손원민, 2020-2) 기말노트 기말답안
+  - [phy4202](https://github.com/star-bits/sogang-phy4202): 양자정보이론 (손원민, 2020-2) 기말노트 기말답안
   - phy4010: 일반상대성이론 (박정혁, 2024-2) 숙제
 - mlb
   - [dls](https://github.com/star-bits/mlb-dls): Transformer section from the Deep Learning Specialization
