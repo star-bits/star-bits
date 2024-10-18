@@ -55,4 +55,5 @@
 - [burgerkingevent-bot](https://github.com/star-bits/burgerkingevent-bot): 콰트로 맥시멈...이하 생략 이벤트 매크로
 - [gmarket-taja-game-bot](https://github.com/star-bits/gmarket-taja-game-bot): G마켓 타자왕 이벤트 매크로
 - [kichATwear](https://github.com/star-bits/kichATwear): A Wear OS watch face inspired by linux terminal aesthetics.
+- [ThreeBodyBot](https://github.com/star-bits/ThreeBodyBot): Quickstart guide for running ThreeBodyBot
 - [sort-into-subfolders](https://github.com/star-bits/sort-into-subfolders): Sort files by date created, date modified, content created (EXIF)
