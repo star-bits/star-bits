@@ -5,14 +5,12 @@
 - [time-keeper](https://github.com/star-bits/time-keeper): dial TimePicker, Dismiss next, set for n hours, *custom sound
 - varch: keystroke-varch
 - blog
+  - entropy.md
+  - diffusion.pdf
   - [entropy.md](https://github.com/star-bits/blog/blob/main/entropy.md): average amount of disorder/surprisal in a system
-  - [gradient.md](https://github.com/star-bits/blog/blob/main/gradient.md): calculating dL/dw
-  - [backprop.md](https://github.com/star-bits/blog/blob/main/backprop.md): propagating backward
-  - [linlog.ipynb](https://github.com/star-bits/blog/blob/main/linlog.ipynb): linear regression and logistic regression in torch
   - [matplotlib.ipynb](https://github.com/star-bits/blog/blob/main/matplotlib.ipynb): state-based vs. object-oriented
   - [mbyn.md](https://github.com/star-bits/blog/blob/main/mbyn.md): representation of m by n matrix in math, python, numpy
   - [transformer.md](https://github.com/star-bits/blog/blob/main/transformer.md): attention
-  - [decoder.ipynb](https://github.com/star-bits/blog/blob/main/decoder.ipynb): small GPT from scratch, in code
   - [stable-diffusion.md](https://github.com/star-bits/blog/blob/main/stable-diffusion.md): steering the noise predictor in latent space
   - [ip-adapter.md](https://github.com/star-bits/blog/blob/main/ip-adapter.md): image prompt using decoupled cross-attention
   - oop: object-oriented programming and other details in python
@@ -28,6 +26,9 @@
   - self-learning-cs: notes from 혼자 공부하는 컴퓨터구조 & 운영체제
   - m1: CISC, RISC, and M1 chips
   - mana-js: notes from 완성된 웹사이트로 배우는 자바스크립트
+- sogangparrot
+  - nn.pdf
+  - transformer.pdf
 - sogang
   - [aieg106](https://github.com/star-bits/sogang-aieg106): 기초자연어처리 (장부루, 2024-1) 기말대체캐글
   - cseg109: 오디오인식및합성변환 (김지환, 2024-2)
