@@ -23,7 +23,6 @@
   - [phy4202](https://github.com/star-bits/sogang-phy4202): 양자정보이론 (손원민, 2020-2) 기말노트, 기말답안
   - phy4010: 일반상대성이론 (박정혁, 2024-2) 숙제
 - mlb
-  - [dls](https://github.com/star-bits/mlb-dls): Transformer section from the Deep Learning Specialization
   - [kaggle](https://github.com/star-bits/mlb-kaggle): 구글머신러닝부트캠프 캐글 기록 - RSNA 2024 LSDC
   - [gemma](https://github.com/star-bits/mlb-gemma): instruction tuning gemma2-2b-it through LoRA
 - codingapple
