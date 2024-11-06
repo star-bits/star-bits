@@ -8,7 +8,7 @@
   - [stable-diffusion.md](https://github.com/star-bits/blog/blob/main/stable-diffusion.md): steering the noise predictor in latent space
   - [ip-adapter.md](https://github.com/star-bits/blog/blob/main/ip-adapter.md): image prompt using decoupled cross-attention
 - sogangparrot
-  - nn.pdf: 딥러닝 뉴럴넷 세션 발표자료
+  - [nn.pdf](https://github.com/star-bits/sogangparrot/blob/main/nn.pdf): 딥러닝 뉴럴넷 세션 발표자료
   - nlp.pdf: 딥러닝 NLP 세션 발표자료
   - llm.pdf: 딥러닝 LLM 세션 발표자료
 - sogang
