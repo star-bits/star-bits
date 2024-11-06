@@ -3,7 +3,7 @@
 - [giftMacro](https://github.com/star-bits/giftMacro): 카톡 단톡방 기프티콘 선착순 선물하기를 (거의) 항상 1등으로 받게 해주는 매크로
 - [ui-time](https://github.com/star-bits/ui-time): add a 15-minute countdown timer in the macOS menu bar
 - [time-keeper](https://github.com/star-bits/time-keeper): dial TimePicker, Dismiss next, set for n hours
-- varch: keystroke-varch
+- varch: 낮말-새, 밤말-쥐, keystroke-varch
 - blog
   - [stable-diffusion.md](https://github.com/star-bits/blog/blob/main/stable-diffusion.md): steering the noise predictor in latent space
   - [ip-adapter.md](https://github.com/star-bits/blog/blob/main/ip-adapter.md): image prompt using decoupled cross-attention
