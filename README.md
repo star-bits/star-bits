@@ -5,12 +5,10 @@
 - [time-keeper](https://github.com/star-bits/time-keeper): dial TimePicker, Dismiss next, set for n hours
 - varch: keystroke-varch
 - blog
-  - diffusion.pdf
   - [stable-diffusion.md](https://github.com/star-bits/blog/blob/main/stable-diffusion.md): steering the noise predictor in latent space
   - [ip-adapter.md](https://github.com/star-bits/blog/blob/main/ip-adapter.md): image prompt using decoupled cross-attention
 - sogangparrot
-  - nn.pdf: 뉴럴네트워크 세션 발표자료
-  - transformer.pdf
+  - nn.pdf: 딥러닝 뉴럴넷 세션 발표자료
 - sogang
   - [aieg106](https://github.com/star-bits/sogang-aieg106): 기초자연어처리 (장부루, 2024-1) 기말대체캐글
   - cseg109: 오디오인식및합성변환 (김지환, 2024-2)
