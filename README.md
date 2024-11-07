@@ -9,8 +9,8 @@
   - [ip-adapter.md](https://github.com/star-bits/blog/blob/main/ip-adapter.md): image prompt using decoupled cross-attention
 - sogangparrot
   - [nn.pdf](https://github.com/star-bits/sogangparrot/blob/main/nn.pdf): 딥러닝 뉴럴넷 세션 발표자료
-  - nlp.pdf: 딥러닝 NLP 세션 발표자료
-  - llm.pdf: 딥러닝 LLM 세션 발표자료
+  - nlp.md: 딥러닝 NLP 세션 보조자료
+  - llm.md: 딥러닝 LLM 세션 보조자료
 - sogang
   - [aieg106](https://github.com/star-bits/sogang-aieg106): 기초자연어처리 (장부루, 2024-1) 기말대체캐글
   - cseg109: 오디오인식및합성변환 (김지환, 2024-2)
