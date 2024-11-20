@@ -10,7 +10,7 @@
   - nlp.md: 딥러닝 NLP 세션 발표자료
 - sogang
   - [aieg106](https://github.com/star-bits/sogang-aieg106): 기초자연어처리 (장부루, 2024-1) 기말대체캐글
-  - cseg109: 오디오인식및합성변환 (김지환, 2024-2)
+  - [cseg109](https://github.com/star-bits/sogang-cseg109): 오디오인식및합성변환 (김지환, 2024-2) 실습
   - [cse4070](https://github.com/star-bits/sogang-cse4070): 운영체제 (김영재, 2024-2) 핀토스 프로젝트
   - [cse3013](https://github.com/star-bits/sogang-cse3013): 소프트웨어개발도구및환경실습 (김승욱, 2024-1) 실습 및 과제
   - [cse3016](https://github.com/star-bits/sogang-cse3016): 컴퓨터공학실험II (2024-2) 실습
