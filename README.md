@@ -8,6 +8,7 @@
 - sogangparrot
   - [nn.md](https://github.com/star-bits/sogangparrot/blob/main/nn.md): 딥러닝 뉴럴넷 세션 발표자료
   - [nlp.md](https://github.com/star-bits/sogangparrot/blob/main/nlp.md): 딥러닝 NLP 세션 발표자료
+  - [it.ipynb](https://colab.research.google.com/github/star-bits/sogangparrot/blob/main/it.ipynb): 딥러닝 NLP 세션 실습자료
 - sogang
   - [aieg106](https://github.com/star-bits/sogang-aieg106): 기초자연어처리 (장부루, 2024-1) 기말대체캐글
   - [cseg109](https://github.com/star-bits/sogang-cseg109): 오디오인식및합성변환 (김지환, 2024-2) 실습
