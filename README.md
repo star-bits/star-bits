@@ -19,7 +19,7 @@
   - phy4010: 일반상대성이론 (박정혁, 2024-2) 숙제
 - mlb
   - [kaggle](https://github.com/star-bits/mlb-kaggle): 구글머신러닝부트캠프 캐글 기록 - RSNA 2024 LSDC
-  - [gemma](https://github.com/star-bits/mlb-gemma): instruction tuning gemma2-2b-it through LoRA
+  - [gemma](https://github.com/star-bits/mlb-gemma): instruction tuning gemma2-2b-it with LoRA
 - codingapple
   - [nodejs](https://github.com/star-bits/codingapple-nodejs)
 - spartacodingclub
