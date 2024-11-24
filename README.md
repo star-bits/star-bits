@@ -1,7 +1,7 @@
 ⭐ Stars → 🌏 Earth → 👫 Humans → 👣 Giants → ⚡🧠 Intelligence
 
 - [time-keeper](https://github.com/star-bits/time-keeper): dial TimePicker, Dismiss next, set for n hours
-- varch: 낮말-새, 밤말-쥐, keystroke-varch
+- [varch](https://github.com/star-bits/varch): 낮말-새, 밤말-쥐, keystroke-varch
 - blog
   - [stable-diffusion.md](https://github.com/star-bits/blog/blob/main/stable-diffusion.md): steering the noise predictor in latent space
   - [ip-adapter.md](https://github.com/star-bits/blog/blob/main/ip-adapter.md): image prompt using decoupled cross-attention
