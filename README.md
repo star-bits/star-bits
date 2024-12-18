@@ -1,5 +1,7 @@
 ⭐ Stars → 🌏 Earth → 👫 Humans → 👣 Giants → ⚡🧠 Intelligence
 
+Initial singularity, light elements, stars, heavier elements, Earth, humans, Giants, and Intelligence. In that order.
+
 - [time-keeper](https://github.com/star-bits/time-keeper): dial TimePicker, Dismiss next, set for n hours
 - [varch](https://github.com/star-bits/varch): 낮말-새, 밤말-쥐, keystroke-varch
 - plan: daily TODOs in terminal
