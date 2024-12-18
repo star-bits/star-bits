@@ -4,7 +4,6 @@ Initial singularity, light elements, stars, heavier elements, Earth, humans, Gia
 
 - [time-keeper](https://github.com/star-bits/time-keeper): dial TimePicker, Dismiss next, set for n hours
 - [varch](https://github.com/star-bits/varch): 낮말-새, 밤말-쥐, keystroke-varch
-- plan: daily TODOs in terminal
 - blog
   - [stable-diffusion.md](https://github.com/star-bits/blog/blob/main/stable-diffusion.md): steering the noise predictor in latent space
   - [ip-adapter.md](https://github.com/star-bits/blog/blob/main/ip-adapter.md): image prompt using decoupled cross-attention
@@ -20,14 +19,11 @@ Initial singularity, light elements, stars, heavier elements, Earth, humans, Gia
   - [cse3016](https://github.com/star-bits/sogang-cse3016): 컴퓨터공학실험II (2024-2) 실습
   - [phy4202](https://github.com/star-bits/sogang-phy4202): 양자정보이론 (손원민, 2020-2) 기말노트, 기말답안
   - phy4010: 일반상대성이론 (박정혁, 2024-2) 기말노트
-- mlb
-  - [gemma](https://github.com/star-bits/mlb-gemma): instruction tuning gemma2-2b-it with LoRA
 - codingapple
   - [nodejs](https://github.com/star-bits/codingapple-nodejs)
 - spartacodingclub
   - [web](https://github.com/star-bits/sparta-coding-club-web): index.html, <style>, <script>, app.py, Flask, MongoDB, GET, POST, bs4, AWS
   - [app](https://github.com/star-bits/sparta-coding-club-app): flutter, StatelessWidget, StatefulWidget, Provider, SharedPreferences, async
-- [boostcampAI](https://github.com/star-bits/boostcampAI): 부스트캠프 AI Tech 학습 내용 정리
 - [ui-time](https://github.com/star-bits/ui-time): add a 15-minute countdown timer in the macOS menu bar
 - [prettyURL](https://github.com/star-bits/prettyURL): Click the extension icon to copy human readable URL.
 - [giftMacro](https://github.com/star-bits/giftMacro): 카톡 단톡방 기프티콘 선착순 선물하기를 (거의) 항상 1등으로 받게 해주는 매크로
