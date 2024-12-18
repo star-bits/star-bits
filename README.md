@@ -27,6 +27,4 @@ Initial singularity, light elements, stars, heavier elements, Earth, humans, Gia
 - [ui-time](https://github.com/star-bits/ui-time): add a 15-minute countdown timer in the macOS menu bar
 - [prettyURL](https://github.com/star-bits/prettyURL): Click the extension icon to copy human readable URL.
 - [giftMacro](https://github.com/star-bits/giftMacro): 카톡 단톡방 기프티콘 선착순 선물하기를 (거의) 항상 1등으로 받게 해주는 매크로
-- [chatClassifier3](https://github.com/star-bits/chatClassifier3): 단톡방에서 문장만 보고 누가 쓴 건지 추측해보자
-- [giftChatCounter2](https://github.com/star-bits/giftChatCounter2): 카톡 단톡방 대화량 & 선착순 카운터
 - [sort-into-subfolders](https://github.com/star-bits/sort-into-subfolders): Sort files by date created, date modified, content created (EXIF)
