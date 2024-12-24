@@ -5,6 +5,8 @@ Initial singularity, light elements, stars, heavier elements, Earth, humans, Gia
 - [time-keeper](https://github.com/star-bits/time-keeper): dial TimePicker, Dismiss next, set for n hours
 - [varch](https://github.com/star-bits/varch): 낮말-새, 밤말-쥐, keystroke-varch
 - blog
+  - [latent-reasoning.md](https://github.com/star-bits/blog/blob/main/latent-reasoning.md): making reasoning happen in latent space
+  - [concept-model.md](https://github.com/star-bits/blog/blob/main/concept-model.md):
   - [stable-diffusion.md](https://github.com/star-bits/blog/blob/main/stable-diffusion.md): steering the noise predictor in latent space
   - [ip-adapter.md](https://github.com/star-bits/blog/blob/main/ip-adapter.md): image prompt using decoupled cross-attention
 - sogangparrot
