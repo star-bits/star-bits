@@ -5,8 +5,6 @@ Initial singularity, light elements, stars, heavier elements, Earth, humans, Gia
 - [time-keeper](https://github.com/star-bits/time-keeper): dial TimePicker, Dismiss next, set for n hours
 - [varch](https://github.com/star-bits/varch): 낮말-새, 밤말-쥐, keystroke-varch
 - blog
-  - [stable-diffusion.md](https://github.com/star-bits/blog/blob/main/stable-diffusion.md): steering the noise predictor in latent space
-  - [ip-adapter.md](https://github.com/star-bits/blog/blob/main/ip-adapter.md): image prompt using decoupled cross-attention
 - sogangparrot
   - [nn.md](https://github.com/star-bits/sogangparrot/blob/main/nn.md): 딥러닝 뉴럴넷 세션 발표자료
   - [nlp.md](https://github.com/star-bits/sogangparrot/blob/main/nlp.md): 딥러닝 NLP 세션 발표자료
@@ -20,7 +18,7 @@ Initial singularity, light elements, stars, heavier elements, Earth, humans, Gia
   - [phy4202](https://github.com/star-bits/sogang-phy4202): 양자정보이론 (손원민, 2020-2) 기말노트, 기말답안
   - phy4010: 일반상대성이론 (박정혁, 2024-2) 기말노트
 - codingapple
-  - [nodejs](https://github.com/star-bits/codingapple-nodejs): 
+  - nodejs
 - spartacodingclub
   - [web](https://github.com/star-bits/sparta-coding-club-web): index.html, <style>, <script>, app.py, Flask, MongoDB, GET, POST, bs4, AWS
   - [app](https://github.com/star-bits/sparta-coding-club-app): flutter, StatelessWidget, StatefulWidget, Provider, SharedPreferences, async
