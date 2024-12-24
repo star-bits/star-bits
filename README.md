@@ -22,7 +22,7 @@ Initial singularity, light elements, stars, heavier elements, Earth, humans, Gia
   - [phy4202](https://github.com/star-bits/sogang-phy4202): 양자정보이론 (손원민, 2020-2) 기말노트, 기말답안
   - phy4010: 일반상대성이론 (박정혁, 2024-2) 기말노트
 - codingapple
-  - [nodejs](https://github.com/star-bits/codingapple-nodejs)
+  - [nodejs](https://github.com/star-bits/codingapple-nodejs): 
 - spartacodingclub
   - [web](https://github.com/star-bits/sparta-coding-club-web): index.html, <style>, <script>, app.py, Flask, MongoDB, GET, POST, bs4, AWS
   - [app](https://github.com/star-bits/sparta-coding-club-app): flutter, StatelessWidget, StatefulWidget, Provider, SharedPreferences, async
