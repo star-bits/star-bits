@@ -5,6 +5,13 @@ Initial singularity, light elements, stars, heavier elements, Earth, humans, Gia
 - [time-keeper](https://github.com/star-bits/time-keeper): dial TimePicker, Dismiss next, set for n hours
 - [varch](https://github.com/star-bits/varch): 낮말-새, 밤말-쥐, keystroke-varch
 - blog:
+  - [latent-reasoning.md](https://github.com/star-bits/blog/blob/main/latent-reasoning.md): (token-level) latent space에서 CoT로 reasoning 하기
+  - [concept-model.md](https://github.com/star-bits/blog/blob/main/concept-model.md): sentence-level latent space에서 reasoning 하기
+  - [byte-latent.md]()
+  - [dennyzhou-reason.md]()
+  - [alphago-zero.md]()
+  - [latent-diffusion.md](https://github.com/star-bits/blog/blob/main/latent-diffusion.md): latent space에서 noise predictor를 steering 하기
+  - [decoupled-cross.md](https://github.com/star-bits/blog/blob/main/decoupled-cross.md): decoupled cross-attention으로 텍스트와 이미지 프롬프트를 넣어주기
 - sogangparrot
   - [nn.md](https://github.com/star-bits/sogangparrot/blob/main/nn.md): 딥러닝 뉴럴넷 세션 발표자료
   - [nlp.md](https://github.com/star-bits/sogangparrot/blob/main/nlp.md): 딥러닝 NLP 세션 발표자료
