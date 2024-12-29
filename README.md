@@ -7,8 +7,14 @@ Initial singularity, light elements, stars, heavier elements, Earth, humans, Gia
 - blog:
   - [latent-reasoning.md](https://github.com/star-bits/blog/blob/main/latent-reasoning.md): (token-level) latent space에서 CoT로 reasoning 하기
   - [concept-model.md](https://github.com/star-bits/blog/blob/main/concept-model.md): sentence-level latent space에서 reasoning 하기
-  - [byte-latent.md]()
+  - [entropy-patch.md](): byte끼리 entropy를 기준으로 묶어서 patch를 만들고 token 대신 사용하기
+  - [cot-noprompting.md]()
+  - [socratic-learning.md]()
+  - [latent-multihop.md]()
+  - [deepseek-v3.md]()
+  - [o1-attempts.md](): Tencent (DRT-o1), Fudan U, Beijing Jiaotong (o1-Coder), Alibaba (Marco-o1), QwQ
   - [alpha-zero.md]()
+  - [llm-dqo.md](): Direct Q-function Optimization on LLM
   - [latent-diffusion.md](https://github.com/star-bits/blog/blob/main/latent-diffusion.md): latent space에서 noise predictor를 steering 하기
   - [decoupled-cross.md](https://github.com/star-bits/blog/blob/main/decoupled-cross.md): decoupled cross-attention으로 텍스트와 이미지 프롬프트를 넣어주기
 - sogangparrot
