@@ -8,8 +8,7 @@ Initial singularity, light elements, stars, heavier elements, Earth, humans, Gia
   - [latent-reasoning.md](https://github.com/star-bits/blog/blob/main/latent-reasoning.md): (token-level) latent space에서 CoT로 reasoning 하기
   - [concept-model.md](https://github.com/star-bits/blog/blob/main/concept-model.md): sentence-level latent space에서 reasoning 하기
   - [byte-latent.md]()
-  - [dennyzhou-reason.md]()
-  - [alphago-zero.md]()
+  - [alpha-zero.md]()
   - [latent-diffusion.md](https://github.com/star-bits/blog/blob/main/latent-diffusion.md): latent space에서 noise predictor를 steering 하기
   - [decoupled-cross.md](https://github.com/star-bits/blog/blob/main/decoupled-cross.md): decoupled cross-attention으로 텍스트와 이미지 프롬프트를 넣어주기
 - sogangparrot
