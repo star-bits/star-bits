@@ -5,8 +5,8 @@ Initial singularity, light elements, stars, heavier elements, Earth, humans, Gia
 - [time-keeper](https://github.com/star-bits/time-keeper): dial TimePicker, Dismiss next, set for n hours
 - [varch](https://github.com/star-bits/varch): 낮말-새, 밤말-쥐, keystroke-varch
 - blog:
-  - [latent-reasoning.md](https://github.com/star-bits/blog/blob/main/latent-reasoning.md): (token-level) latent space에서 CoT로 reasoning 하기
-  - [concept-model.md](https://github.com/star-bits/blog/blob/main/concept-model.md): sentence-level latent space에서 reasoning 하기
+  - [latent-reasoning.md](https://github.com/star-bits/blog/blob/main/latent-reasoning.md): (token-level) latent space에서 thought token으로 CoT 하기
+  - [concept-model.md](https://github.com/star-bits/blog/blob/main/concept-model.md): sentence-level latent space에서 diffusion으로 reasoning 하기
   - [entropy-patch.md](): byte끼리 entropy를 기준으로 묶어서 patch를 만들고 token 대신 사용하기
   - [cot-noprompting.md]()
   - [socratic-learning.md]()
