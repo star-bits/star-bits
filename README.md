@@ -14,7 +14,7 @@ Initial singularity, light elements, stars, heavier elements, Earth, humans, Gia
   - [deepseek-v3.md]()
   - [o1-attempts.md](): o1 replication attempts from Tencent, Alibaba, Beijing Jiaotong, Qwen
   - [alpha-zero.md](): average data labeler 이상의 intelligence를 끌어내기 위한 true RL 방법 찾기
-  - [llm-dqo.md](): Direct Q-function Optimization on LLM
+  - [llm-dqo.md](): Direct Q-function Optimization을 LLM에 적용하기
   - [latent-diffusion.md](https://github.com/star-bits/blog/blob/main/latent-diffusion.md): latent space에서 noise predictor를 steering 하기
   - [decoupled-cross.md](https://github.com/star-bits/blog/blob/main/decoupled-cross.md): decoupled cross-attention으로 텍스트와 이미지 프롬프트를 넣어주기
 - sogangparrot
