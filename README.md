@@ -8,7 +8,7 @@ Initial singularity, light elements, stars, heavier elements, Earth, humans, Gia
   - [thought-token.md](https://github.com/star-bits/blog/blob/main/thought-token.md): (token-level) latent space에서 thought token으로 CoT 하기
   - [concept-model.md](https://github.com/star-bits/blog/blob/main/concept-model.md): sentence-level latent space에서 diffusion으로 reasoning 하기
   - [entropy-patch.md](): byte끼리 entropy를 기준으로 묶어서 patch를 만들고 token 대신 사용하기
-  - [socratic-learning.md]()
+  - [socratic-learning.md](): language input/output을 갖는 pure recursive self-improvement
   - [cot-noprompting.md]()
   - [latent-multihop.md]()
   - [deepseek-v3.md]()
