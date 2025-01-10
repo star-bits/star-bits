@@ -9,8 +9,10 @@ Initial singularity, light elements, stars, heavier elements, Earth, humans, Gia
   - [concept-model.md](https://github.com/star-bits/blog/blob/main/concept-model.md): sentence-level latent space에서 diffusion으로 reasoning 하기
   - [entropy-patch.md](https://github.com/star-bits/blog/blob/main/entropy-patch.md): byte끼리 entropy를 기준으로 묶어서 patch를 만들고 token 대신 사용하기
   - [socratic-learning.md](https://github.com/star-bits/blog/blob/main/socratic-learning.md): language space에서의 pure recursive self-improvement
+  - [buffer-thoughts.md](https://github.com/star-bits/blog/blob/main/buffer-thoughts.md): thought template으로 성능 향상시키기
+  - [testtime-compute.md](https://github.com/star-bits/blog/blob/main/testtime-compute.md)
+  - [o1-attempts.md](https://github.com/star-bits/blog/blob/main/o1-attempts.md): o1 replication attempts from Alibaba, Tencent, Beijing Jiaotong, DeepSeek
   - [cot-noprompting.md](https://github.com/star-bits/blog/blob/main/cot-noprompting.md)
-  - [buffer-thoughts.md](https://github.com/star-bits/blog/blob/main/buffer-thoughts.md)
   - [latent-multihop.md](https://github.com/star-bits/blog/blob/main/latent-multihop.md)
   - [selftaught-reasoner.md](https://github.com/star-bits/blog/blob/main/selftaught-reasoner.md)
   - [latent-kvcacheaug.md](https://github.com/star-bits/blog/blob/main/latent-kvcacheaug.md)
@@ -19,7 +21,6 @@ Initial singularity, light elements, stars, heavier elements, Earth, humans, Gia
   - [process-supervision.md](https://github.com/star-bits/blog/blob/main/process-supervision.md)
   - [process-reward.md](https://github.com/star-bits/blog/blob/main/process-reward.md)
   - [deepseek-v3.md](https://github.com/star-bits/blog/blob/main/deepseek-v3.md)
-  - [o1-attempts.md](https://github.com/star-bits/blog/blob/main/o1-attempts.md): o1 replication attempts from Tencent, Alibaba, Beijing Jiaotong, Qwen
   - [alpha-zero.md](https://github.com/star-bits/blog/blob/main/alpha-zero.md): average data labeler 이상의 intelligence를 끌어내기 위한 true RL 방법 찾기
   - [latent-diffusion.md](https://github.com/star-bits/blog/blob/main/latent-diffusion.md): latent space에서 noise predictor를 steering 하기
   - [decoupled-cross.md](https://github.com/star-bits/blog/blob/main/decoupled-cross.md): decoupled cross-attention으로 텍스트와 이미지 프롬프트를 넣어주기
