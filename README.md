@@ -5,11 +5,11 @@ Initial singularity, light elements, stars, heavier elements, Earth, humans, Gia
 - [time-keeper](https://github.com/star-bits/time-keeper): dial TimePicker, Dismiss next, set for n hours
 - [varch](https://github.com/star-bits/varch): 낮말-새, 밤말-쥐, keystroke-varch
 - blog:
-  - [thought-token.md](https://github.com/star-bits/blog/blob/main/thought-token.md): (token-level) latent space에서 thought token으로 CoT 하기
+  - [thought-token.md](https://github.com/star-bits/blog/blob/main/thought-token.md): (token-level) latent space에서 thought token으로 CoT 하기 (Coconut)
   - [concept-model.md](https://github.com/star-bits/blog/blob/main/concept-model.md): sentence-level latent space에서 diffusion으로 reasoning 하기 (LCM)
   - [entropy-patch.md](https://github.com/star-bits/blog/blob/main/entropy-patch.md): byte끼리 entropy를 기준으로 묶어서 patch를 만들고 token 대신 사용하기 (BLT)
   - [socratic-learning.md](https://github.com/star-bits/blog/blob/main/socratic-learning.md): language space에서의 pure recursive self-improvement
-  - [buffer-thoughts.md](https://github.com/star-bits/blog/blob/main/buffer-thoughts.md): thought template으로 성능 향상시키기 (BoT)
+  - [thought-templates.md](https://github.com/star-bits/blog/blob/main/buffer-thoughts.md): 해당 reasoning task에 적합한 thought template으로 RAG (BoT)
   - [testtime-compute.md](https://github.com/star-bits/blog/blob/main/testtime-compute.md)
   - [cot-noprompting.md](https://github.com/star-bits/blog/blob/main/cot-noprompting.md)
   - [selftaught-reasoner.md](https://github.com/star-bits/blog/blob/main/selftaught-reasoner.md): (STaR)
