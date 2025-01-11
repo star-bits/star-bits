@@ -9,7 +9,7 @@ Initial singularity, light elements, stars, heavier elements, Earth, humans, Gia
   - [concept-model.md](https://github.com/star-bits/blog/blob/main/concept-model.md): sentence-level latent space에서 diffusion으로 reasoning 하기 (LCM)
   - [entropy-patch.md](https://github.com/star-bits/blog/blob/main/entropy-patch.md): byte끼리 entropy를 기준으로 묶어서 patch를 만들고 token 대신 사용하기 (BLT)
   - [socratic-learning.md](https://github.com/star-bits/blog/blob/main/socratic-learning.md): language space에서의 pure recursive self-improvement
-  - [thought-templates.md](https://github.com/star-bits/blog/blob/main/buffer-thoughts.md): 해당 reasoning task에 적합한 thought template으로 RAG (BoT)
+  - [thought-templates.md](https://github.com/star-bits/blog/blob/main/thought-templates.md): 해당 reasoning task에 적합한 thought template으로 RAG (BoT)
   - [testtime-compute.md](https://github.com/star-bits/blog/blob/main/testtime-compute.md)
   - [cot-noprompting.md](https://github.com/star-bits/blog/blob/main/cot-noprompting.md)
   - [selftaught-reasoner.md](https://github.com/star-bits/blog/blob/main/selftaught-reasoner.md): (STaR)
