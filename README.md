@@ -6,22 +6,50 @@ Initial singularity, light elements, stars, heavier elements, Earth, humans, Gia
 - [varch](https://github.com/star-bits/varch): 낮말-새, 밤말-쥐, keystroke-varch
 - blog:
   - [thought-token.md](https://github.com/star-bits/blog/blob/main/thought-token.md): (token-level) latent space에서 thought token으로 CoT 하기
-  - [concept-model.md](https://github.com/star-bits/blog/blob/main/concept-model.md): sentence-level latent space에서 diffusion으로 reasoning 하기
-  - [entropy-patch.md](https://github.com/star-bits/blog/blob/main/entropy-patch.md): byte끼리 entropy를 기준으로 묶어서 patch를 만들고 token 대신 사용하기
+  - [concept-model.md](https://github.com/star-bits/blog/blob/main/concept-model.md): sentence-level latent space에서 diffusion으로 reasoning 하기 (LCM)
+  - [entropy-patch.md](https://github.com/star-bits/blog/blob/main/entropy-patch.md): byte끼리 entropy를 기준으로 묶어서 patch를 만들고 token 대신 사용하기 (BLT)
   - [socratic-learning.md](https://github.com/star-bits/blog/blob/main/socratic-learning.md): language space에서의 pure recursive self-improvement
-  - [buffer-thoughts.md](https://github.com/star-bits/blog/blob/main/buffer-thoughts.md): thought template으로 성능 향상시키기
+  - [buffer-thoughts.md](https://github.com/star-bits/blog/blob/main/buffer-thoughts.md): thought template으로 성능 향상시키기 (BoT)
   - [testtime-compute.md](https://github.com/star-bits/blog/blob/main/testtime-compute.md)
-  - [o1-attempts.md](https://github.com/star-bits/blog/blob/main/o1-attempts.md): o1 replication attempts from Alibaba, Tencent, Beijing Jiaotong, DeepSeek
   - [cot-noprompting.md](https://github.com/star-bits/blog/blob/main/cot-noprompting.md)
-  - [latent-multihop.md](https://github.com/star-bits/blog/blob/main/latent-multihop.md)
-  - [selftaught-reasoner.md](https://github.com/star-bits/blog/blob/main/selftaught-reasoner.md)
-  - [latent-kvcacheaug.md](https://github.com/star-bits/blog/blob/main/latent-kvcacheaug.md)
-  - [cot-theoretical.md](https://github.com/star-bits/blog/blob/main/cot-theoretical.md)
-  - [llm-dqo.md](https://github.com/star-bits/blog/blob/main/llm-dqo.md)
+  - [selftaught-reasoner.md](https://github.com/star-bits/blog/blob/main/selftaught-reasoner.md): (STaR)
+  - [quiet-star.md](https://github.com/star-bits/blog/blob/main/quiet-star.md): (Quiet-STaR)
   - [process-supervision.md](https://github.com/star-bits/blog/blob/main/process-supervision.md)
   - [process-reward.md](https://github.com/star-bits/blog/blob/main/process-reward.md)
-  - [deepseek-v3.md](https://github.com/star-bits/blog/blob/main/deepseek-v3.md)
+  - [o1-attempts.md](https://github.com/star-bits/blog/blob/main/o1-attempts.md): o1 replication attempts from Alibaba, Tencent, Beijing Jiaotong, DeepSeek
+  - [cot-theoretical.md](https://github.com/star-bits/blog/blob/main/cot-theoretical.md)
   - [alpha-zero.md](https://github.com/star-bits/blog/blob/main/alpha-zero.md): average data labeler 이상의 intelligence를 끌어내기 위한 true RL 방법 찾기
+  - supervised finetuning으로 reasoning step들을 생성하도록 학습
+    - [MAmmoTH: Building Math Generalist Models through Hybrid Instruction Tuning](https://arxiv.org/pdf/2309.05653)
+    - [MetaMath: Bootstrap Your Own Mathematical Questions for Large Language Models](https://arxiv.org/pdf/2309.12284)
+  - reinforcement learning으로 reasoning step들을 생성하도록 학습
+    - [Math-Shepherd: Verify and Reinforce LLMs Step-by-step without Human Annotations](https://arxiv.org/pdf/2312.08935)
+    - [Teaching Large Language Models to Reason with Reinforcement Learning](https://arxiv.org/pdf/2403.04642)
+    - [DeepSeekMath: Pushing the Limits of Mathematical Reasoning in Open Language Models](https://arxiv.org/pdf/2402.03300)
+    - [Flow of Reasoning:Training LLMs for Divergent Problem Solving with Minimal Examples](https://arxiv.org/pdf/2406.05673)
+  - CoT의 token들을 symbol, pattern, text로 분류하고 역할에 맞게 concise CoT를 생성하도록 유도
+    - [Text and Patterns: For Effective Chain of Thought, It Takes Two to Tango](https://arxiv.org/pdf/2209.07686)
+  - iCoT
+    - [From Explicit CoT to Implicit CoT: Learning to Internalize CoT Step by Step](https://arxiv.org/pdf/2405.14838)
+  - sentence-level connection을 token-level connection을 보완하는 데에 사용
+    - [Sentence-level Planning for Especially Abstractive Summarization](https://aclanthology.org/2021.newsum-1.1.pdf)
+    - [Learning to Plan for Language Modeling from Unlabeled Data](https://arxiv.org/pdf/2404.00614)
+  - 문단 단위로 VAE와 diffusion 모델을 사용해 latent autoencoder representation을 예측
+    - [PLANNER: Generating Diversified Paragraph via Latent Language Diffusion Model](https://arxiv.org/pdf/2306.02531)
+  - 텍스트의 sematinc proposal을 diffusion 모델을 이용해 다음 proposal을 예측하고, decoder-only model에 적용
+    - [Diffusion Guided Language Modeling](https://arxiv.org/pdf/2408.04220)
+  - contextual token embedding space에서 diffusion을 실행하고 non-autoregressive하게 디코딩
+    - [TEncDM: Understanding the Properties of the Diffusion Model in the Space of Language Model Encodings](https://arxiv.org/pdf/2402.19097)
+  - planning token을 추가해 미래 정보에 대한 예측을 하도록 학습
+    - [Semformer: Transformer Language Models with Semantic Planning](https://arxiv.org/pdf/2409.11143)
+  - multi-step planning에 더 적합하도록 모델에 autoregressive generation이 아니라 discrete diffusion을 적용
+    - [Beyond Autoregression: Discrete Diffusion for Complex Reasoning and Planning](https://arxiv.org/pdf/2410.14157)
+  - planning 작업을 위한 diffusion 응용 사례들을 정리
+    - [Diffusion Model for Planning: A Systematic Literature Review](https://arxiv.org/pdf/2408.10266)
+  - [latent-kvcacheaug.md](https://github.com/star-bits/blog/blob/main/latent-kvcacheaug.md)
+  - [latent-multihop.md](https://github.com/star-bits/blog/blob/main/latent-multihop.md)
+  - [llm-dqo.md](https://github.com/star-bits/blog/blob/main/llm-dqo.md)
+  - [deepseek-v3.md](https://github.com/star-bits/blog/blob/main/deepseek-v3.md)
   - [latent-diffusion.md](https://github.com/star-bits/blog/blob/main/latent-diffusion.md): latent space에서 noise predictor를 steering 하기
   - [decoupled-cross.md](https://github.com/star-bits/blog/blob/main/decoupled-cross.md): decoupled cross-attention으로 텍스트와 이미지 프롬프트를 넣어주기
   - diffusion-pytorch.ipynb: Stable Diffusion from scratch in PyTorch
