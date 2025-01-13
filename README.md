@@ -10,7 +10,7 @@ Initial singularity, light elements, stars, heavier elements, Earth, humans, Gia
   - [entropy-patch.md](https://github.com/star-bits/blog/blob/main/entropy-patch.md): byte끼리 entropy를 기준으로 묶어서 patch를 만들고 token 대신 사용하기 (BLT)
   - [socratic-learning.md](https://github.com/star-bits/blog/blob/main/socratic-learning.md): language space에서의 pure recursive self-improvement
   - [thought-templates.md](https://github.com/star-bits/blog/blob/main/thought-templates.md): 해당 reasoning task에 적합한 thought template으로 RAG (BoT)
-  - 포스팅완료
+  - 포스팅완료 ---
   - [testtime-compute.md](https://github.com/star-bits/blog/blob/main/testtime-compute.md)
   - [cot-noprompting.md](https://github.com/star-bits/blog/blob/main/cot-noprompting.md)
   - [selftaught-reasoner.md](https://github.com/star-bits/blog/blob/main/selftaught-reasoner.md): (STaR)
@@ -21,7 +21,7 @@ Initial singularity, light elements, stars, heavier elements, Earth, humans, Gia
   - [process-supervision.md](https://github.com/star-bits/blog/blob/main/process-supervision.md)
   - [process-reward.md](https://github.com/star-bits/blog/blob/main/process-reward.md)
   - [o1-attempts.md](https://github.com/star-bits/blog/blob/main/o1-attempts.md): o1 replication attempts from Alibaba, Tencent, Beijing Jiaotong, DeepSeek
-  - 포스팅예정
+  - 포스팅예정 ---
   - [cot-theoretical.md](https://github.com/star-bits/blog/blob/main/cot-theoretical.md)
   - [alpha-zero.md](https://github.com/star-bits/blog/blob/main/alpha-zero.md): average data labeler 이상의 intelligence를 끌어내기 위한 true RL 방법 찾기
   - supervised finetuning으로 reasoning step들을 생성하도록 학습
