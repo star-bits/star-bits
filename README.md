@@ -10,8 +10,8 @@ Initial singularity, light elements, stars, heavier elements, Earth, humans, Gia
   - [entropy-patch.md](https://github.com/star-bits/blog/blob/main/entropy-patch.md): byte끼리 entropy를 기준으로 묶어서 patch를 만들고 token 대신 사용하기 (BLT)
   - [socratic-learning.md](https://github.com/star-bits/blog/blob/main/socratic-learning.md): language space에서의 pure recursive self-improvement
   - [thought-templates.md](https://github.com/star-bits/blog/blob/main/thought-templates.md): 해당 reasoning task에 적합한 thought template으로 RAG (BoT)
+  - [testtime-compute.md](https://github.com/star-bits/blog/blob/main/testtime-compute.md): 같은 FLOPs에서 test-time compute와 pretraining cost의 tradeoff
   - 포스팅완료 ---
-  - [testtime-compute.md](https://github.com/star-bits/blog/blob/main/testtime-compute.md)
   - [cot-noprompting.md](https://github.com/star-bits/blog/blob/main/cot-noprompting.md)
   - [selftaught-reasoner.md](https://github.com/star-bits/blog/blob/main/selftaught-reasoner.md): (STaR)
   - [quiet-star.md](https://github.com/star-bits/blog/blob/main/quiet-star.md): (Quiet-STaR)
