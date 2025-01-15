@@ -13,11 +13,11 @@ Initial singularity, light elements, stars, heavier elements, Earth, humans, Gia
   - [testtime-compute.md](https://github.com/star-bits/blog/blob/main/testtime-compute.md): 같은 FLOPs에서 test-time compute와 pretraining cost의 tradeoff 관계
   - [selftaught-reasoner.md](https://github.com/star-bits/blog/blob/main/selftaught-reasoner.md): reasoning trace 데이터셋의 self-feeding amplification loop (STaR)
   - --- 포스팅완료 ---
-  - [quiet-star.md](https://github.com/star-bits/blog/blob/main/quiet-star.md): (Quiet-STaR)
   - [rStar-Math](https://arxiv.org/pdf/2501.04519) - self-evolving SFT approach to gradually boost the data quality and process preference model (PPM) performance. RFT. samples coming from MCTS guided with PPM.
   - [process-supervision.md](https://github.com/star-bits/blog/blob/main/process-supervision.md)
-  - [process-reward.md](https://github.com/star-bits/blog/blob/main/process-reward.md)
   - [o1-attempts.md](https://github.com/star-bits/blog/blob/main/o1-attempts.md): o1 replication attempts from Alibaba, Tencent, Beijing Jiaotong, DeepSeek
+  - [quiet-star.md](https://github.com/star-bits/blog/blob/main/quiet-star.md): (Quiet-STaR)
+  - [process-reward.md](https://github.com/star-bits/blog/blob/main/process-reward.md)
   - [cot-noprompting.md](https://github.com/star-bits/blog/blob/main/cot-noprompting.md)
   - [AceMath](https://arxiv.org/pdf/2412.15084) - RejectionFT to scale up all the SFT dataset to massive size based on the verifiable answer matching
   - [PRIME](https://arxiv.org/pdf/2412.01981) - PPO. on how to assign the outcome's reward to each intermediate steps.
