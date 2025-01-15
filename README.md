@@ -15,12 +15,12 @@ Initial singularity, light elements, stars, heavier elements, Earth, humans, Gia
   - [selftaught-reasoner.md](https://github.com/star-bits/blog/blob/main/selftaught-reasoner.md): (STaR)
   - [quiet-star.md](https://github.com/star-bits/blog/blob/main/quiet-star.md): (Quiet-STaR)
   - [rStar-Math](https://arxiv.org/pdf/2501.04519) - self-evolving SFT approach to gradually boost the data quality and process preference model (PPM) performance. RFT. samples coming from MCTS guided with PPM.
-  - [AceMath](https://arxiv.org/pdf/2412.15084) - RejectionFT to scale up all the SFT dataset to massive size based on the verifiable answer matching
-  - [cot-noprompting.md](https://github.com/star-bits/blog/blob/main/cot-noprompting.md)
-  - [PRIME](https://arxiv.org/pdf/2412.01981) - PPO. on how to assign the outcome's reward to each intermediate steps.
   - [process-supervision.md](https://github.com/star-bits/blog/blob/main/process-supervision.md)
   - [process-reward.md](https://github.com/star-bits/blog/blob/main/process-reward.md)
   - [o1-attempts.md](https://github.com/star-bits/blog/blob/main/o1-attempts.md): o1 replication attempts from Alibaba, Tencent, Beijing Jiaotong, DeepSeek
+  - [cot-noprompting.md](https://github.com/star-bits/blog/blob/main/cot-noprompting.md)
+  - [AceMath](https://arxiv.org/pdf/2412.15084) - RejectionFT to scale up all the SFT dataset to massive size based on the verifiable answer matching
+  - [PRIME](https://arxiv.org/pdf/2412.01981) - PPO. on how to assign the outcome's reward to each intermediate steps.
   - --- 포스팅예정 ---
   - [cot-theoretical.md](https://github.com/star-bits/blog/blob/main/cot-theoretical.md)
   - [alpha-zero.md](https://github.com/star-bits/blog/blob/main/alpha-zero.md): average data labeler 이상의 intelligence를 끌어내기 위한 true RL 방법 찾기
