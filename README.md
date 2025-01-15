@@ -11,8 +11,8 @@ Initial singularity, light elements, stars, heavier elements, Earth, humans, Gia
   - [socratic-learning.md](https://github.com/star-bits/blog/blob/main/socratic-learning.md): language space에서의 pure recursive self-improvement
   - [thought-templates.md](https://github.com/star-bits/blog/blob/main/thought-templates.md): 해당 reasoning task에 적합한 thought template으로 RAG 하기 (BoT)
   - [testtime-compute.md](https://github.com/star-bits/blog/blob/main/testtime-compute.md): 같은 FLOPs에서 test-time compute와 pretraining cost의 tradeoff 관계
+  - [selftaught-reasoner.md](https://github.com/star-bits/blog/blob/main/selftaught-reasoner.md): reasoning trace 데이터셋의 self-feeding amplification loop (STaR)
   - --- 포스팅완료 ---
-  - [selftaught-reasoner.md](https://github.com/star-bits/blog/blob/main/selftaught-reasoner.md): (STaR)
   - [quiet-star.md](https://github.com/star-bits/blog/blob/main/quiet-star.md): (Quiet-STaR)
   - [rStar-Math](https://arxiv.org/pdf/2501.04519) - self-evolving SFT approach to gradually boost the data quality and process preference model (PPM) performance. RFT. samples coming from MCTS guided with PPM.
   - [process-supervision.md](https://github.com/star-bits/blog/blob/main/process-supervision.md)
