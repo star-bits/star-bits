@@ -12,18 +12,24 @@ Initial singularity, light elements, stars, heavier elements, Earth, humans, Gia
   - [thought-templates.md](https://github.com/star-bits/blog/blob/main/thought-templates.md): 해당 reasoning task에 적합한 thought template으로 RAG 하기 (BoT)
   - [testtime-compute.md](https://github.com/star-bits/blog/blob/main/testtime-compute.md): 같은 FLOPs에서 test-time compute와 pretraining cost의 tradeoff 관계
   - [selftaught-reasoner.md](https://github.com/star-bits/blog/blob/main/selftaught-reasoner.md): reasoning trace 데이터셋의 self-feeding amplification loop (STaR)
+  - rstar-math.md: (rStar-Math)
+  - still-2.md: (STILL-2)
   - --- 포스팅완료 ---
-  - [rStar-Math](https://arxiv.org/pdf/2501.04519) - self-evolving SFT approach to gradually boost the data quality and process preference model (PPM) performance. RFT. samples coming from MCTS guided with PPM.
-  - [process-supervision.md](https://github.com/star-bits/blog/blob/main/process-supervision.md)
-  - [o1-attempts.md](https://github.com/star-bits/blog/blob/main/o1-attempts.md): o1 replication attempts from Alibaba, Tencent, Beijing Jiaotong, DeepSeek
-  - [quiet-star.md](https://github.com/star-bits/blog/blob/main/quiet-star.md): (Quiet-STaR)
-  - [process-reward.md](https://github.com/star-bits/blog/blob/main/process-reward.md)
-  - [cot-noprompting.md](https://github.com/star-bits/blog/blob/main/cot-noprompting.md)
-  - [AceMath](https://arxiv.org/pdf/2412.15084) - RejectionFT to scale up all the SFT dataset to massive size based on the verifiable answer matching
-  - [PRIME](https://arxiv.org/pdf/2412.01981) - PPO. on how to assign the outcome's reward to each intermediate steps.
-  - --- 포스팅예정 ---
-  - [cot-theoretical.md](https://github.com/star-bits/blog/blob/main/cot-theoretical.md)
-  - [alpha-zero.md](https://github.com/star-bits/blog/blob/main/alpha-zero.md): average data labeler 이상의 intelligence를 끌어내기 위한 true RL 방법 찾기
+  - process-supervision
+    - [Let’s Verify Step by Step](https://arxiv.org/pdf/2305.20050)
+  - o1 replication attempts
+    - [Marco-o1: Towards Open Reasoning Models for Open-Ended Solutions](https://arxiv.org/pdf/2411.14405)
+    - [QwQ: Reflect Deeply on the Boundaries of the Unknown](https://qwenlm.github.io/blog/qwq-32b-preview/)
+    - [DRT-o1: Optimized Deep Reasoning Translation via Long Chain-of-Thought](https://arxiv.org/pdf/2412.17498)
+    - [o1-Coder: an o1 Replication for Coding](https://arxiv.org/pdf/2412.00154)
+    - [DeepSeek-R1, a transparent challenger to OpenAI o1](https://www.deeplearning.ai/the-batch/deepseek-r1-a-transparent-challenger-to-openai-o1/)
+    - [Scaling of Search and Learning: A Roadmap to Reproduce o1 from Reinforcement Learning Perspective](https://arxiv.org/pdf/2412.14135)
+  - Quiet-STaR
+    - [Quiet-STaR: Language Models Can Teach Themselves to Think Before Speaking](https://arxiv.org/pdf/2403.09629)
+  - average data labeler 이상의 intelligence를 끌어내기 위한 true RL 방법 찾기
+    - [AlphaZero: Shedding new light on chess, shogi, and Go](https://deepmind.google/discover/blog/alphazero-shedding-new-light-on-chess-shogi-and-go/)
+    - [A general reinforcement learning algorithm that masters chess, shogi and Go through self-play](https://storage.googleapis.com/deepmind-media/DeepMind.com/Blog/alphazero-shedding-new-light-on-chess-shogi-and-go/alphazero_preprint.pdf)
+    - [Mastering Chess and Shogi by Self-Play with a General Reinforcement Learning Algorithm](https://arxiv.org/pdf/1712.01815)
   - supervised finetuning으로 reasoning step들을 생성하도록 학습
     - [MAmmoTH: Building Math Generalist Models through Hybrid Instruction Tuning](https://arxiv.org/pdf/2309.05653)
     - [MetaMath: Bootstrap Your Own Mathematical Questions for Large Language Models](https://arxiv.org/pdf/2309.12284)
@@ -45,16 +51,11 @@ Initial singularity, light elements, stars, heavier elements, Earth, humans, Gia
     - [Diffusion Guided Language Modeling](https://arxiv.org/pdf/2408.04220)
   - contextual token embedding space에서 diffusion을 실행하고 non-autoregressive하게 디코딩
     - [TEncDM: Understanding the Properties of the Diffusion Model in the Space of Language Model Encodings](https://arxiv.org/pdf/2402.19097)
-  - planning token을 추가해 미래 정보에 대한 예측을 하도록 학습
-    - [Semformer: Transformer Language Models with Semantic Planning](https://arxiv.org/pdf/2409.11143)
   - multi-step planning에 더 적합하도록 모델에 autoregressive generation이 아니라 discrete diffusion을 적용
     - [Beyond Autoregression: Discrete Diffusion for Complex Reasoning and Planning](https://arxiv.org/pdf/2410.14157)
   - planning 작업을 위한 diffusion 응용 사례들을 정리
     - [Diffusion Model for Planning: A Systematic Literature Review](https://arxiv.org/pdf/2408.10266)
-  - [latent-kvcacheaug.md](https://github.com/star-bits/blog/blob/main/latent-kvcacheaug.md)
-  - [latent-multihop.md](https://github.com/star-bits/blog/blob/main/latent-multihop.md)
-  - [llm-dqo.md](https://github.com/star-bits/blog/blob/main/llm-dqo.md)
-  - [deepseek-v3.md](https://github.com/star-bits/blog/blob/main/deepseek-v3.md)
+  - --- 포스팅예정 ---
   - [latent-diffusion.md](https://github.com/star-bits/blog/blob/main/latent-diffusion.md): latent space에서 noise predictor를 steering 하기
   - [decoupled-cross.md](https://github.com/star-bits/blog/blob/main/decoupled-cross.md): decoupled cross-attention으로 텍스트와 이미지 프롬프트를 넣어주기
   - diffusion-pytorch.ipynb: Stable Diffusion from scratch in PyTorch
