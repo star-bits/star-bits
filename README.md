@@ -12,7 +12,7 @@ Initial singularity, light elements, stars, heavier elements, Earth, humans, Gia
   - [thought-templates.md](https://github.com/star-bits/blog/blob/main/thought-templates.md): 해당 reasoning task에 적합한 thought template으로 RAG 하기 (BoT)
   - [testtime-compute.md](https://github.com/star-bits/blog/blob/main/testtime-compute.md): 같은 FLOPs에서 test-time compute와 pretraining cost의 tradeoff 관계
   - [selftaught-reasoner.md](https://github.com/star-bits/blog/blob/main/selftaught-reasoner.md): reasoning trace 데이터셋의 self-feeding amplification loop (STaR)
-  - rstar-math.md: PRM for code augmented verified reasoning trajectories (rStar-Math)
+  - [rstar-math.md](https://github.com/star-bits/blog/blob/main/rstar-math.md): PRM for code-augmented verified reasoning trajectories (rStar-Math)
   - still-2.md: (STILL-2)
   - --- 포스팅완료 ---
   - process-supervision
