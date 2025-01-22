@@ -15,7 +15,6 @@ Initial singularity, light elements, stars, heavier elements, Earth, humans, Gia
   - [rstar-math.md](https://github.com/star-bits/blog/blob/main/rstar-math.md): PRM for code-augmented verified reasoning trajectories (rStar-Math)
   - [latent-diffusion.md](https://github.com/star-bits/blog/blob/main/latent-diffusion.md): latent space에서 noise predictor를 steering 하기
   - [decoupled-cross.md](https://github.com/star-bits/blog/blob/main/decoupled-cross.md): decoupled cross-attention으로 텍스트와 이미지 프롬프트를 넣어주기
-  - diffusion-pytorch.ipynb: Stable Diffusion from scratch in PyTorch
 - sogangparrot
   - [nn.md](https://github.com/star-bits/sogangparrot/blob/main/nn.md): 딥러닝 뉴럴넷 세션 발표자료
   - [nlp.md](https://github.com/star-bits/sogangparrot/blob/main/nlp.md): 딥러닝 NLP 세션 발표자료
