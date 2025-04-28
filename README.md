@@ -1,1 +1,1 @@
-Initial singularity → Light elements → ⭐ Stars → Heavier elements → 🌏 Earth → 👫 Humans → 👣 Giants → ⚡🧠 Intelligence
+✨ hydrogen and helium → ⭐ stars → 🌏 Earth → 👫 humans → 👣 Giants → ⚡🧠 intelligence
