@@ -1,1 +1,1 @@
-✨ hydrogen and helium → ⭐ stars → 🌏 Earth → 👫 humans → 👣 Giants → ⚡🧠 intelligence
+✨ hydrogen and helium → ⭐ stars → 🌏 earth → 👫 humans → 👣 giants → ⚡🧠 intelligence
